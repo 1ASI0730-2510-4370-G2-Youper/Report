@@ -1,7 +1,7 @@
 <div align ="center">
 
 # Informe del Trabajo Final
-![imagenBaner](images/Banner-UPC.png)
+![imagenBaner](resources/Banner-UPC.png)
 
 ## Universidad Peruana de Ciencias Aplicadas
 ### Ingeniería de Software 💻
