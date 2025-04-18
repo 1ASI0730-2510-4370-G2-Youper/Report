@@ -130,21 +130,12 @@
 
 ### 2.3.3. User Journey Mapping
 
-<<<<<<< HEAD
+
 ![Image_Journey_Mapping](resources/USER_JOURNEY_MAPPING.png)
 
 ### 2.3.4. Empathy Mapping
-
 #### Se presentan los tres Empathy Mapping, uno para cada segmento objetivo en el cual se empatiza con el tipo de usuario.
 
-=======
-![image_journey_mapping](resources/USER_JOURNEY_MAPPING.png)
-
-
-
-### 2.3.4. Empathy Mapping
-#### Se presentan los tres Empathy Mapping, uno para cada segmento objetivo en el cual se empatiza con el tipo de usuario.
->>>>>>> main
 #### * User Empathy Mapping joven
 ![image_empathy_mapping_1](resources/UTM_S1.png)
 #### * User Empathy Mapping adulto
