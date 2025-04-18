@@ -114,3 +114,24 @@
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
+
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+![image_User_Persona_1](resources/User_Personas.png)
+
+### 2.3.2. User Task Matrix
+#### * User Task matrix joven
+![image_user_task_matrix_1](resources/UTM_S1.png)
+#### * User Task matrix adulto
+![image_user_task_matrix_2](resources/UTM_S2.png)
+#### * User Task matrix psicóloga
+![image_user_task_matrix_3](resources/UTM_S3.png)
+
+### 2.3.3. User Journey Mapping
+
+#### * User Matrix
+
+![image_user_matrix](resources/USER_MATRIX.png)
