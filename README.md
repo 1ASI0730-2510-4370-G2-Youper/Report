@@ -123,15 +123,23 @@
 ![image_User_Persona_1](resources/User_Personas.png)
 
 ### 2.3.2. User Task Matrix
-#### * User Task matrix joven
-![image_user_task_matrix_1](resources/UTM_S1.png)
-#### * User Task matrix adulto
-![image_user_task_matrix_2](resources/UTM_S2.png)
-#### * User Task matrix psicóloga
-![image_user_task_matrix_3](resources/UTM_S3.png)
+
+#### Se presenta cada tarea con su Frecuencia e importancia segun el tipo de usuario, Customer o Proveedor, en el cual podemos identificar las prioridades segun tipo de user.
+
+![image_user_matrix](resources/USER_MATRIX.png)
 
 ### 2.3.3. User Journey Mapping
 
-#### * User Matrix
+![Image_Journey_Mapping](resources/USER_JOURNEY_MAPPING.png)
 
-![image_user_matrix](resources/USER_MATRIX.png)
+### 2.3.4. Empathy Mapping
+
+#### Se presentan los tres Empathy Mapping, uno para cada segmento objetivo en el cual se empatiza con el tipo de usuario.
+
+#### * User Empathy Mapping joven
+![image_empathy_mapping_1](resources/UTM_S1.png)
+#### * User Empathy Mapping adulto
+![image_empathy_mapping_2](resources/UTM_S2.png)
+#### * User Empathy Mapping psicóloga
+![image_empathy_mapping_3](resources/UTM_S3.png)
+
