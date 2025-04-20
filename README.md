@@ -115,6 +115,16 @@
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
 
+### 1.1.2. Perfiles de integrantes del equipo
+
+| Integrante | Descripción |
+|-|-|
+| |  |
+| <img src="resources/PedroNanfuñay_Profile.jpg"> | Me llamo Pedro Jesús Nanfuñay Liza, estudiante de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y siempre dispuesto a trabajar en equipo. Tengo conocimientos en lenguajes de programación como C++ y Python; en desarrollo web como HTML, CSS y JavaScript; en base de datos relacionales y no relacionales como SQL y MongoDB; y en frameworks como Angular y PrimeVue. Espero poder aportar de manera positiva al equipo y cumplir con los objetivos establecidos. |
+| |  |
+| |  |
+| |  |
+| |  |
 
 ## 2.3. Needfinding
 
