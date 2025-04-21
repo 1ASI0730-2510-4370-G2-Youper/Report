@@ -126,6 +126,20 @@
 | |  |
 | |  |
 
+## 1.2. Solution Profile
+
+### 1.2.1 Antecedentes y problemática
+
+| LAS 5W y 2H | Pregunta | Descripción |
+|-------------|----------|-------------|
+| What? | ¿Cuál es el problema?  | La falta de acceso oportuno, económico y personalizado a procesos terapéuticos, agravada por barreras como el costo, el tiempo y la escasa disponibilidad de atención profesional. Esto impide que muchas personas enfrenten adecuadamente sus problemas de salud mental. |
+| Why? | ¿Cuál es la causa del problema? | La causa del problema surge de diversos factores personales, como los antecedentes familiares, experiencias traumáticas, consumo de sustancias, estigmatización, y factores sociales recientes como la pandemia del Covid-19, que aumentó un 25% la prevalencia mundial de ansiedad y depresión (OMS, 2022). |
+| When? | ¿Cuándo surge el problema? | Aunque el problema ha existido desde hace años, se intensificó notablemente durante la pandemia de Covid-19, donde el confinamiento, el aislamiento social y la incertidumbre provocaron un fuerte impacto en la salud emocional a nivel global. |
+| Where? | ¿Dónde surge el problema? | El problema tiene un alcance global, con mayor impacto en situaciones de pobreza extrema, experiencias traumáticas, o en regiones donde el acceso a un proceso terapéutico sea escaso. Según la última edición del Atlas de Salud Mental de la OMS reveló que en 2020 los gobiernos de todo el mundo destinaron a la salud, por término medio, poco más del 2% de sus presupuestos de salud, y numerosos países de ingresos bajos comunicaron disponer de menos de un trabajador de salud mental por cada 100 000 habitantes. (OMS, 2022) |
+| Who? | ¿Quiénes son afectados? | Los principales afectados son los jóvenes y adultos que enfrentan altos niveles de estrés, ansiedad, o dificultades emocionales y no cuentan con recursos o tiempo suficiente para recibir atención profesional. En el caso de los niños o adolescentes, la pandemia afectó el proceso de socialización y de educabilidad, informa Campodónico. (Redacción National Geographic, 2022) |
+| How? | ¿Cómo se manifiesta el problema? | A través de la falta de soluciones digitales enfocadas en facilitar el acompañamiento terapéutico continuo. Las iniciativas existentes suelen ser costosas  o poco adaptadas a las realidades emocionales de los usuarios. |
+| How Much? | ¿Cuál es la magnitud del problema? | A nivel personal, puede derivar en trastornos crónicos, aislamiento o riesgo suicida que fueron causas de experiencias tales como la pérdida del empleo, distanciamiento social, fallecimiento de seres cercanos o el temor a contagiar a otros . A nivel social, genera sobrecarga en los sistemas de salud, pérdida de productividad y deterioro del bienestar general. |
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
