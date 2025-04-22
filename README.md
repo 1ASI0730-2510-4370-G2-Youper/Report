@@ -133,7 +133,7 @@
 |-|-|
 | |  |
 | <img src="resources/PedroNanfuñay_Profile.jpg"> | Me llamo Pedro Jesús Nanfuñay Liza, estudiante de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y siempre dispuesto a trabajar en equipo. Tengo conocimientos en lenguajes de programación como C++ y Python; en desarrollo web como HTML, CSS y JavaScript; en base de datos relacionales y no relacionales como SQL y MongoDB; y en frameworks como Angular y PrimeVue. Espero poder aportar de manera positiva al equipo y cumplir con los objetivos establecidos. |
-| |  |
+| <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
 | |  |
 | |  |
 | |  |
