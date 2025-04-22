@@ -16,7 +16,7 @@
     * Tantaleán Mesta Guillermo Fabián U202311958
     * Tasayco Osorio Raul Hiroshi U202319415
     * Nanfuñay Liza Pedro Jesús U202215462
-    * null
+    * Berrospi Marin Angel Guillermo U202114701
     * null
 
 <div>
@@ -114,7 +114,30 @@
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
+## 1.2.2 Lean Ux Process
 
+## 1.2.2.1. Lean Ux Problem Statment
+###
+Para los adultos jóvenes y profesionales con alta carga laboral que sufren de ansiedad, estrés, baja autoestima y otros transtornos emocionales, quienes enfrentan barreras como el costo elevado, la estigmación y la falta de acceso a atención de salud mental adecuada, el problema es que no tienen acceso a una solución personalizada, accesible y efectiva que se adapte a sus necesidades emocionales y les brinde apoyo emocional continuo.
+
+## 1.2.2.2. Lean UX Assumptions
+### 
+- Assumptions 1: Los usuarios tienen dificultades para acceder a atención de salud mental debido a 
+barreras como el costo, la estigmación o la falta de tiempo.
+- Assumptions 2: Las herramientas digitales, como la inteligencia artificial y la terapia cognitivo-conductual, pueden ser efectivas para mejorar el bienestar emocional de los usuarios si están bien personalizadas y adaptadas.
+- Assumptions 3: Los usuarios valoran la personalización de su experiencia, como la adaptación a sus necesidades emocionales y su progreso.
+- Assumptions 4: El seguimiento constante de las emociones, la meditación, los ejercicios de respiración y el uso de sonidos relajantes ayudan a reducir los niveles de estrés y mejorar la calidad de vida.
+- Assumptions 5: La integración de herramientas para que los profesionales de salud mental sigan el progreso de sus pacientes, aumenta la efectividad de la intevención y el bienestar a largo plazo.
+  
+## 1.2.2.3. Lean UX Hypothesis Statements
+###
+- Hypothesis 1: Si los usuarios pueden acceder a un acompañamiento emocional personalizado, basado en inteligencia artificial y TCC, entonces experimentarán una mejora significativa en su bienestar emocional.
+- Hypothesis 2: Si los usuarios tienen la opción de personalizar su experiencia en la plataforma, adaptándola a sus necesidades emocionales específicas, entonces se comprometerán más con la aplicación y continuarán usándola a largo plazo.
+- Hypothesis 3: Si Youper permite a los profesionales de salud mental realizar un seguimiento eficaz del progreso de sus pacientes, entonces los pacientes tendrán un mejor manejo de su salud mental y se sentirán más apoyados.
+- Hypothesis 4: Si se integran funcionalidades como meditaciones guiadas, música relajante y sonidos de naturaleza, los usuarios experimentarán una reducción del estrés y una mejora en la calidad del sueño.
+
+## 1.2.2.4. Lean UX Canvas
+![image_Lean_Ux_Canvas](resources/Lean_Ux_Canvas.jpg)
 
 ## 2.3. Needfinding
 
