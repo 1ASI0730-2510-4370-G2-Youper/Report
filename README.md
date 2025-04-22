@@ -115,6 +115,18 @@
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
 
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+
+**MyMind** es una startup innovadora que está enfocada en impulsar y transformar el cuidado de la salud mental. A través de nuestra plataforma Youper, se permitirá a los usuarios mejorar y gestionar su bienestar emocional a través de herramientas digitales y el seguimiento personalizado adaptado a las necesidades individuales de cada usuario.
+
+**Misión:** Promover el bienestar emocional a las personas mediante una plataforma digital personalizada, accesible y basada en evidencia, que integre tecnología y acompañamiento terapéutico para mejorar la calidad de vida de los usuarios.
+
+**Visión:** Ser referentes en innovación tecnológica para la salud mental, con el objetivo de facilitar el acceso a herramientas digitales que fomenten el autocuidado, el desarrollo personal y emocional y una sociedad más empática y saludable
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Integrante | Descripción |
