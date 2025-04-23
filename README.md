@@ -204,3 +204,56 @@ barreras como el costo, la estigmación o la falta de tiempo.
 #### * User Empathy Mapping psicóloga
 ![image_empathy_mapping_3](resources/UTM_S3.png)
 
+### 2.3.5. As-is Scenario Mapping.
+
+
+## 2.4. Ubiquitous Language
+
+En **Domain-Driven Design (DDD)**, el “**Ubiquitous Language**” consiste en definir un vocabulario compartido que sea comprendido por todo el equipo: desarrolladores, diseñadores, expertos en salud mental y usuarios clave. Este lenguaje común garantiza claridad conceptual y facilita la implementación técnica coherente con el dominio del problema.
+
+**Usuario (User):**  
+Persona que utiliza la aplicación para mejorar su bienestar emocional. Puede ser un joven adulto, un adulto con estrés laboral o un especialista en salud mental.
+
+**Estado Emocional (Emotional State):**  
+Representación actual del estado anímico del usuario, basado en su autopercepción y en datos recogidos por el sistema.
+
+**Módulo Terapéutico (Therapeutic Module):**  
+Conjunto de actividades, ejercicios o contenidos diseñados para abordar un tema específico como ansiedad, autoestima, relaciones, estrés o sueño.
+
+**Ruta Personalizada (Personalized Path):**  
+Secuencia adaptativa de módulos y ejercicios recomendados por el sistema según el perfil y estado emocional del usuario.
+
+**Ejercicio Emocional (Emotional Exercise):**  
+Actividades prácticas como meditación, respiración guiada, escritura terapéutica o visualizaciones que ayudan a regular emociones.
+
+**Seguimiento Emocional (Emotional Tracking):**  
+Registro regular de emociones que permite analizar el progreso del usuario y ajustar recomendaciones.
+
+**Diario Emocional (Emotional Journal):**  
+Espacio personal donde el usuario escribe sobre su día, emociones y reflexiones como parte del proceso terapéutico.
+
+**Especialista (Specialist):**  
+Profesional de la salud mental que utiliza la plataforma para hacer seguimiento del progreso emocional de sus pacientes, interpretar métricas e intervenir si es necesario.
+
+**Alerta de Riesgo Emocional (Emotional Risk Alert):**  
+Notificación automática que se activa cuando se detectan señales de deterioro emocional o patrones de riesgo.
+
+**Sesión Terapéutica (Therapeutic Session):**  
+Encuentro estructurado entre el especialista y el paciente, ya sea presencial o digital, registrado en la plataforma.
+
+**IoT Emocional (Emotional IoT):**  
+Dispositivos inteligentes que recogen datos físicos del usuario (frecuencia cardíaca, calidad del sueño, etc.) para enriquecer el análisis emocional.
+
+**Panel de Bienestar (Wellness Dashboard):**  
+Interfaz donde se visualizan indicadores clave del estado emocional, progreso en módulos y recomendaciones activas.
+
+# Capítulo III: Requeriments Specification
+## 3.1. To-Be Scenario Mapping. 
+
+En esta sección, se detallan las fases principales del proceso optimizado de acompañamiento emocional mediante la aplicación **Youper**, diseñada para atender las necesidades específicas de cada segmento de usuario. Se explica cómo la automatización inteligente, el análisis emocional en tiempo real y la personalización dinámica transforman la experiencia del usuario. Esta estrategia permite que tanto los usuarios como los especialistas en salud mental puedan enfocarse en el bienestar emocional con mayor eficacia, tomando decisiones más informadas y centradas en datos emocionales recolectados de forma continua.
+
+## 3.2. User Stories. 
+## 3.3. Impact Mapping. 
+## 3.4. Product Backlog. 
+
+
