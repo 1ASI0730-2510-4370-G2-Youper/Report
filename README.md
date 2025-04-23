@@ -252,6 +252,19 @@ Interfaz donde se visualizan indicadores clave del estado emocional, progreso en
 
 En esta sección, se detallan las fases principales del proceso optimizado de acompañamiento emocional mediante la aplicación **Youper**, diseñada para atender las necesidades específicas de cada segmento de usuario. Se explica cómo la automatización inteligente, el análisis emocional en tiempo real y la personalización dinámica transforman la experiencia del usuario. Esta estrategia permite que tanto los usuarios como los especialistas en salud mental puedan enfocarse en el bienestar emocional con mayor eficacia, tomando decisiones más informadas y centradas en datos emocionales recolectados de forma continua.
 
+### Segmento 1: Jóvenes Adultos en búsqueda de regulación emocional y autoconocimiento
+![image_empathy_mapping_1](resources/ScenarioMap1.png)
+
+### Segmento 2: Adultos Profesionales con Estrés Crónico y Alteraciones del Sueño
+![image_empathy_mapping_1](resources/ScenarioMap2.png)
+
+### Segmento 3: Especialistas en Salud Mental que optimizan el acompañamiento terapéutico digital
+![image_empathy_mapping_1](resources/ScenarioMap3.1.png)
+
+
+
+
+
 ## 3.2. User Stories. 
 ## 3.3. Impact Mapping. 
 ## 3.4. Product Backlog. 
