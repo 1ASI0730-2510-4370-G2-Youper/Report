@@ -269,4 +269,10 @@ En esta sección, se detallan las fases principales del proceso optimizado de ac
 ## 3.3. Impact Mapping. 
 ## 3.4. Product Backlog. 
 
+# Capítulo IV: Product Design
 
+## 4.1. Style Guidelines
+
+### 4.1.1. General Style Guidelines
+
+Las Style Guidelines son un conjunto de reglas fundamentales que definen y detallan los elementos de diseño y comunicación de un proyecto para asegurar una comunicación visual coherente y profesional. Para Youper, definiremos criterios como colores, tipografía y estructura para diseñar la landing page y web application.
