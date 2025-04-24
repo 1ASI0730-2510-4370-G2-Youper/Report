@@ -273,6 +273,90 @@ En esta sección, se detallan las fases principales del proceso optimizado de ac
 
 ## 4.1. Style Guidelines
 
+Las Style Guidelines son un conjunto de reglas fundamentales que definen y detallan los elementos de diseño y comunicación de un proyecto para asegurar una comunicación visual coherente y profesional. Para Youper, definiremos criterios como colores, tipografía y estructura para diseñar la landing page y web application.
+
 ### 4.1.1. General Style Guidelines
 
-Las Style Guidelines son un conjunto de reglas fundamentales que definen y detallan los elementos de diseño y comunicación de un proyecto para asegurar una comunicación visual coherente y profesional. Para Youper, definiremos criterios como colores, tipografía y estructura para diseñar la landing page y web application.
+**Branding:**
+<br>Para la creación del logo de nuestro producto Youper, se ha optado por un diseño minimalista que refleja el objetivo de la aplicación. El aspecto del logo se compone del ícono de una hoja con detalles de ramas de un cerebro, lo que refleja la vida y el bienestar, acompañado de un corazón que refleja el bienestar y amor propio.
+
+<img src="resources/Logo_Youper.png" alt="Logo_Youper" width="300" height="300">
+
+<br>**Typography:**
+<br>Para la elección de las tipografías que utilizaremos para Youper, se han seleccionado fuentes simples y modernas que transmitan la estética de la aplicación. A continuación, se presentan las tipografías utilizadas para Youper:
+
+<br>- **Mada:** Tipografía de estilo árabe modernista. Se caracteriza por descendentes bajos, contornos abiertos y formas de bajo contraste, lo que lo hace adecuado para señalización, tamaños de punto pequeños e interfaces de usuario. Transmite un sentimiento modernista y simplista.
+
+<br>![Mada Font](resources/Mada_Font.webp) <br>
+
+<br>- **Koulen:** Fuente tipográfica ideal para titulares, títulos y subtítulos, e incluso diseños de banners. Sus características los hacen ideales para crear texto impactante y atractivo. <br>
+
+<br>![Koulen Font](resources/Koulen_Font.webp) <br>
+
+**Colors:**
+<br>Los colores son los encargados de brindar la primera percepción visual de los usuarios. En este contexto, la paleta de colores seleccionados para Youper está conformada por morado como tonalidad principal, que simboliza el pensamiento, delicadeza y espiritualidad. Por otro lado, el color amarillo simboliza la alegría, optimismo y la creatividad. Como tonalidades secundarias se hace uso de variedades cromáticas del color blanco, negro y plomo. Esta paleta asegura que se transmita un mensaje positivo a los usuarios.
+
+<br>A continuación se presentan los colores seleccionados:
+
+<br>- **Cool Gray (#A1A4C7):** Un tono gris suave con matices azulados que transmite calma, profesionalismo y modernidad.
+
+<br>![Cool Gray Color](resources/Coolgray_Color.PNG)
+
+<br>- **Lavender (web) (#D4D7F2):** Un púrpura claro con matices rosados, asociado a la delicadeza, tranquilidad y creatividad.
+
+<br>![Lavender Color](resources/Lavender_Color.PNG)
+
+<br>- **Xanthous (#FFC965):** Un amarillo vibrante con matices dorados que transmite energía, optimismo y calidez.
+
+<br>![Xanthous Color](resources/Xanthous_Color.PNG)
+
+<br>- **Hundayi yellow (#F6B253):** Un amarillo fuerte y moderno. Transmite innovación y visibilidad.
+
+<br>![Hundayi Yellow Color](resources/HundayiYellow_Color.PNG)
+
+<br>- **White smoke (#F2F2F2):** Un blanco grisáceo muy tenue, que brinda una sensación de limpieza, suavidad y ligereza.
+
+<br>![White Smoke Color](resources/WhiteSmoke_Color.PNG)
+
+<br>- **Jet (#353531):** Un negro profundo con ligeros toques grisáceos, que representa elegancia, misterio y firmeza.
+
+<br>![Jet Color](resources/Jet_Color.PNG)
+
+<br>- **Black (#000000):** El color más oscuro. Transmite sofisticación, poder y sobriedad.
+
+<br>![Black Color](resources/Black_Color.PNG)
+
+<br>- **Silver (#A4A2A2):** Un gris metálico brillante que representa modernidad, tecnología y elegancia con un toque futurista.
+
+<br>![Silver Color](resources/Silver_Color.PNG)
+
+<br>**Spacing:**
+<br>Youper está diseñado para ofrecer una experiencia visual relajante y emocionalmente armoniosa. A continuación, se detallan las especificaciones de espaciado recomendadas para lograr una interfaz accesible, clara y centrada en el bienestar del usuario:
+
+<br>**Espaciado entre líneas (line-height):**<br>
+<br>**- Texto de cuerpo:**
+<br>El espaciado entre líneas debe ser de 1.5 a 1.7 veces el tamaño de la fuente. Este rango brinda una sensación de amplitud y calma visual, facilitando la lectura sin generar fatiga ocular.
+
+<br>**Espaciado entre párrafos:**<br>
+<br>- **Margen inferior:**
+<br>Cada párrafo debe tener un margen inferior de al menos 130% del tamaño de la fuente. Esta separación ayuda a procesar cada bloque de contenido como una idea completa, favoreciendo la comprensión emocional y cognitiva.
+
+<br>**Margen y espaciado alrededor de elementos de la interfaz:**<br>
+<br>- **Espacio entre componentes de UI (cards, botones, inputs, etc.):**
+<br>Mantener mínimo 24 píxeles de separación. Este margen promueve una sensación de orden y reduce la sobrecarga cognitiva, especialmente en secciones densas o funcionales.
+
+<br>**Espaciado entre secciones o módulos:**<br>
+<br>**- Margen superior e inferior:**
+<br>Debe aplicarse un margen de mínimo 60 píxeles entre bloques de contenido o secciones temáticas. Esto refuerza una estructura clara y ayuda a separar emocionalmente los distintos momentos de navegación (ej. exploración, reflexión, acción).
+
+<br>**Espaciado entre elementos de menú y navegación:**<br>
+<br>**- Espacio horizontal entre ítems de menú:**
+<br>Cada elemento debe tener al menos 18 píxeles de espacio lateral. Esta distancia mejora la precisión al interactuar y brinda una apariencia limpia y accesible, incluso desde dispositivos móviles.
+
+<br>**Espaciado alrededor de imágenes e ilustraciones:**<br>
+<br>- **Margen alrededor de recursos visuales:**
+<br>Las imágenes, íconos y gráficos deben tener un margen mínimo de 25 píxeles alrededor. Esto refuerza su rol como elementos de apoyo emocional o informativo, sin invadir el texto.
+
+<br>**Espaciado en el pie de página (footer):**<br>
+<br>- **Margen superior e inferior:**
+<br>El pie de página debe estar separado del contenido principal con un espacio de entre 50 a 70 píxeles. Esto le da aire y evita que se perciba como una extensión aglomerada del contenido anterior.
