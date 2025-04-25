@@ -484,6 +484,15 @@ Las Style Guidelines son un conjunto de reglas fundamentales que definen y detal
 <br>- **Margen superior e inferior:**
 <br>El pie de página debe estar separado del contenido principal con un espacio de entre 50 a 70 píxeles. Esto le da aire y evita que se perciba como una extensión aglomerada del contenido anterior.
 
+### 4.1.2. Web Style Guidelines
+
+Para Youper, planeamos desarrollar una plataforma web que tenga un enfoque de elegancia y sencillez que ofrezca una experiencia cómoda y eficiente para los usuarios. Por lo tanto, implementaremos un diseño adaptable (conocido como Web Responsive Design) con el objetivo de optimizar la presentación de la información en cualquier dispositivo. Esto asegurará que el contenido se mantenga intacto.
+
+- **Panel de control principal:** Los usuarios podrán visualizar su panel de control personal que le permitirá gestionar sus emociones del día, así como acceso a botones que lo llevarán a las herramientas que ofrece la aplicación.
+- **Herramientas de apoyo:** Se le ofrecerá al usuario muchas herramientas que lo apoyarán a llevar y gestionar sus emociones de manera más eficiente, utilizando guías paso a paso como documentos, videos, ejercicios de respiración, etc.
+- **Mensajes y Comunicación:** Los usuarios podrán comunicarse fácilmente con otros usuarios en la sección de comunidades o con su terapeuta personal.
+
+
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
 
