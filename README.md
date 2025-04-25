@@ -19,6 +19,7 @@
     * Angel Guillermo Berrospi Marin U202114701
     * Orellana Rodriguez Mel Andree U202116018
 
+
 <div>
 
 ## Contenido
@@ -115,6 +116,7 @@
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
 
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -151,6 +153,7 @@
 | Who? | ¿Quiénes son afectados? | Los principales afectados son los jóvenes y adultos que enfrentan altos niveles de estrés, ansiedad, o dificultades emocionales y no cuentan con recursos o tiempo suficiente para recibir atención profesional. En el caso de los niños o adolescentes, la pandemia afectó el proceso de socialización y de educabilidad, informa Campodónico. (Redacción National Geographic, 2022) |
 | How? | ¿Cómo se manifiesta el problema? | A través de la falta de soluciones digitales enfocadas en facilitar el acompañamiento terapéutico continuo. Las iniciativas existentes suelen ser costosas  o poco adaptadas a las realidades emocionales de los usuarios. |
 | How Much? | ¿Cuál es la magnitud del problema? | A nivel personal, puede derivar en trastornos crónicos, aislamiento o riesgo suicida que fueron causas de experiencias tales como la pérdida del empleo, distanciamiento social, fallecimiento de seres cercanos o el temor a contagiar a otros . A nivel social, genera sobrecarga en los sistemas de salud, pérdida de productividad y deterioro del bienestar general. |
+
 
 ## 1.2.2 Lean Ux Process
 
