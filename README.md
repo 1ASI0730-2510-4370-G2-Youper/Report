@@ -492,6 +492,43 @@ Para Youper, planeamos desarrollar una plataforma web que tenga un enfoque de el
 - **Herramientas de apoyo:** Se le ofrecerá al usuario muchas herramientas que lo apoyarán a llevar y gestionar sus emociones de manera más eficiente, utilizando guías paso a paso como documentos, videos, ejercicios de respiración, etc.
 - **Mensajes y Comunicación:** Los usuarios podrán comunicarse fácilmente con otros usuarios en la sección de comunidades o con su terapeuta personal.
 
+## 4.2. Information Architecture
+
+### 4.2.1. Organization System
+
+1. **Landing Page e Inicio de la Aplicación:**
+   <br> **Tipo de organización visual:** Jerárquica
+   <br> La landing page presentará y destacará información más relevante al principio como las características y beneficios de Youper. Por otro lado, la pantalla de inicio destacará elementos clave como el estado emocional del usuario, recomendaciones personalizadas y accesos rápidos a sesiones guiadas. Esto se logrará mediante mayor tamaño, colores llamativos y ubicaciones estratégicas, dirigiendo la atención del usuario hacia lo más importante de forma inmediata.
+  
+2. **Módulos Terapéuticos y Ejercicios Guiados:**
+   <br> **Tipo de organización visual:** Secuencial
+   <br> Se implementará este tipo de organización en secciones en módulos terapeúticos o de ejercicios guiados como respiración consciente o rutinas de sueño. En ellas, la información estará diseñada de manera progresiva, guiando al usuario paso por paso a través de cada actividad. Esta estructura facilita la comprensión y la ejecución ordenada de cada ejercicio.
+
+3. **Herramientas y Recursos Interactivos:**
+   <br> **Tipo de organización visual:** Matricial
+   <br> Se aplicará en la sección de herramientas y recursos, donde se ofrecen contenidos como videos, podcasts y documentos. El usuario podrá filtrarlos o combinarlos por criterios, facilitando una exploración personalizada.
+
+4. **Exploración de Contenido Emocional:**
+   <br> **Esquema de categorización:** Por Tópicos
+   <br> Los recursos estarán organizados por temas como ansiedad, autoestima, estrés, insomnio o relaciones interpersonales. Esto permitirá a los usuario acceder rápida y eficientemente al contenido más relevante para su situación emocional.
+
+5. **Historial de Progreso del Usuario:**
+   <br> **Esquema de categorización:** Cronológico
+   <br> Se registrará las actividades realizadas por los usuarios mediante el historial, ordenados por fecha. Lo que permitirá una visualización más clara de su evolución emocional y el seguimiento de su proceso terapéutico.
+
+6. **Contenido Personalizado por Perfil de Usuario:**
+  <br>**Esquema de categorización:** Según Audiencia
+  <br>Los contenidos se adaptarán según el perfil del usuario:
+
+   - **Jóvenes adultos:** Recursos enfocados en identidad, autoestima y estrés académico.
+
+   - **Adultos con alta carga laboral:** Contenidos sobre insomnio, manejo del estrés y burnout.
+
+   - **Especialistas en salud mental:** Acceso a guías clínicas y recursos especializados.
+ 
+7. **Búsqueda de Contenido:**
+   <br> **Esquema de categorización:** Alfabético
+  <br> Se aplicará en la búsqueda por orden alfabético para la búsqueda del contenido. Esto facilitará el acceso rápido a definiciones, términos o técnicas específicas.
 
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
