@@ -133,8 +133,8 @@
 |-|-|
 | |  |
 | <img src="resources/PedroNanfuñay_Profile.jpg"> | Me llamo Pedro Jesús Nanfuñay Liza, estudiante de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y siempre dispuesto a trabajar en equipo. Tengo conocimientos en lenguajes de programación como C++ y Python; en desarrollo web como HTML, CSS y JavaScript; en base de datos relacionales y no relacionales como SQL y MongoDB; y en frameworks como Angular y PrimeVue. Espero poder aportar de manera positiva al equipo y cumplir con los objetivos establecidos. |
-| <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
-| |  |
+| <img src="resources/Angel_Berrospi_Profile.jpg" > | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
+| <img src="resources/Raul_Tasayco_Profile.jpg" width="135" height="165" > | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
 | |  |
 | |  |
 
@@ -366,3 +366,23 @@ Las Style Guidelines son un conjunto de reglas fundamentales que definen y detal
 <br>**Espaciado en el pie de página (footer):**<br>
 <br>- **Margen superior e inferior:**
 <br>El pie de página debe estar separado del contenido principal con un espacio de entre 50 a 70 píxeles. Esto le da aire y evita que se perciba como una extensión aglomerada del contenido anterior.
+___
+
+## 4.6. Domain-Driven Software Architecture
+
+El enfoque de Domain Driven Design (DDD) busca establecer una comprensión común del dominio que define el espacio del problema. Este enfoque facilita una mejor colaboración entre los desarrolladores y los expertos en el dominio. DDD no se limita al uso de un lenguaje común, sino que también incluye una serie de patrones, métodos y diagramas arquitectónicos del sistema, cuyo propósito es alinear el software con el dominio y fortalecer la visión compartida que promueve este enfoque.<br>
+
+### 4.6.1. Software Architecture Context Diagram.
+El diagrama de contexto proporciona una visión general de alto nivel sobre cómo el sistema de software Youper se relaciona con sus usuarios y, en caso de existir, con otros sistemas externos.
+
+![Architecture Context Diagram](resources/System_context.png)
+
+### 4.6.2. Software Architecture Container Diagram.
+El diagrama de contenedores presenta una visión general de alto nivel sobre cómo interactúan las aplicaciones y las fuentes de datos que forman parte del funcionamiento del sistema de software Youper.
+
+![Architecture Container Diagram](resources/diagram_container.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+Los diagramas de componentes ofrecen una visión clara de cómo se relacionan los principales componentes del sistema de software. Estos elementos describen con mayor detalle la implementación de los módulos que conforman la aplicación.
+
+![Architecture Components Diagrams](resources/System_component.png)
