@@ -16,8 +16,8 @@
     * Tantaleán Mesta Guillermo Fabián U202311958
     * Tasayco Osorio Raul Hiroshi U202319415
     * Nanfuñay Liza Pedro Jesús U202215462
-    * null
-    * null
+    * Angel Guillermo Berrospi Marin U202114701
+    * Orellana Rodriguez Mel Andree U202116018
 
 <div>
 
@@ -115,6 +115,67 @@
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
 
+# Capítulo I: Introducción
+
+## 1.1. Startup Profile
+
+### 1.1.1. Descripción de la Startup
+
+**MyMind** es una startup innovadora que está enfocada en impulsar y transformar el cuidado de la salud mental. A través de nuestra plataforma Youper, se permitirá a los usuarios mejorar y gestionar su bienestar emocional a través de herramientas digitales y el seguimiento personalizado adaptado a las necesidades individuales de cada usuario.
+
+**Misión:** Promover el bienestar emocional a las personas mediante una plataforma digital personalizada, accesible y basada en evidencia, que integre tecnología y acompañamiento terapéutico para mejorar la calidad de vida de los usuarios.
+
+**Visión:** Ser referentes en innovación tecnológica para la salud mental, con el objetivo de facilitar el acceso a herramientas digitales que fomenten el autocuidado, el desarrollo personal y emocional y una sociedad más empática y saludable
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+| Integrante | Descripción |
+|-|-|
+| |  |
+| <img src="resources/PedroNanfuñay_Profile.jpg"> | Me llamo Pedro Jesús Nanfuñay Liza, estudiante de la carrera de Ingeniería de Software. Me considero una persona responsable, perseverante y siempre dispuesto a trabajar en equipo. Tengo conocimientos en lenguajes de programación como C++ y Python; en desarrollo web como HTML, CSS y JavaScript; en base de datos relacionales y no relacionales como SQL y MongoDB; y en frameworks como Angular y PrimeVue. Espero poder aportar de manera positiva al equipo y cumplir con los objetivos establecidos. |
+| <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
+| |  |
+| |  |
+| |  |
+
+## 1.2. Solution Profile
+
+### 1.2.1 Antecedentes y problemática
+
+| LAS 5W y 2H | Pregunta | Descripción |
+|-------------|----------|-------------|
+| What? | ¿Cuál es el problema?  | La falta de acceso oportuno, económico y personalizado a procesos terapéuticos, agravada por barreras como el costo, el tiempo y la escasa disponibilidad de atención profesional. Esto impide que muchas personas enfrenten adecuadamente sus problemas de salud mental. |
+| Why? | ¿Cuál es la causa del problema? | La causa del problema surge de diversos factores personales, como los antecedentes familiares, experiencias traumáticas, consumo de sustancias, estigmatización, y factores sociales recientes como la pandemia del Covid-19, que aumentó un 25% la prevalencia mundial de ansiedad y depresión (OMS, 2022). |
+| When? | ¿Cuándo surge el problema? | Aunque el problema ha existido desde hace años, se intensificó notablemente durante la pandemia de Covid-19, donde el confinamiento, el aislamiento social y la incertidumbre provocaron un fuerte impacto en la salud emocional a nivel global. |
+| Where? | ¿Dónde surge el problema? | El problema tiene un alcance global, con mayor impacto en situaciones de pobreza extrema, experiencias traumáticas, o en regiones donde el acceso a un proceso terapéutico sea escaso. Según la última edición del Atlas de Salud Mental de la OMS reveló que en 2020 los gobiernos de todo el mundo destinaron a la salud, por término medio, poco más del 2% de sus presupuestos de salud, y numerosos países de ingresos bajos comunicaron disponer de menos de un trabajador de salud mental por cada 100 000 habitantes. (OMS, 2022) |
+| Who? | ¿Quiénes son afectados? | Los principales afectados son los jóvenes y adultos que enfrentan altos niveles de estrés, ansiedad, o dificultades emocionales y no cuentan con recursos o tiempo suficiente para recibir atención profesional. En el caso de los niños o adolescentes, la pandemia afectó el proceso de socialización y de educabilidad, informa Campodónico. (Redacción National Geographic, 2022) |
+| How? | ¿Cómo se manifiesta el problema? | A través de la falta de soluciones digitales enfocadas en facilitar el acompañamiento terapéutico continuo. Las iniciativas existentes suelen ser costosas  o poco adaptadas a las realidades emocionales de los usuarios. |
+| How Much? | ¿Cuál es la magnitud del problema? | A nivel personal, puede derivar en trastornos crónicos, aislamiento o riesgo suicida que fueron causas de experiencias tales como la pérdida del empleo, distanciamiento social, fallecimiento de seres cercanos o el temor a contagiar a otros . A nivel social, genera sobrecarga en los sistemas de salud, pérdida de productividad y deterioro del bienestar general. |
+
+## 1.2.2 Lean Ux Process
+
+## 1.2.2.1. Lean Ux Problem Statment
+###
+Para los adultos jóvenes y profesionales con alta carga laboral que sufren de ansiedad, estrés, baja autoestima y otros transtornos emocionales, quienes enfrentan barreras como el costo elevado, la estigmación y la falta de acceso a atención de salud mental adecuada, el problema es que no tienen acceso a una solución personalizada, accesible y efectiva que se adapte a sus necesidades emocionales y les brinde apoyo emocional continuo.
+
+## 1.2.2.2. Lean UX Assumptions
+### 
+- Assumptions 1: Los usuarios tienen dificultades para acceder a atención de salud mental debido a 
+barreras como el costo, la estigmación o la falta de tiempo.
+- Assumptions 2: Las herramientas digitales, como la inteligencia artificial y la terapia cognitivo-conductual, pueden ser efectivas para mejorar el bienestar emocional de los usuarios si están bien personalizadas y adaptadas.
+- Assumptions 3: Los usuarios valoran la personalización de su experiencia, como la adaptación a sus necesidades emocionales y su progreso.
+- Assumptions 4: El seguimiento constante de las emociones, la meditación, los ejercicios de respiración y el uso de sonidos relajantes ayudan a reducir los niveles de estrés y mejorar la calidad de vida.
+- Assumptions 5: La integración de herramientas para que los profesionales de salud mental sigan el progreso de sus pacientes, aumenta la efectividad de la intevención y el bienestar a largo plazo.
+  
+## 1.2.2.3. Lean UX Hypothesis Statements
+###
+- Hypothesis 1: Si los usuarios pueden acceder a un acompañamiento emocional personalizado, basado en inteligencia artificial y TCC, entonces experimentarán una mejora significativa en su bienestar emocional.
+- Hypothesis 2: Si los usuarios tienen la opción de personalizar su experiencia en la plataforma, adaptándola a sus necesidades emocionales específicas, entonces se comprometerán más con la aplicación y continuarán usándola a largo plazo.
+- Hypothesis 3: Si Youper permite a los profesionales de salud mental realizar un seguimiento eficaz del progreso de sus pacientes, entonces los pacientes tendrán un mejor manejo de su salud mental y se sentirán más apoyados.
+- Hypothesis 4: Si se integran funcionalidades como meditaciones guiadas, música relajante y sonidos de naturaleza, los usuarios experimentarán una reducción del estrés y una mejora en la calidad del sueño.
+
+## 1.2.2.4. Lean UX Canvas
+![image_Lean_Ux_Canvas](resources/Lean_Ux_Canvas.jpg)
 
 ## 2.3. Needfinding
 
@@ -151,3 +212,157 @@
 #### * As-is Scenario Mapping psicologo
 ![image_as_is_scenario_mapping_psicologo](resources/psicologa.png)
 Link de acceso: [Entrar acá](https://miro.com/welcomeonboard/RU10Z25nMGRCNENEMEpzWnVlaGUwWGlNSEV1YjBjOVQ2YkdiOHVRalIyVGQzSEJVblVKTnJOTkhUWEt6eUtIR1V3bk5Ia2V1SGZPTS9kSE9Xa1pBN05vK0sva1JpNVNUV0JIREdBZ09OdjE4QnFQZmhrYnZSdDg2Z2hnZ3dla29NakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=3143734650 "Link miro")
+
+## 2.4. Ubiquitous Language
+
+En **Domain-Driven Design (DDD)**, el “**Ubiquitous Language**” consiste en definir un vocabulario compartido que sea comprendido por todo el equipo: desarrolladores, diseñadores, expertos en salud mental y usuarios clave. Este lenguaje común garantiza claridad conceptual y facilita la implementación técnica coherente con el dominio del problema.
+
+**Usuario (User):**  
+Persona que utiliza la aplicación para mejorar su bienestar emocional. Puede ser un joven adulto, un adulto con estrés laboral o un especialista en salud mental.
+
+**Estado Emocional (Emotional State):**  
+Representación actual del estado anímico del usuario, basado en su autopercepción y en datos recogidos por el sistema.
+
+**Módulo Terapéutico (Therapeutic Module):**  
+Conjunto de actividades, ejercicios o contenidos diseñados para abordar un tema específico como ansiedad, autoestima, relaciones, estrés o sueño.
+
+**Ruta Personalizada (Personalized Path):**  
+Secuencia adaptativa de módulos y ejercicios recomendados por el sistema según el perfil y estado emocional del usuario.
+
+**Ejercicio Emocional (Emotional Exercise):**  
+Actividades prácticas como meditación, respiración guiada, escritura terapéutica o visualizaciones que ayudan a regular emociones.
+
+**Seguimiento Emocional (Emotional Tracking):**  
+Registro regular de emociones que permite analizar el progreso del usuario y ajustar recomendaciones.
+
+**Diario Emocional (Emotional Journal):**  
+Espacio personal donde el usuario escribe sobre su día, emociones y reflexiones como parte del proceso terapéutico.
+
+**Especialista (Specialist):**  
+Profesional de la salud mental que utiliza la plataforma para hacer seguimiento del progreso emocional de sus pacientes, interpretar métricas e intervenir si es necesario.
+
+**Alerta de Riesgo Emocional (Emotional Risk Alert):**  
+Notificación automática que se activa cuando se detectan señales de deterioro emocional o patrones de riesgo.
+
+**Sesión Terapéutica (Therapeutic Session):**  
+Encuentro estructurado entre el especialista y el paciente, ya sea presencial o digital, registrado en la plataforma.
+
+**IoT Emocional (Emotional IoT):**  
+Dispositivos inteligentes que recogen datos físicos del usuario (frecuencia cardíaca, calidad del sueño, etc.) para enriquecer el análisis emocional.
+
+**Panel de Bienestar (Wellness Dashboard):**  
+Interfaz donde se visualizan indicadores clave del estado emocional, progreso en módulos y recomendaciones activas.
+
+# Capítulo III: Requeriments Specification
+## 3.1. To-Be Scenario Mapping. 
+
+En esta sección, se detallan las fases principales del proceso optimizado de acompañamiento emocional mediante la aplicación **Youper**, diseñada para atender las necesidades específicas de cada segmento de usuario. Se explica cómo la automatización inteligente, el análisis emocional en tiempo real y la personalización dinámica transforman la experiencia del usuario. Esta estrategia permite que tanto los usuarios como los especialistas en salud mental puedan enfocarse en el bienestar emocional con mayor eficacia, tomando decisiones más informadas y centradas en datos emocionales recolectados de forma continua.
+
+### Segmento 1: Jóvenes Adultos en búsqueda de regulación emocional y autoconocimiento
+![image_empathy_mapping_1](resources/ScenarioMap1.png)
+
+### Segmento 2: Adultos Profesionales con Estrés Crónico y Alteraciones del Sueño
+![image_empathy_mapping_1](resources/ScenarioMap2.png)
+
+### Segmento 3: Especialistas en Salud Mental que optimizan el acompañamiento terapéutico digital
+![image_empathy_mapping_1](resources/ScenarioMap3.1.png)
+
+
+
+
+
+## 3.2. User Stories. 
+## 3.3. Impact Mapping. 
+## 3.4. Product Backlog. 
+
+# Capítulo IV: Product Design
+
+## 4.1. Style Guidelines
+
+Las Style Guidelines son un conjunto de reglas fundamentales que definen y detallan los elementos de diseño y comunicación de un proyecto para asegurar una comunicación visual coherente y profesional. Para Youper, definiremos criterios como colores, tipografía y estructura para diseñar la landing page y web application.
+
+### 4.1.1. General Style Guidelines
+
+**Branding:**
+<br>Para la creación del logo de nuestro producto Youper, se ha optado por un diseño minimalista que refleja el objetivo de la aplicación. El aspecto del logo se compone del ícono de una hoja con detalles de ramas de un cerebro, lo que refleja la vida y el bienestar, acompañado de un corazón que refleja el bienestar y amor propio.
+
+<img src="resources/Logo_Youper.png" alt="Logo_Youper" width="300" height="300">
+
+<br>**Typography:**
+<br>Para la elección de las tipografías que utilizaremos para Youper, se han seleccionado fuentes simples y modernas que transmitan la estética de la aplicación. A continuación, se presentan las tipografías utilizadas para Youper:
+
+<br>- **Mada:** Tipografía de estilo árabe modernista. Se caracteriza por descendentes bajos, contornos abiertos y formas de bajo contraste, lo que lo hace adecuado para señalización, tamaños de punto pequeños e interfaces de usuario. Transmite un sentimiento modernista y simplista.
+
+<br>![Mada Font](resources/Mada_Font.webp) <br>
+
+<br>- **Koulen:** Fuente tipográfica ideal para titulares, títulos y subtítulos, e incluso diseños de banners. Sus características los hacen ideales para crear texto impactante y atractivo. <br>
+
+<br>![Koulen Font](resources/Koulen_Font.webp) <br>
+
+**Colors:**
+<br>Los colores son los encargados de brindar la primera percepción visual de los usuarios. En este contexto, la paleta de colores seleccionados para Youper está conformada por morado como tonalidad principal, que simboliza el pensamiento, delicadeza y espiritualidad. Por otro lado, el color amarillo simboliza la alegría, optimismo y la creatividad. Como tonalidades secundarias se hace uso de variedades cromáticas del color blanco, negro y plomo. Esta paleta asegura que se transmita un mensaje positivo a los usuarios.
+
+<br>A continuación se presentan los colores seleccionados:
+
+<br>- **Cool Gray (#A1A4C7):** Un tono gris suave con matices azulados que transmite calma, profesionalismo y modernidad.
+
+<br>![Cool Gray Color](resources/Coolgray_Color.PNG)
+
+<br>- **Lavender (web) (#D4D7F2):** Un púrpura claro con matices rosados, asociado a la delicadeza, tranquilidad y creatividad.
+
+<br>![Lavender Color](resources/Lavender_Color.PNG)
+
+<br>- **Xanthous (#FFC965):** Un amarillo vibrante con matices dorados que transmite energía, optimismo y calidez.
+
+<br>![Xanthous Color](resources/Xanthous_Color.PNG)
+
+<br>- **Hundayi yellow (#F6B253):** Un amarillo fuerte y moderno. Transmite innovación y visibilidad.
+
+<br>![Hundayi Yellow Color](resources/HundayiYellow_Color.PNG)
+
+<br>- **White smoke (#F2F2F2):** Un blanco grisáceo muy tenue, que brinda una sensación de limpieza, suavidad y ligereza.
+
+<br>![White Smoke Color](resources/WhiteSmoke_Color.PNG)
+
+<br>- **Jet (#353531):** Un negro profundo con ligeros toques grisáceos, que representa elegancia, misterio y firmeza.
+
+<br>![Jet Color](resources/Jet_Color.PNG)
+
+<br>- **Black (#000000):** El color más oscuro. Transmite sofisticación, poder y sobriedad.
+
+<br>![Black Color](resources/Black_Color.PNG)
+
+<br>- **Silver (#A4A2A2):** Un gris metálico brillante que representa modernidad, tecnología y elegancia con un toque futurista.
+
+<br>![Silver Color](resources/Silver_Color.PNG)
+
+<br>**Spacing:**
+<br>Youper está diseñado para ofrecer una experiencia visual relajante y emocionalmente armoniosa. A continuación, se detallan las especificaciones de espaciado recomendadas para lograr una interfaz accesible, clara y centrada en el bienestar del usuario:
+
+<br>**Espaciado entre líneas (line-height):**<br>
+<br>**- Texto de cuerpo:**
+<br>El espaciado entre líneas debe ser de 1.5 a 1.7 veces el tamaño de la fuente. Este rango brinda una sensación de amplitud y calma visual, facilitando la lectura sin generar fatiga ocular.
+
+<br>**Espaciado entre párrafos:**<br>
+<br>- **Margen inferior:**
+<br>Cada párrafo debe tener un margen inferior de al menos 130% del tamaño de la fuente. Esta separación ayuda a procesar cada bloque de contenido como una idea completa, favoreciendo la comprensión emocional y cognitiva.
+
+<br>**Margen y espaciado alrededor de elementos de la interfaz:**<br>
+<br>- **Espacio entre componentes de UI (cards, botones, inputs, etc.):**
+<br>Mantener mínimo 24 píxeles de separación. Este margen promueve una sensación de orden y reduce la sobrecarga cognitiva, especialmente en secciones densas o funcionales.
+
+<br>**Espaciado entre secciones o módulos:**<br>
+<br>**- Margen superior e inferior:**
+<br>Debe aplicarse un margen de mínimo 60 píxeles entre bloques de contenido o secciones temáticas. Esto refuerza una estructura clara y ayuda a separar emocionalmente los distintos momentos de navegación (ej. exploración, reflexión, acción).
+
+<br>**Espaciado entre elementos de menú y navegación:**<br>
+<br>**- Espacio horizontal entre ítems de menú:**
+<br>Cada elemento debe tener al menos 18 píxeles de espacio lateral. Esta distancia mejora la precisión al interactuar y brinda una apariencia limpia y accesible, incluso desde dispositivos móviles.
+
+<br>**Espaciado alrededor de imágenes e ilustraciones:**<br>
+<br>- **Margen alrededor de recursos visuales:**
+<br>Las imágenes, íconos y gráficos deben tener un margen mínimo de 25 píxeles alrededor. Esto refuerza su rol como elementos de apoyo emocional o informativo, sin invadir el texto.
+
+<br>**Espaciado en el pie de página (footer):**<br>
+<br>- **Margen superior e inferior:**
+<br>El pie de página debe estar separado del contenido principal con un espacio de entre 50 a 70 píxeles. Esto le da aire y evita que se perciba como una extensión aglomerada del contenido anterior.
