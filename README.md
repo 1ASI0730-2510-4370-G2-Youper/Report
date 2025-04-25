@@ -143,3 +143,11 @@
 #### * User Empathy Mapping psicóloga
 ![image_empathy_mapping_3](resources/UTM_S3.png)
 
+### 2.3.5. As-is Scenario Mapping
+#### * As-is Scenario Mapping joven
+![image_as_is_scenario_mapping_joven](resources/joven_alta_carga.png)
+#### * As-is Scenario Mapping adulto
+![image_as_is_scenario_mapping_adulto](resources/adulto_carga_laboral.png)
+#### * As-is Scenario Mapping psicologo
+![image_as_is_scenario_mapping_psicologo](resources/psicologa.png)
+Link de acceso: [Entrar acá](https://miro.com/welcomeonboard/RU10Z25nMGRCNENEMEpzWnVlaGUwWGlNSEV1YjBjOVQ2YkdiOHVRalIyVGQzSEJVblVKTnJOTkhUWEt6eUtIR1V3bk5Ia2V1SGZPTS9kSE9Xa1pBN05vK0sva1JpNVNUV0JIREdBZ09OdjE4QnFQZmhrYnZSdDg2Z2hnZ3dla29NakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=3143734650 "Link miro")
