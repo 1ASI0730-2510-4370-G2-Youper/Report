@@ -562,10 +562,23 @@ En esta sección se explica y presenta los avances en implementación con relaci
 Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
 presenta screenshots de las principales vistas implementadas
 
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing1.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing2.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing3.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing4.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing5.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing6.jpeg)
+
 
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
 relacionados con el alcance del Sprint. 
+
 
 ![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
 
