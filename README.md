@@ -546,9 +546,14 @@ Applications.
 ## 5.2.1.1. Sprint Planning 1
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
 
+![image_SprintPlaning](resources/SprintPlaning.JPG)
+
 
 ## 5.2.1.2. Aspect Leaders and Collaborators
 En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+![image_AspectsLeaders](resources/AspectsLeaders.JPG)
+
 
 
 ## 5.2.1.3. Sprint Backlog 1
