@@ -492,10 +492,22 @@ Tras analizar las Epics definidas, procedimos a desglosarlas en User Stories má
 | US074           | Modo oscuro automático                           | Como usuario, Quiero que la app cambie automáticamente a modo oscuro de noche Para no forzar mi vista.   | Dado que son más de las 20:00 horas, Cuando se abre la app, Entonces se activa el modo oscuro automáticamente.                                              | EPIC011                    |
 | US075           | Evaluación emocional antes de sesiones           | Como usuario, Quiero completar una breve evaluación antes de una sesión Para que mi terapeuta entienda mi estado actual. | Dado que el usuario tiene una sesión programada, Cuando la sesión está por comenzar, Entonces se le solicita completar una evaluación rápida.         | EPIC003                    |
 
-
-
-
 ## 3.3. Impact Mapping. 
+
+Segmento 1: Jóvenes adultos que enfrentan ansiedad y estrés académico,sentimental, laboral, económico o familiar, y que desean mejorar su bienestar emocional a través de herramientas accesibles, personalizadas y discretas.
+
+
+![Impact map 1](https://github.com/user-attachments/assets/4c7e1756-8f37-4ef1-80ee-de3b10ac73ef)
+
+ Segmento 2: Adultos con alta carga laboral que experimentan dificultades para conciliar el sueño o gestionar el estrés diario, y buscan alternativas digitales para mejorar su salud mental desde casa.
+ 
+![Impact map 2](https://github.com/user-attachments/assets/4d04ec4c-8e80-4324-8921-ec9e9d0477aa)
+
+ Segmento 3: Especialistas de la salud mental que utilicen y brinden soluciones efectivas a los usuarios que les permita seguir paso a paso el proceso de cada paciente, con el objetivo de mejorar su bienestar emocional.
+ 
+ ![Impact map 3](https://github.com/user-attachments/assets/f91bdba7-5249-47a7-bb9a-86384c2240a8)
+
+
 ## 3.4. Product Backlog. 
 
 # Capítulo IV: Product Design
