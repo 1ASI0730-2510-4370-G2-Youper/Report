@@ -598,9 +598,11 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 
 ### Conclusiones
 
+- El presente trabajo nos permitió documentar y desarrollar una plataforma que tiene como objetivo mejorar el bienestar emocional de los usuarios. Basándonos en principios éticos y utilizando técnicas que nos han permitido transmitir correctamente las características y funcionalidades de la plataforma. Ello ha permitido garantizar las decisiones con el proyecto como el diseño visual, navegación y funcionalidad, mejorando la eficiencia del equipo.
+
+- La Landing Page fue diseñada priorizando una experiencia clara, amigable y accesible, facilitando que los visitantes comprendan rápidamente los beneficios de Youper y se interesen en probar el servicio. Cada sección contribuye en comunicar el valor y objetivos que Youper ofrece.
 
 ### Bibliografía
-
 
 ### Anexos
    
