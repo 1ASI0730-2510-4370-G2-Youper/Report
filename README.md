@@ -330,10 +330,107 @@ barreras como el costo, la estigmación o la falta de tiempo.
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Youper aplicará una estrategia centrada en la diferenciación a través de la personalización emocional guiada y un enfoque terapéutico basado en TCC, en contraste con la experiencia más generalista de Calm, Headspace y Meditopia. Aprovechará las debilidades de estos competidores —como la falta de contenido contextualizado culturalmente y la limitada personalización emocional— para posicionarse como una solución más empática, local y adaptada a las necesidades reales de los usuarios hispanohablantes. Como táctica, se integrarán algoritmos simples desde el onboarding para ofrecer recomendaciones personalizadas desde el primer uso, junto a contenido con voces y ejemplos propios del contexto latinoamericano. Además, se impulsarán campañas emocionales en fechas clave para aprovechar el creciente interés en salud mental. Para mitigar amenazas como la saturación del mercado y la desconfianza frente al uso de datos personales, Youper comunicará con transparencia su política de privacidad y reforzará la confianza a través de prácticas éticas y testimonios reales. De este modo, la startup busca construir una propuesta de valor clara, cercana y clínicamente fundamentada frente a sus principales competidores.
+
 ## 2.2. Entrevistas.
-### 2.2.1. Diseño de entrevistas.
-### 2.2.2. Registro de entrevistas.
-### 2.2.3. Análisis de entrevistas.
+### 2.2.1. Diseño de entrevistas
+
+Se han realizado las siguientes preguntas correspondiente a la realización de entrevistas por segmento objetivo:
+
+**Segmento 1: Jóvenes Adultos con Estrés o Ansiedad**
+- ¿Con qué frecuencia sientes ansiedad o estrés relacionado con tus estudios, relaciones, trabajo o familia? 
+- ¿Qué emociones predominan en tu día a día (ansiedad, frustración, tristeza, cansancio)? ¿Cómo las manejas?
+- ¿Has buscado apoyo emocional anteriormente? ¿Fue a través de un psicólogo, un amigo o por medios digitales? 
+- ¿Qué tan cómodo te sentirías usando una aplicación para expresar lo que sientes en privado?
+- ¿Te gustaría que una app te hiciera preguntas diarias para ayudarte a entender tus emociones?
+- ¿Qué tipo de contenido usarías más en una app emocional: meditaciones, ejercicios de respiración, frases motivadoras, música? 
+- ¿En qué momentos del día te sientes más vulnerable emocionalmente y te gustaría tener apoyo?
+- ¿Qué tan importante es para ti que la app sea discreta y no revele información sensible?
+- ¿Preferirías recibir sugerencias automáticas o elegir tú mismo los ejercicios según cómo te sientes? 
+- ¿Qué esperas lograr si usas una app emocional: sentirte más tranquilo, dormir mejor, tener más claridad mental, mejorar tu autoestima?
+
+**Segmento 2: Adultos con Carga Laboral**
+
+- Cuando terminas tu jornada laboral, ¿cómo sueles desconectarte mental o emocionalmente?
+- ¿Tienes momentos donde te cuesta conciliar el sueño por pensamientos relacionados al trabajo? ¿Qué haces en esas situaciones?
+- ¿Qué tan frecuente te sientes agotado emocionalmente, incluso si físicamente estás bien?
+- ¿Con qué frase describirías tu estado mental un lunes por la mañana y un viernes por la noche? 
+- ¿Qué te haría confiar en una app emocional? (privacidad, respaldo científico, anonimato, acceso sin conexión, etc.)
+- Si supieras que tus datos emocionales se usan solo para mejorar tu experiencia personalizada, ¿te sentirías cómodo? ¿Por qué sí o por qué no?
+- ¿Te resultaría útil que la app se sincronice con tu smartwatch o pulsera para medir tu estrés real y darte recomendaciones en tiempo real?
+- ¿Cómo te gustaría sentirte después de 1 mes usando una app como Youper? (Más tranquilo, más motivado, con mejor autoestima, durmiendo mejor, etc.)
+- ¿Qué haría que esta app se convirtiera en parte de tu rutina diaria sin que se sienta como una obligación más?
+- ¿Te gustaría que la app te ayude a detectar momentos en los que podrías necesitar apoyo profesional y te oriente de forma confidencial?
+
+**Segmento 3: Especialistas de la Salud Mental**
+
+- ¿Qué herramientas digitales usas actualmente para acompañar a tus pacientes? 
+- ¿Qué desafíos enfrentas al dar seguimiento emocional fuera de la consulta?
+- ¿Te gustaría contar con una plataforma donde tus pacientes puedan registrar emociones y tú ver el progreso? 
+- ¿Qué tipo de información consideras clave para evaluar el bienestar emocional de un paciente entre sesiones?
+- ¿Te interesaría que la app ofreciera un resumen automático del estado emocional del usuario?
+- ¿Cuál sería el formato ideal para recibir reportes: visual, texto, alertas?
+- ¿Te sentirías cómodo recomendando una app como complemento terapéutico? 
+- ¿Qué características te harían confiar en una app para hablar sobre tus emociones (seguridad de datos, diseño amigable)?
+- ¿Consideras útil que los pacientes puedan enviarte feedback sobre los ejercicios que realizaron?
+- ¿Qué otras funciones te gustaría ver en una app de salud emocional para profesionales?
+
+
+### 2.2.2. Registro de entrevistas
+
+Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202215462_upc_edu_pe/EeX-Bf0clAtGpyDmr2FG75wBrAxUzrHSkUZr2czUwk7W4Q?e=XfFrVC&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Segmento Objetivo 1: Entrevista a Jóvenes Adultos con Estrés o Ansiedad**
+
+**Entrevista 1:**
+
+| Datos del entrevistado |
+| ---------------------- |
+| Nombre: Diego Rolin Acuña Tomas |
+| Edad: 23 años|
+| Género: Masculino |
+| Distrito: San Miguel |
+| Ocupación: Estudiante universitario |
+| Estado Civil: Soltero |
+| Inicio de la entrevista: 00:04 |
+| Duración de la entrevista: 06:55 |
+| ![Entrevista1_Seg1](resources/Entrevista1_Segmento1.png) |
+| **Resumen:** Diego Acuña es un joven adulto de 23 años, que busca manejar sus emociones ante las actividades que requiere completar para su carrera universitaria, así como el peso de las actividades de su negocio familiar. Él considera esencial tener una aplicación que le permita regular sus emociones en momentos de alto estrés y llevar prácticas que le permitan mejorar su estado emocional. |
+
+**Segmento Objetivo 2: Adultos con Carga Laboral**
+
+**Entrevista 1:**
+
+| Datos del entrevistado |
+| ---------------------- |
+| Nombre:	Juan Diego Trigozo Liza |
+| Edad: 22 años |
+| Género: Masculino |
+| Distrito: Carabayllo |
+| Ocupación: Digitador en una notaría |
+| Estado Civil: Soltero |
+| Inicio de la entrevista: 16:32 |
+| Duración de la entrevista: 04:18 |
+| ![Entrevista1_Seg1](resources/Entrevista1_Segmento2.PNG) |
+| **Resumen:** Diego Trigozo es un joven adulto de 22 años, que realiza la labor de digitador en una notaría. Él menciona que el trabajo que realiza durante toda la semana así como la atención al público le causa estrés y un gran cansancio. Sin embargo, menciona que como medida ante esto, asiste a un gimnasio cercano a su centro de trabajo, esto le permite reducir el estrés y darle un mejor bienestar emocional. Sugiere que la implementación de una aplicación que le ayude a regular sus emociones a través de otros métodos sería ideal para él y estaría dispuesto a usar dichas herramientas que le permitirían llevar un monitoreo de sus emociones. |
+
+**Segmento Objetivo 3: Especialistas de la Salud Mental**
+
+**Entrevista 1:**
+
+| Datos del entrevistado |
+| ---------------------- |
+| Nombre: Carolina Lizette Nanfuñay Chafloc |
+| Edad: 35 años |
+| Género: Femenino |
+| Distrito: Puente Piedra |
+| Ocupación: Psicóloga en un centro comunitario |
+| Estado Civil: Casada |
+| Inicio de la entrevista: 20:50 |
+| Duración de la entrevista: 08:59 |
+| ![Entrevista1_Seg1](resources/Entrevista1_Segmento3.png) |
+| **Resumen:** Carolina Nanfuñay es una especialista de la salud mental que labora en un centro comunitario. Ella describe el proceso que realiza en dicho lugar para la atención de su proceso de terapia con sus pacientes y menciona algunas falencias con respecto al monitoreo de avance externo a la terapia, como que los pacientes a veces no cumplen con los procesos que deben seguir. Por ello, considera necesario una plataforma que le permita monitorear el avance post-terapia de sus pacientes, así como una conexión mayor con ellos. De manera que le permita gestionar y mejorar la calidad de sus consultas ante cualquier inconveniente que pueda sufrir el paciente en momentos de alto estrés. |
+
+### 2.2.3. Análisis de entrevistas
 
 
 ## 2.3. Needfinding
