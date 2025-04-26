@@ -551,6 +551,29 @@ Para Youper, planeamos desarrollar una plataforma web que tenga un enfoque de el
 - **Favoritos:** Acceso directo a las sesiones o herramientas guardadas por el usuario.
 - **Notificaciones:** Acceso a las notificaciones sobre su proceso terapeútico, recomendaciones o mensajes.
 
+### 4.2.3. SEO Tags and Meta Tags
+
+**Landing Page:**
+- **Title:** Texto que será visible en la parte superior del navegador en las páginas de resultados de los motores de búsqueda (SERP). <br> `<title>Youper – Your digital space for emotional well-being</title>`
+
+- **Codificación de carácteres:** Esta etiqueta ayudará a que muestre correctamente los caracteres especiales en la página. <br> `<meta charset="utf-8">`
+
+- **Description:** Etiqueta meta que proporciona una breve descripción de la página. <br> `<meta name="description" content="Smart platform that helps you improve your emotional well-being."/>`
+
+- **Key Words:** Etiqueta que indica palabras clave del contenido de la página. <br> `<meta name="keywords" content="emotional health, welfare, self-esteem, digital therapy, mindfulness"/>`
+
+- **Author & Copyright:** Etiqueta que muestra la información del autor o autores. <br> `<meta name="author" content="MyMind Team"/>
+<meta name="copyright" content="Copyright MyMind team" />` <br> `<meta name="copyright" content="Copyright MyMind team" />`
+
+
+**Web Application:**
+- **Title:** Texto que será visible en la parte superior del navegador en las páginas de resultados de los motores de búsqueda (SERP). <br> `<title>Youper</title>`
+
+- **Description:** Etiqueta meta que proporciona una breve descripción de la página. <br> `<meta name="description" content="Youper official app web."/>`
+
+- **Key Words:** Etiqueta que indica palabras clave del contenido de la página. <br> `<meta name="keywords" content="emotional health, welfare, self-esteem, digital therapy, mindfulness"/>`
+
+- **Author & Copyright:** Etiqueta que muestra la información del autor o autores. <br> `<meta name="author" content="MyMind Team"/>` <br> `<meta name="copyright" content="Copyright MyMind team" />`
 
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
