@@ -389,3 +389,119 @@ El diagrama de contenedores presenta una visión general de alto nivel sobre có
 Los diagramas de componentes ofrecen una visión clara de cómo se relacionan los principales componentes del sistema de software. Estos elementos describen con mayor detalle la implementación de los módulos que conforman la aplicación.
 
 ![Architecture Components Diagrams](resources/System_component.png)
+
+## 4.7. 
+### 4.7.1. Class Diagrams
+![DiagramClass](resources/diagramClasses.png)
+
+### 4.7.2. Class Dictionary.
+
+1. User 
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+ |age        | int    | User's age|
+ |email      | String | User's email|
+ |location   | String | User's location|
+ |dni        | int    | User's identification number|
+ |nacimiento | date | User's date of birth|
+
+2. Notification
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|IdNotification | int | Notification identifier|
+|typeNotification | String | Type of notification|
+
+3. Message
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|content | String | Message content|
+|sentDate | LocalDateTime | Date and time the message was sent|
+|senderName | String | Sender's name|
+|receiverName | String | Receiver's name|
+
+4. CAdministrator
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|adminName | String | Administrator's name|
+|adminRole | String | Administrator's role|
+|email | String | Administrator's email|
+|lastAccessDate | LocalDate | Last access date|
+
+5. System
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|SystemID | int | System identifier|
+|SystemName | String | System name|
+|version | int | System version|
+|ststua | String | System status (note: possible typo, should be 'status')|
+|dataFormal | String | Formal system date|
+
+6. CForum
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|title | String | Forum title|
+|description | String | Forum description|
+|creationDate | LocalDate | Forum creation date|
+
+7. CActivity
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|titleActivity | String | Activity title|
+|descriptionActivity | String | Activity description|
+|difficultyLevel | String | Activity difficulty level|
+|estimatedTimeMinutes | int | Estimated time in minutes|
+
+8. SelfAssessment
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|score | int | Assessment score|
+|assessmentDate | String | Date of assessment|
+|comments | String | Assessment comments|
+
+9. CCollaboration
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|groupName | String | Group name|
+|objective | String | Collaboration objective|
+|creationDate | LocalDate | Collaboration creation date|
+
+10. CMaterial
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|title | String | Material title|
+|description | String | Material description|
+|typeMaterial | String | Material type|
+|uploadDate | LocalDate | Material upload date|
+
+11. AnxietyCrisis
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|crisisDate | String | Date of the crisis|
+|symptomsDescription | String | Description of the symptoms|
+|interventionApplied | String | Applied intervention|
+
+12. CrisisRecord
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|recordDate | LocalDate | Record date|
+|anxietyLevel | int | Anxiety level|
+|actionsTake | string | Actions taken |
+
+13. ProgressTracker
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|progressPercentage | int | Progress percentage|
+|lastUpdateDate | LocalDate | Last update date|
+|currentGoal | String | Current goal|
