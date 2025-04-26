@@ -15,11 +15,13 @@
 <div align = "left">
 
 * Integrantes
-    * Tantaleán Mesta Guillermo Fabián - U202311958
-    * Tasayco Osorio Raul Hiroshi - U202319415
-    * Nanfuñay Liza Pedro Jesús - U202215462
-    * Angel Guillermo Berrospi Marin - U202114701
-    * Orellana Rodriguez Mel Andree - U202116018
+
+    * Tantaleán Mesta Guillermo Fabián U202311958
+    * Tasayco Osorio Raul Hiroshi U202319415
+    * Nanfuñay Liza Pedro Jesús U202215462
+    * Angel Guillermo Berrospi Marin U202114701
+    * Orellana Rodriguez Mel Andree U202116018
+    * Joel Prudencio Alcantara U20241d689
 
 
 <div>
@@ -1275,9 +1277,14 @@ Todo el código de la solución deberá ser escrito completamente en inglés par
 ## 5.2.1.1. Sprint Planning 1
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
 
+![image_SprintPlaning](resources/SprintPlaning.JPG)
+
 
 ## 5.2.1.2. Aspect Leaders and Collaborators
 En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+![image_AspectsLeaders](resources/AspectsLeaders.JPG)
+
 
 
 ## 5.2.1.3. Sprint Backlog 1
@@ -1333,6 +1340,19 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 - La Landing Page fue diseñada priorizando una experiencia clara, amigable y accesible, facilitando que los visitantes comprendan rápidamente los beneficios de Youper y se interesen en probar el servicio. Cada sección contribuye en comunicar el valor y objetivos que Youper ofrece.
 
 ### Bibliografía
+
+- Causas comunes de los trastornos mentales * Psyciencia. (2022, 21 febrero). Psyciencia. https://www.psyciencia.com/algunas-causas-comunes-de-los-trastornos-mentales/
+- En el Día Mundial de la Salud Mental, conoce qué es y por qué aumentaron los casos de depresión y ansiedad en la región. (2022, 11 octubre). National Geographic. https://www.nationalgeographicla.com/ciencia/2022/10/como-la-covid-19-afecto-a-la-salud-mental-en-latinoamerica
+- Francia, G. (2021, 5 febrero). Significado del color morado en psicología. psicologia-online.com. https://www.psicologia-online.com/significado-del-color-morado-en-psicologia-5475.html
+- Koulen Font Family | Download Free Fonts for Desktop & Webfonts. (s. f.). https://www.cufonfonts.com/font/koulen
+- Koulen - Google Fonts. (s. f.). Google Fonts. https://fonts.google.com/specimen/Koulen
+- Mada Font Family | Download Free Fonts for Desktop & Webfonts. (s. f.). https://www.cufonfonts.com/font/mada
+- Mada - Google Fonts. (s. f.). Google Fonts. https://fonts.google.com/specimen/Mada
+- Menéndez, M. (2021, 15 abril). Qué significa el color amarillo en la psicología. psicologia-online.com. https://www.psicologia-online.com/que-significa-el-color-amarillo-en-la-psicologia-4067.html
+- “No hay salud sin salud mental”. (2020, 8 octubre). OPS/OMS | Organización Panamericana de la Salud. https://www.paho.org/es/noticias/8-10-2020-no-hay-salud-sin-salud-mental#:~:text=Los%20trastornos%20mentales%2C%20neurol%C3%B3gicos%20y,diagnosticado%20con%20un%20trastorno%20mental
+- Rcn, N. (2024, 27 octubre). Informe de la ONU reveló las principales causas de trastornos mentales en el mundo. Noticias RCN. https://www.noticiasrcn.com/salud-y-bienestar/informe-de-la-onu-revelo-principales-causas-de-trastornos-mentales-en-el-mundo-765066
+- WHO. (2022, 2 marzo). La pandemia de COVID-19 provoca un aumento del 25% en la prevalencia de ansiedad y depresión en todo el mundo. https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide
+- World Health Organization: WHO. (2022, 8 junio). Trastornos mentales. https://www.who.int/es/news-room/fact-sheets/detail/mental-disorders
 
 ### Anexos
 
