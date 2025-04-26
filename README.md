@@ -21,6 +21,7 @@
     * Angel Guillermo Berrospi Marin - U202114701
     * Orellana Rodriguez Mel Andree - U202116018
 
+
 <div>
 
 ## Contenido
@@ -108,14 +109,19 @@
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Service \& Applications Implementation](#52-landing-page-service--applications-implementation)
     - [5.2.x. Sprints](#52x-sprints)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
+    -  [5.2.1.1. Sprint Planning 1](#5211-Sprint-Planning1)
+    -  [5.2.1.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
+    -  [5.2.1.3. Sprint Backlog 1](#5213-Sprint-Backlog-1)
+    -  [5.2.1.4. Development Evidence for Sprint Review](#5214-Development-Evidence-for-Sprint-Review)
+    -  [5.2.1.5. Execution Evidence for Sprint Review](#5215-Execution-Evidence-for-Sprint-Review)
+    -  [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
+    -  [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
+    -  [5.2.1.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
+    -  [Conclusiones](#Conclusiones)
+    -  [Bibliografía](#Bibliografía)
+    -  [Anexos](#Anexos)
+
+
 
 # **Registro de Versiones del Informe**
 
@@ -159,6 +165,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
 | <img src="resources/GuillermoTantalean_Profile.jpg" width="500"> | Me llamo Guillermo Tantaleán, soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo habilidades para comunicarme acertivamente, me enfoco en el desarrollo de aplicaciones web y móvil, tengo conocimientos de business management, leadership, emprendimientos y negocios. Soy un amante de la tecnología y del buen café. Tengo buenas habilidades de trabajo en equipo. Domino lenguajes como Swift, Python, y C++. |
 | ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa)  | Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal. |
+
+| <img src="resources/Angel_Berrospi_Profile.jpg" > | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
+| <img src="resources/Raul_Tasayco_Profile.jpg" width="135" height="165" > | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
+| |  |
 | |  |
 
 ## 1.2. Solution Profile
@@ -174,6 +184,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Who? | ¿Quiénes son afectados? | Los principales afectados son los jóvenes y adultos que enfrentan altos niveles de estrés, ansiedad, o dificultades emocionales y no cuentan con recursos o tiempo suficiente para recibir atención profesional. En el caso de los niños o adolescentes, la pandemia afectó el proceso de socialización y de educabilidad, informa Campodónico. (Redacción National Geographic, 2022) |
 | How? | ¿Cómo se manifiesta el problema? | A través de la falta de soluciones digitales enfocadas en facilitar el acompañamiento terapéutico continuo. Las iniciativas existentes suelen ser costosas  o poco adaptadas a las realidades emocionales de los usuarios. |
 | How Much? | ¿Cuál es la magnitud del problema? | A nivel personal, puede derivar en trastornos crónicos, aislamiento o riesgo suicida que fueron causas de experiencias tales como la pérdida del empleo, distanciamiento social, fallecimiento de seres cercanos o el temor a contagiar a otros . A nivel social, genera sobrecarga en los sistemas de salud, pérdida de productividad y deterioro del bienestar general. |
+
 
 ## 1.2.2 Lean Ux Process
 
@@ -350,8 +361,14 @@ Youper aplicará una estrategia centrada en la diferenciación a través de la p
 #### * User Empathy Mapping psicóloga
 ![image_empathy_mapping_3](resources/UTM_S3.png)
 
-### 2.3.5. As-is Scenario Mapping.
-
+### 2.3.5. As-is Scenario Mapping
+#### * As-is Scenario Mapping joven
+![image_as_is_scenario_mapping_joven](resources/joven_alta_carga.png)
+#### * As-is Scenario Mapping adulto
+![image_as_is_scenario_mapping_adulto](resources/adulto_carga_laboral.png)
+#### * As-is Scenario Mapping psicologo
+![image_as_is_scenario_mapping_psicologo](resources/psicologa.png)
+Link de acceso: [Entrar acá](https://miro.com/welcomeonboard/RU10Z25nMGRCNENEMEpzWnVlaGUwWGlNSEV1YjBjOVQ2YkdiOHVRalIyVGQzSEJVblVKTnJOTkhUWEt6eUtIR1V3bk5Ia2V1SGZPTS9kSE9Xa1pBN05vK0sva1JpNVNUV0JIREdBZ09OdjE4QnFQZmhrYnZSdDg2Z2hnZ3dla29NakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=3143734650 "Link miro")
 
 ## 2.4. Ubiquitous Language
 
@@ -531,6 +548,7 @@ Segmento 1: Jóvenes adultos que enfrentan ansiedad y estrés académico,sentime
 
 ## 3.4. Product Backlog. 
 
+
 Una vez que se han redactado todas las historias de usuario (US), es esencial establecer un orden de prioridad. Para ello, se utiliza el Product Backlog, que permite organizar las historias según su valor y relevancia para el proyecto. La estimación del esfuerzo necesario para completar cada historia se realizó mediante la asignación de Story Points, basados en la escala de Fibonacci (1, 2, 3, 5, 8). A mayor número de puntos, mayor es el esfuerzo o el impacto asociado a la historia.
 
 | #  | Story ID | Título                         | Descripción                                                                                      | Story Points |
@@ -567,6 +585,8 @@ Una vez que se han redactado todas las historias de usuario (US), es esencial es
 | 30  | US030  | Conectarme con mi smartwatch            | Como usuario, quiero conectarme con mi smartwatch para monitorear mi sueño y estrés automáticamente.                  | 8         |
 
 
+=======
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
@@ -578,7 +598,8 @@ Las Style Guidelines son un conjunto de reglas fundamentales que definen y detal
 **Branding:**
 <br>Para la creación del logo de nuestro producto Youper, se ha optado por un diseño minimalista que refleja el objetivo de la aplicación. El aspecto del logo se compone del ícono de una hoja con detalles de ramas de un cerebro, lo que refleja la vida y el bienestar, acompañado de un corazón que refleja el bienestar y amor propio.
 
-<img src="resources/youper_logo.jpeg" alt="Logo_Youper" width="400" height="400">
+
+<img src="resources/Logo_Youper.png" alt="Logo_Youper" width="300" height="300">
 
 <br>**Typography:**
 <br>Para la elección de las tipografías que utilizaremos para Youper, se han seleccionado fuentes simples y modernas que transmitan la estética de la aplicación. A continuación, se presentan las tipografías utilizadas para Youper:
@@ -590,6 +611,7 @@ Las Style Guidelines son un conjunto de reglas fundamentales que definen y detal
 <br>- **Koulen:** Fuente tipográfica ideal para titulares, títulos y subtítulos, e incluso diseños de banners. Sus características los hacen ideales para crear texto impactante y atractivo. <br>
 
 <br>![Koulen Font](resources/Koulen_Font.png) <br>
+
 
 **Colors:**
 <br>Los colores son los encargados de brindar la primera percepción visual de los usuarios. En este contexto, la paleta de colores seleccionados para Youper está conformada por morado como tonalidad principal, que simboliza el pensamiento, delicadeza y espiritualidad. Por otro lado, el color amarillo simboliza la alegría, optimismo y la creatividad. Como tonalidades secundarias se hace uso de variedades cromáticas del color blanco, negro y plomo. Esta paleta asegura que se transmita un mensaje positivo a los usuarios.
@@ -627,6 +649,7 @@ Las Style Guidelines son un conjunto de reglas fundamentales que definen y detal
 <br>- **Silver (#A4A2A2):** Un gris metálico brillante que representa modernidad, tecnología y elegancia con un toque futurista.
 
 <br>![Silver Color](resources/Silver_Color.png)
+
 
 <br>**Spacing:**
 <br>Youper está diseñado para ofrecer una experiencia visual relajante y emocionalmente armoniosa. A continuación, se detallan las especificaciones de espaciado recomendadas para lograr una interfaz accesible, clara y centrada en el bienestar del usuario:
@@ -891,6 +914,143 @@ Cada segmento objetivo cuenta con su propio menú principal, con sus propios bot
 
 link:[Texto que quieres mostrar](https://www.figma.com/proto/A2Pd9XD8hb39RlUyH4HEq4/Youper?node-id=368-2859&t=K3qQzYDNCLNbhiJ7-0&scaling=min-zoom&content-scaling=fixed&page-id=368%3A1453&starting-point-node-id=368%3A2859)
 
+___
+
+## 4.6. Domain-Driven Software Architecture
+
+El enfoque de Domain Driven Design (DDD) busca establecer una comprensión común del dominio que define el espacio del problema. Este enfoque facilita una mejor colaboración entre los desarrolladores y los expertos en el dominio. DDD no se limita al uso de un lenguaje común, sino que también incluye una serie de patrones, métodos y diagramas arquitectónicos del sistema, cuyo propósito es alinear el software con el dominio y fortalecer la visión compartida que promueve este enfoque.<br>
+
+### 4.6.1. Software Architecture Context Diagram.
+El diagrama de contexto proporciona una visión general de alto nivel sobre cómo el sistema de software Youper se relaciona con sus usuarios y, en caso de existir, con otros sistemas externos.
+
+![Architecture Context Diagram](resources/System_context.png)
+
+### 4.6.2. Software Architecture Container Diagram.
+El diagrama de contenedores presenta una visión general de alto nivel sobre cómo interactúan las aplicaciones y las fuentes de datos que forman parte del funcionamiento del sistema de software Youper.
+
+![Architecture Container Diagram](resources/diagram_container.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+Los diagramas de componentes ofrecen una visión clara de cómo se relacionan los principales componentes del sistema de software. Estos elementos describen con mayor detalle la implementación de los módulos que conforman la aplicación.
+
+![Architecture Components Diagrams](resources/System_component.png)
+
+## 4.7. 
+### 4.7.1. Class Diagrams
+![DiagramClass](resources/diagramClasses.png)
+
+### 4.7.2. Class Dictionary.
+
+1. User 
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+ |age        | int    | User's age|
+ |email      | String | User's email|
+ |location   | String | User's location|
+ |dni        | int    | User's identification number|
+ |nacimiento | date | User's date of birth|
+
+2. Notification
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|IdNotification | int | Notification identifier|
+|typeNotification | String | Type of notification|
+
+3. Message
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|content | String | Message content|
+|sentDate | LocalDateTime | Date and time the message was sent|
+|senderName | String | Sender's name|
+|receiverName | String | Receiver's name|
+
+4. CAdministrator
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|adminName | String | Administrator's name|
+|adminRole | String | Administrator's role|
+|email | String | Administrator's email|
+|lastAccessDate | LocalDate | Last access date|
+
+5. System
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|SystemID | int | System identifier|
+|SystemName | String | System name|
+|version | int | System version|
+|ststua | String | System status (note: possible typo, should be 'status')|
+|dataFormal | String | Formal system date|
+
+6. CForum
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|title | String | Forum title|
+|description | String | Forum description|
+|creationDate | LocalDate | Forum creation date|
+
+7. CActivity
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|titleActivity | String | Activity title|
+|descriptionActivity | String | Activity description|
+|difficultyLevel | String | Activity difficulty level|
+|estimatedTimeMinutes | int | Estimated time in minutes|
+
+8. SelfAssessment
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|score | int | Assessment score|
+|assessmentDate | String | Date of assessment|
+|comments | String | Assessment comments|
+
+9. CCollaboration
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|groupName | String | Group name|
+|objective | String | Collaboration objective|
+|creationDate | LocalDate | Collaboration creation date|
+
+10. CMaterial
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|title | String | Material title|
+|description | String | Material description|
+|typeMaterial | String | Material type|
+|uploadDate | LocalDate | Material upload date|
+
+11. AnxietyCrisis
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|crisisDate | String | Date of the crisis|
+|symptomsDescription | String | Description of the symptoms|
+|interventionApplied | String | Applied intervention|
+
+12. CrisisRecord
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|recordDate | LocalDate | Record date|
+|anxietyLevel | int | Anxiety level|
+|actionsTake | string | Actions taken |
+
+13. ProgressTracker
+
+ |    Name   |  Type  | Descripción   |
+| :- | :- | :- |
+|progressPercentage | int | Progress percentage|
+|lastUpdateDate | LocalDate | Last update date|
+|currentGoal | String | Current goal|  
+
 
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
@@ -1106,10 +1266,74 @@ Todo el código de la solución deberá ser escrito completamente en inglés par
 - Usar un lenguaje orientado al negocio, entendible para todos los stakeholders, evitando detalles técnicos.
 - Implementar `Scenario Outline` cuando existan múltiples casos similares.
 - Agregar comentarios cuando se requiera contexto o explicaciones adicionales.
-  
-
-   
-   
 
 ### 5.1.4. Software Deployment Configuration.
+                                                                  
+
+### 5.2.x. Sprints
+
+## 5.2.1.1. Sprint Planning 1
+En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
+
+
+## 5.2.1.2. Aspect Leaders and Collaborators
+En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+
+## 5.2.1.3. Sprint Backlog 1
+Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+
+
+## 5.2.1.4. Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services
+
+
+## 5.2.1.5. Execution Evidence for Sprint Review
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
+presenta screenshots de las principales vistas implementadas
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing1.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing2.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing3.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing4.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing5.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing6.jpeg)
+
+
+## 5.2.1.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
+relacionados con el alcance del Sprint. 
+
+
+![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
+
+
+## 5.2.1.7  Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment
+durante este Sprint. 
+
+![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
+
+## 5.2.1.8. Team Collaboration Insights during Sprint
+En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+
+![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
+
+![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
+
+### Conclusiones
+
+- El presente trabajo nos permitió documentar y desarrollar una plataforma que tiene como objetivo mejorar el bienestar emocional de los usuarios. Basándonos en principios éticos y utilizando técnicas que nos han permitido transmitir correctamente las características y funcionalidades de la plataforma. Ello ha permitido garantizar las decisiones con el proyecto como el diseño visual, navegación y funcionalidad, mejorando la eficiencia del equipo.
+
+- La Landing Page fue diseñada priorizando una experiencia clara, amigable y accesible, facilitando que los visitantes comprendan rápidamente los beneficios de Youper y se interesen en probar el servicio. Cada sección contribuye en comunicar el valor y objetivos que Youper ofrece.
+
+### Bibliografía
+
+### Anexos
+
 
