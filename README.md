@@ -18,6 +18,7 @@
     * Nanfuñay Liza Pedro Jesús U202215462
     * Angel Guillermo Berrospi Marin U202114701
     * Orellana Rodriguez Mel Andree U202116018
+    * joel prudencio alcantara U20241d689
 
 
 <div>
@@ -389,3 +390,106 @@ El diagrama de contenedores presenta una visión general de alto nivel sobre có
 Los diagramas de componentes ofrecen una visión clara de cómo se relacionan los principales componentes del sistema de software. Estos elementos describen con mayor detalle la implementación de los módulos que conforman la aplicación.
 
 ![Architecture Components Diagrams](resources/System_component.png)
+
+# Capítulo V: Product Implementation, Validation \& Deployment
+
+## 5.1. Software Configuration Management
+En esta sección el equipo establece las decisiones y convenciones que permitirán
+mantener la consistencia durante el ciclo de vida
+
+###  5.1.1. Software Development Environment Configuration
+En esta sección el equipo especifica, describe e indica los nombres de productos y el
+propósito de uso en el proyecto.
+
+###  5.1.2. Source Code Management
+En esta sección el equipo establece los medios y esquema de organización que
+aplicará para el seguimiento de modificaciones.
+   
+###  5.1.3. Source Code Style Guide \& Conventions
+Aquí el equipo explica e indica las referencias que adoptará para nombrar elementos
+y programar en los lenguajes que se utilizan en la solución
+   
+###  5.1.4. Software Deployment Configuration
+En esta sección el equipo especifica la configuración del despliegue de la solución,
+incluyendo los pasos necesarios para que, a partir de los repositorios de código
+fuente, se pueda lograr el despliegue o publicación satisfactorio de cada uno de los
+productos digitales en la solución (Landing Page, Web Services, Frontend Web
+Applications).
+
+## 5.2. Landing Page, Service \& Applications Implementation
+En esta sección se explica y evidencia el proceso de implementación, pruebas,
+documentación y despliegue del Landing Page, Web Services y Frontend Web
+Applications.
+
+### 5.2.x. Sprints
+
+## 5.2.1.1. Sprint Planning 1
+En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
+
+![image_SprintPlaning](resources/SprintPlaning.JPG)
+
+
+## 5.2.1.2. Aspect Leaders and Collaborators
+En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+![image_AspectsLeaders](resources/AspectsLeaders.JPG)
+
+
+
+## 5.2.1.3. Sprint Backlog 1
+Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+
+
+## 5.2.1.4. Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services
+
+
+## 5.2.1.5. Execution Evidence for Sprint Review
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
+presenta screenshots de las principales vistas implementadas
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing1.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing2.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing3.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing4.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing5.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing6.jpeg)
+
+
+## 5.2.1.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
+relacionados con el alcance del Sprint. 
+
+
+![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
+
+
+## 5.2.1.7  Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment
+durante este Sprint. 
+
+![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
+
+## 5.2.1.8. Team Collaboration Insights during Sprint
+En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+
+![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
+
+![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
+
+### Conclusiones
+
+- El presente trabajo nos permitió documentar y desarrollar una plataforma que tiene como objetivo mejorar el bienestar emocional de los usuarios. Basándonos en principios éticos y utilizando técnicas que nos han permitido transmitir correctamente las características y funcionalidades de la plataforma. Ello ha permitido garantizar las decisiones con el proyecto como el diseño visual, navegación y funcionalidad, mejorando la eficiencia del equipo.
+
+- La Landing Page fue diseñada priorizando una experiencia clara, amigable y accesible, facilitando que los visitantes comprendan rápidamente los beneficios de Youper y se interesen en probar el servicio. Cada sección contribuye en comunicar el valor y objetivos que Youper ofrece.
+
+### Bibliografía
+
+### Anexos
+   
+
