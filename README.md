@@ -830,9 +830,43 @@ En esta sección se presentan los mock-ups de las aplicaciones web, diseñadas e
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+## Segmento objetivo 1: Jóvenes Adultos que necesitan enfrentar su ansiedad
+
+**User Goal:**  
+Como Joven, deseo registrarme en la Web Application de Youper para recibir una experiencia adaptada a mis necesidades emocionales.
+**User Flow:**, se evidencia un flujo que comienza en el login con mi correo y contraseña, continúa con la verificación adicional de datos como apellidos, número de contacto, país y género, y finaliza en una pantalla donde seleccionas los temas emocionales que me interesan para que la plataforma personalice mi recorrido desde el inicio.
+
+![v1](https://github.com/user-attachments/assets/1fb4589c-9916-4eb2-92e7-512a5046fa5b)
+
+## Segmento objetivo 2: Adultos con alta carga laboral que experimentan estrés y problemas de sueño
+
+**User Goal:** Como Adulto con alta carga laboral, deseo acceder desde mi hogar a una rutina nocturna personalizada con sonidos relajantes y meditaciones guiadas para conciliar el sueño y reducir mi estrés diario.
+
+**User Flow:** El usuario accede a la aplicación web de Youper desde su hogar, en horas de la noche, luego de una jornada laboral intensa. Desde la pantalla principal, el sistema detecta el horario y muestra una sugerencia destacada: “Prepara tu rutina nocturna”. Al hacer clic, se accede a una pantalla con opciones personalizadas como “Meditación para dormir”, “Sonidos relajantes (lluvia, bosque, océano)” y “Desconexión guiada para soltar el estrés”. El usuario selecciona “Meditación para dormir” y se reproduce una meditación guiada de entre 10 a 20 minutos, con voz calmante, música suave y visuales oscuros para facilitar la relajación.
+
+![v2](https://github.com/user-attachments/assets/69e16610-276b-495f-a598-a21ac6f8f6be)
+
+## Segmento objetivo 3: Reflejar claramente que está dirigido a profesionales de la salud mental y destacar su rol en el acompañamiento emocional mediante herramientas digitales
+
+**User Goal:** Como Especialista en salud mental, deseo acceder al historial emocional y a los registros de progreso de mis pacientes desde el panel profesional de Youper, para hacer un seguimiento detallado y brindar recomendaciones personalizadas.
+
+**User Flow:** El especialista inicia sesión en la plataforma web de Youper desde el Panel Profesional utilizando sus credenciales verificadas. Una vez autenticado, accede a un dashboard especializado, donde se muestra una lista de pacientes asignados, con indicadores visuales del estado emocional.
+
+![v3](https://github.com/user-attachments/assets/182e295a-e99a-4ded-abc6-455ab87b38f2)
+
 
 ### 4.5. Web Applications Prototyping.
 
+ Criterios esenciales para las decisiones de interacción
+
+A continuación, se describen los criterios esenciales para las decisiones de interacción en relación con la **Arquitectura de la Información** de nuestra aplicación. Estos criterios abarcan los elementos de la interfaz y los principios que se aplican a ellos. 
+Es importante destacar que, aunque la estructura general de la aplicación será consistente, se podrán observar algunas diferencias en los detalles visuales.
+
+ Botones / Tarjetas del menú principal
+
+Cada segmento objetivo cuenta con su propio menú principal, con sus propios botones.
+
+link:[Texto que quieres mostrar](https://www.figma.com/proto/A2Pd9XD8hb39RlUyH4HEq4/Youper?node-id=368-2859&t=K3qQzYDNCLNbhiJ7-0&scaling=min-zoom&content-scaling=fixed&page-id=368%3A1453&starting-point-node-id=368%3A2859)
 
 
 ## 4.8. Database Design.
