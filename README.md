@@ -541,7 +541,7 @@ Para Youper, planeamos desarrollar una plataforma web que tenga un enfoque de el
 - **About/Acerca de:** Sección para conocer a los desarrolladores de la plataforma y los planes de pago.
 - **Contact/Contacto:** Sección en la cual se le brindará al usuario todos los canales por los cuales se puede contactar.
 
-**Application Web:**
+**Web Application:**
 - **Home:** Página principal de la aplicación que muestra los datos principales del usuario respecto a su bienestar emocional, así como acceso a herramientas, ejercicios y chat con usuarios o terapeuta personal
 - **Perfil:** Permitirá a los usuarios acceder a su información personal, modificar sus datos, ver su historial de actividad y gestionar sus preferencias.
 - **Terapeuta:** Permite visualizar la información de el/la terapeuta personal.
@@ -574,6 +574,13 @@ Para Youper, planeamos desarrollar una plataforma web que tenga un enfoque de el
 - **Key Words:** Etiqueta que indica palabras clave del contenido de la página. <br> `<meta name="keywords" content="emotional health, welfare, self-esteem, digital therapy, mindfulness"/>`
 
 - **Author & Copyright:** Etiqueta que muestra la información del autor o autores. <br> `<meta name="author" content="MyMind Team"/>` <br> `<meta name="copyright" content="Copyright MyMind team" />`
+
+### 4.2.4. Searching Systems
+
+- **Barra de búsqueda general:** Ubicada en la parte superior derecha de la plataforma para acceder rápidamente a los recursos que ofrece como: manejo del estrés, ejercicios de respiración, diarios emocionales, etc.
+- **Sugerencias automáticas:** El sistema mostrará resultados predictivos mientras el usuario escribe (autocompletado), basados en búsquedas frecuentes y contenido popular.
+- **Filtros de búsqueda:** Se proporcionarán a los usuarios filtros para refinar su búsqueda con características clave, como categorías (ansiedad, estrés, sueño, etc.), contenidos (ejercicios interactivos, videos, sesiones guiadas, artículos), nivel (principiantes, intermedio, avanzado).
+- **Filtros avanzados:** Se proporcionarán filtros para refinar la búsqueda, como calificaciones, recientes y disponibilidad.
 
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
