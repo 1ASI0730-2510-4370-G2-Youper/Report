@@ -5,19 +5,21 @@
 
 ## Universidad Peruana de Ciencias Aplicadas
 ### Ingeniería de Software 💻
-### Docente: Alberto Wilmer Sanchez Seña
+### Curso: Aplicaciones Web (1ASI0730)
 ### NRC: 4370
+### Docente: Alberto Wilmer Sanchez Seña
+### Startup: MyMind
 ## YOUPER 
 
 
 <div align = "left">
 
 * Integrantes
-    * Tantaleán Mesta Guillermo Fabián U202311958
-    * Tasayco Osorio Raul Hiroshi U202319415
-    * Nanfuñay Liza Pedro Jesús U202215462
-    * Angel Guillermo Berrospi Marin U202114701
-    * Orellana Rodriguez Mel Andree U202116018
+    * Tantaleán Mesta Guillermo Fabián - U202311958
+    * Tasayco Osorio Raul Hiroshi - U202319415
+    * Nanfuñay Liza Pedro Jesús - U202215462
+    * Angel Guillermo Berrospi Marin - U202114701
+    * Orellana Rodriguez Mel Andree - U202116018
 
 <div>
 
@@ -114,6 +116,12 @@
 - [Conclusiones](#conclusiones)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
   - [Video About-the-Team](#video-about-the-team)
+
+# **Registro de Versiones del Informe**
+
+| Versión | Fecha | Autor | Descripción de modificación |
+|-----------|-----------|-----------|-----------|
+| TB1 | 07/04/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Tasayco Osorio Raul Hiroshi <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han incluído los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
 
 # Capítulo I: Introducción
 
