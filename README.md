@@ -107,14 +107,18 @@
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Service \& Applications Implementation](#52-landing-page-service--applications-implementation)
     - [5.2.x. Sprints](#52x-sprints)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
+    -  [5.2.1.1. Sprint Planning 1](#5211-Sprint-Planning1)
+    -  [5.2.1.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
+    -  [5.2.1.3. Sprint Backlog 1](#5213-Sprint-Backlog-1)
+    -  [5.2.1.4. Development Evidence for Sprint Review](#5214-Development-Evidence-for-Sprint-Review)
+    -  [5.2.1.5. Execution Evidence for Sprint Review](#5215-Execution-Evidence-for-Sprint-Review)
+    -  [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
+    -  [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
+    -  [5.2.1.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
+    -  [Conclusiones](#Conclusiones)
+    -  [Bibliografía](#Bibliografía)
+    -  [Anexos](#Anexos)
+
 
 
 # Capítulo I: Introducción
@@ -505,3 +509,80 @@ Los diagramas de componentes ofrecen una visión clara de cómo se relacionan lo
 |progressPercentage | int | Progress percentage|
 |lastUpdateDate | LocalDate | Last update date|
 |currentGoal | String | Current goal|
+
+# Capítulo V: Product Implementation, Validation \& Deployment
+
+## 5.1. Software Configuration Management
+En esta sección el equipo establece las decisiones y convenciones que permitirán
+mantener la consistencia durante el ciclo de vida
+
+###  5.1.1. Software Development Environment Configuration
+En esta sección el equipo especifica, describe e indica los nombres de productos y el
+propósito de uso en el proyecto.
+
+###  5.1.2. Source Code Management
+En esta sección el equipo establece los medios y esquema de organización que
+aplicará para el seguimiento de modificaciones.
+   
+###  5.1.3. Source Code Style Guide \& Conventions
+Aquí el equipo explica e indica las referencias que adoptará para nombrar elementos
+y programar en los lenguajes que se utilizan en la solución
+   
+###  5.1.4. Software Deployment Configuration
+En esta sección el equipo especifica la configuración del despliegue de la solución,
+incluyendo los pasos necesarios para que, a partir de los repositorios de código
+fuente, se pueda lograr el despliegue o publicación satisfactorio de cada uno de los
+productos digitales en la solución (Landing Page, Web Services, Frontend Web
+Applications).
+
+## 5.2. Landing Page, Service \& Applications Implementation
+En esta sección se explica y evidencia el proceso de implementación, pruebas,
+documentación y despliegue del Landing Page, Web Services y Frontend Web
+Applications.
+
+### 5.2.x. Sprints
+
+## 5.2.1.1. Sprint Planning 1
+En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
+
+
+## 5.2.1.2. Aspect Leaders and Collaborators
+En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+
+## 5.2.1.3. Sprint Backlog 1
+Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+
+
+## 5.2.1.4. Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services
+
+
+## 5.2.1.5. Execution Evidence for Sprint Review
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
+presenta screenshots de las principales vistas implementadas
+
+
+## 5.2.1.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
+relacionados con el alcance del Sprint. 
+
+## 5.2.1.7  Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment
+durante este Sprint. 
+
+## 5.2.1.8. Team Collaboration Insights during Sprint
+En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+
+
+### Conclusiones
+
+
+### Bibliografía
+
+
+### Anexos
+   
+
+   
+
