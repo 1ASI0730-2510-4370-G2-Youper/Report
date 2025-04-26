@@ -108,15 +108,17 @@
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Service \& Applications Implementation](#52-landing-page-service--applications-implementation)
     - [5.2.x. Sprints](#52x-sprints)
-  - [5.3. Validation Interviews](#53-validation-interviews)
-    - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
-    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
-    - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
-  - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-  - [Video About-the-Team](#video-about-the-team)
-
+    -  [5.2.1.1. Sprint Planning 1](#5211-Sprint-Planning1)
+    -  [5.2.1.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
+    -  [5.2.1.3. Sprint Backlog 1](#5213-Sprint-Backlog-1)
+    -  [5.2.1.4. Development Evidence for Sprint Review](#5214-Development-Evidence-for-Sprint-Review)
+    -  [5.2.1.5. Execution Evidence for Sprint Review](#5215-Execution-Evidence-for-Sprint-Review)
+    -  [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
+    -  [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
+    -  [5.2.1.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
+    -  [Conclusiones](#Conclusiones)
+    -  [Bibliografía](#Bibliografía)
+    -  [Anexos](#Anexos)
 
 # Capítulo I: Introducción
 
