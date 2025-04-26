@@ -483,7 +483,6 @@ Tras analizar las Epics definidas, procedimos a desglosarlas en User Stories má
 | US066           | Botón de contacto rápido con profesional                              | Como usuario en crisis, Quiero tener un botón de contacto rápido con un profesional Para recibir asistencia inmediata.                          | Dado que el usuario se siente en crisis emocional, Cuando presiona el botón SOS, Entonces se establece contacto con un profesional disponible.                           | EPIC010                    |
 | US067           | Validación de identidad con código OTP                                | Como usuario, Quiero validar mi identidad mediante un código OTP Para asegurar que solo yo accedo a mi cuenta.                                 | Dado que el usuario intenta iniciar sesión, Cuando introduce su correo electrónico, Entonces recibe un código OTP para completar el acceso.                              | EPIC014                    |
 | US068           | Panel de métricas emocionales para psicólogos                         | Como psicólogo, Quiero ver un panel con métricas emocionales resumidas Para tomar decisiones informadas durante la terapia.                    | Dado que el psicólogo tiene pacientes asignados, Cuando accede al panel de métricas, Entonces ve un resumen de evolución emocional y eventos destacados.                 | EPIC010                    |
-| Epic / Story ID | Título                                           | Descripción                                                                                     | 
 | US069           | Descarga de informes emocionales                 | Como usuario, Quiero poder descargar mis informes emocionales en PDF Para compartirlos con mi terapeuta. | Dado que el usuario accede a su historial emocional, Cuando presiona el botón de descarga, Entonces se genera un archivo PDF con su evolución emocional. | EPIC005                    |
 | US070           | Integración con Google Fit                       | Como usuario, Quiero conectar la app con Google Fit Para unificar datos de sueño y actividad física.     | Dado que el usuario autoriza la integración, Cuando sincroniza sus datos, Entonces los datos de sueño y actividad aparecen en la app.                     | EPIC009                    |
 | US071           | Recordatorio de evaluación emocional semanal     | Como usuario, Quiero recibir recordatorios para hacer evaluaciones semanales Para seguir mi evolución emocional. | Dado que el usuario no ha completado su evaluación, Cuando llega el día programado, Entonces recibe una notificación para realizarla.                    | EPIC003                    |
@@ -507,8 +506,43 @@ Segmento 1: Jóvenes adultos que enfrentan ansiedad y estrés académico,sentime
  
  ![Impact map 3](https://github.com/user-attachments/assets/f91bdba7-5249-47a7-bb9a-86384c2240a8)
 
-
 ## 3.4. Product Backlog. 
+
+Una vez que se han redactado todas las historias de usuario (US), es esencial establecer un orden de prioridad. Para ello, se utiliza el Product Backlog, que permite organizar las historias según su valor y relevancia para el proyecto. La estimación del esfuerzo necesario para completar cada historia se realizó mediante la asignación de Story Points, basados en la escala de Fibonacci (1, 2, 3, 5, 8). A mayor número de puntos, mayor es el esfuerzo o el impacto asociado a la historia.
+
+| #  | Story ID | Título                         | Descripción                                                                                      | Story Points |
+|----|----------|--------------------------------|--------------------------------------------------------------------------------------------------|--------------|
+| 1  | US001    | Ver el historial de emociones  | Como psicólogo, quiero ver el historial de emociones para hacer un seguimiento del progreso del usuario. | 5            |
+| 2  | US002    | Recibir recomendaciones diarias| Como administrador, quiero recibir recomendaciones diarias para mejorar mi bienestar emocional.        | 3            |
+| 3  | US003    | Escuchar música relajante      | Como responsable, quiero escuchar música relajante para reducir mi nivel de estrés.                    | 3            |
+| 4  | US004    | Ver los datos de sueño                          | Como usuario con problemas de sueño, quiero ver los datos de sueño para mejorar la calidad del descanso.               | 5            |
+| 5  | US005    | Acceder a meditaciones guiadas                  | Como psicólogo, quiero acceder a meditaciones guiadas para calmar mi ansiedad.                                         | 5            |
+| 6  | US006    | Editar mi perfil                                | Como administrador, quiero editar mi perfil para mantener mis datos actualizados.                                      | 2            |
+| 7  | US007    | Leer artículos de salud mental                  | Como responsable, quiero leer artículos de salud mental para entender mejor mis emociones.                             | 3            |
+| 8  | US008    | Monitorear indicadores de estrés                | Como usuario, quiero monitorear indicadores de estrés para prevenir crisis emocionales.                                | 5            |
+| 9  | US009    | Enviar retroalimentación a la app              | Como psicólogo, quiero enviar retroalimentación a la app para mejorar la experiencia del usuario.                      | 2            |
+| 10 | US010    | Agendar una sesión                              | Como administrador, quiero agendar una sesión para recibir orientación emocional personalizada.                        | 3            |
+| 11 | US011    | Ver beneficios en la landing page              | Como visitante nuevo, quiero ver los beneficios principales de la app en la landing page para entender su utilidad.    | 3            |
+| 12 | US012    | Acceder al historial emocional desde la web    | Como usuario, quiero acceder a mi historial emocional desde la web para revisar mi progreso en cualquier dispositivo.  | 5            |
+| 13 | US013    | Obtener datos de sueño desde IoT               | Como backend, quiero recibir datos de sueño de dispositivos IoT para integrarlos en el monitoreo emocional.            | 8            |
+| 14 | US014    | Realizar ejercicios de respiración para calmarme| Como usuario con ansiedad, quiero realizar ejercicios de respiración para calmarme en momentos de ansiedad.            | 5            |
+| 15 | US015    | Ver estado emocional de dependientes           | Como responsable, quiero ver el estado emocional de mis dependientes para dar seguimiento a su bienestar.              | 5            |
+| 16 | US016    | Recibir reportes periódicos de emociones       | Como psicólogo, quiero recibir reportes periódicos de emociones para evaluar el progreso del tratamiento.              | 5            |
+| 17 | US017    | Configurar metas emocionales personalizadas    | Como administrador, quiero configurar metas emocionales para adaptar la experiencia del usuario.                       | 5            |
+| 18 | US018    | Recibir notificaciones para ejercicios emocionales | Como usuario, quiero recibir notificaciones diarias para recordar mis ejercicios emocionales.                       | 3            |
+| 19 | US019    | Escuchar sonidos para dormir                   | Como usuario con insomnio, quiero escuchar sonidos para dormir para mejorar la calidad de mi sueño.                    | 3            |
+| 20 | US020    | Ver recomendaciones personalizadas             | Como usuario, quiero ver recomendaciones personalizadas para mejorar mi estado emocional.                              | 5            |
+| 21 | US021    | Acceder a artículos y videos de bienestar      | Como usuario, quiero acceder a artículos y videos de bienestar para aprender más sobre salud emocional.                | 3            |
+| 22 | US022    | Registrarme de forma segura                    | Como usuario, quiero registrarme de forma segura para proteger mis datos personales.                                   | 3            |
+| 23 | US023    | Monitorear mi progreso emocional               | Como usuario, quiero monitorear mi progreso emocional para ver cómo evoluciono día a día.                              | 5            |
+| 24 | US024    | Acceder a la app desde múltiples dispositivos  | Como usuario, quiero acceder a la app desde múltiples dispositivos para usar la app en cualquier momento.              | 3            |
+| 25 | US025    | Mejorar rendimiento de la landing              | Como desarrollador, quiero mejorar el rendimiento de la landing para ofrecer una experiencia más fluida.               | 5            |
+| 26 | US026    | Ver recomendaciones basadas en TCC             | Como usuario, quiero ver recomendaciones basadas en TCC para recibir apoyo emocional más efectivo.                     | 5            |
+| 27  | US027  | Agendar sesiones para dependientes      | Como responsable, quiero agendar sesiones para mis dependientes para ayudarles a recibir atención profesional.         | 5         |
+| 28  | US028  | Tener versión gratuita con funciones básicas | Como usuario, quiero tener una versión gratuita para probar la app antes de pagar.                                      | 3         |
+| 29  | US029  | Ver estadísticas emocionales            | Como usuario, quiero ver mis estadísticas emocionales para reflexionar sobre mi estado actual.                        | 5         |
+| 30  | US030  | Conectarme con mi smartwatch            | Como usuario, quiero conectarme con mi smartwatch para monitorear mi sueño y estrés automáticamente.                  | 8         |
+
 
 # Capítulo IV: Product Design
 
