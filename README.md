@@ -582,6 +582,15 @@ Para Youper, planeamos desarrollar una plataforma web que tenga un enfoque de el
 - **Filtros de búsqueda:** Se proporcionarán a los usuarios filtros para refinar su búsqueda con características clave, como categorías (ansiedad, estrés, sueño, etc.), contenidos (ejercicios interactivos, videos, sesiones guiadas, artículos), nivel (principiantes, intermedio, avanzado).
 - **Filtros avanzados:** Se proporcionarán filtros para refinar la búsqueda, como calificaciones, recientes y disponibilidad.
 
+### 4.2.5. Navigation Systems
+
+**Landing Page:** <br>
+La navegación en la landing page estará enfocada en captar el interés de nuevos usuarios y guiarlos de forma clara hacia la acción deseada, como registrarse o conocer los beneficios del producto. Se utilizará un menú superior visible con enlaces hacia secciones clave como Características, Beneficios, Testimonios, Acerca de y Contacto. El logotipo funcionará como acceso directo a la sección principal, permitiendo volver a la sección inicial.
+
+**Web Application:** <br>
+La navegación en la aplicación web se organizará a través de un dashboard personalizado que funcionará como punto inicial desde el cual el usuario podrá acceder a todas las herramientas y contenidos de la aplicación. Este dashboard estará disponible inmediatamente después de iniciar sesión, y su diseño facilitará la exploración de los módulos más relevantes para cada tipo de usuario. <br>
+Además, se presentará accesos directos desde el panel de navegación lateral ubicado en el ícono de perfil, donde se podrá acceder a secciones como Perfil, Historial, Mi Progreso y Comunidad.
+
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
 
