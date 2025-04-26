@@ -743,6 +743,98 @@ La navegación en la landing page estará enfocada en captar el interés de nuev
 La navegación en la aplicación web se organizará a través de un dashboard personalizado que funcionará como punto inicial desde el cual el usuario podrá acceder a todas las herramientas y contenidos de la aplicación. Este dashboard estará disponible inmediatamente después de iniciar sesión, y su diseño facilitará la exploración de los módulos más relevantes para cada tipo de usuario. <br>
 Además, se presentará accesos directos desde el panel de navegación lateral ubicado en el ícono de perfil, donde se podrá acceder a secciones como Perfil, Historial, Mi Progreso y Comunidad.
 
+### 4.3. Landing Page UI Design.
+
+Las Landing Pages son herramientas diseñadas para transformar a los visitantes en posibles clientes, utilizando elementos como mensajes atractivos e información relevante sobre el producto, entre otros. Por esta razón, se optó por emplear esta estrategia, y se creó una versión preliminar tanto para dispositivos móviles como para computadoras.
+
+Para la versión de computadora, se diseñaron ventanas con opciones claramente especificadas que facilitan la comprensión del usuario, acompañadas de descripciones detalladas de cada función del sitio web para evitar cualquier dificultad. Además, la barra de navegación se ha colocado en una posición fija, de manera que esté siempre accesible, permitiendo al usuario navegar cómodamente por la Landing Page.
+
+## 4.3.1.  Landing Page Wireframe.
+
+-Desktop Web Browser
+En esta primera parte, se presenta la página de inicio de la plataforma web. Se incluyen botones para que el usuario tenga acceso a otras páginas de nuestro sitio web. En el pie de página, se visualizan las opciones que te llevan a las diversas secciones.
+
+
+## 4.3.2.  Landing Page Mock-up.
+
+A continuación, se presenta el mockup de la landing page diseñado en Figma, que incluye una estructura clara y amigable. La página está organizada en varias secciones clave:
+
+![landing-mockup](https://github.com/user-attachments/assets/09153bba-316f-42fc-805b-f1988677d1f8)
+
+### 4.4. Web Applications UX/UI Design.
+## 4.4.1. Web Applications Wireframes.
+
+En esta sección, se presentan los wireframes que ilustran la estructura y disposición de los elementos en la interfaz de la aplicación web. Estos wireframes permiten visualizar de manera clara y concisa la disposición de los componentes en las distintas páginas, facilitando la planificación del diseño y la navegación.
+A continuación, se detallan los wireframes correspondientes a las diferentes secciones de la aplicación web.
+
+![Web_Wireframe](https://github.com/user-attachments/assets/21ab54de-db6d-48da-a200-1c18f9007113)
+
+[Figma: Mockup de la aplicación web](https://www.figma.com/design/A2Pd9XD8hb39RlUyH4HEq4/Youper?node-id=367-2&p=f&t=QkhY6CUl6ljKKnrz-0)
+
+## 4.4.2. Web Applications Wireflow Diagrams.
+
+En esta sección, se presentan los wireflow diagramas que ilustran los flujos de interacción en la aplicación web. Estos diagramas permiten visualizar de manera clara y concisa los pasos que seguirá el usuario para lograr distintos objetivos dentro de la aplicación. A continuación, se detallan los diagramas correspondientes a los distintos flujos de usuario.
+
+## Diagrama 1 – User Goal  
+**Como nuevo usuario deseo completar mi registro e intereses para recibir una experiencia personalizada**
+
+#### Descripción:
+En el presente *Wireflow*, se muestra el flujo que seguirá un nuevo usuario de **Youper** para completar su registro y configurar su perfil emocional.
+Inicialmente, deberá ingresar con su correo y contraseña. Luego, el sistema lo redirigirá a una pantalla para verificación y recolección de datos personales adicionales, como apellidos, número de contacto, país y género.
+Una vez completado este paso, accederá a una nueva pantalla donde podrá seleccionar los temas emocionales que más le interesan abordar, como estrés, autoestima, relaciones románticas, ansiedad, entre otros. Esto permitirá a la aplicación personalizar la experiencia y los contenidos ofrecidos desde el inicio.
+
+![d1](https://github.com/user-attachments/assets/730ebf9a-f74f-4278-b670-e8d5c55e8156)
+
+### Diagrama 2 – User Goal  
+**Como usuario, deseo poder visualizar todos los puntos importantes de cada módulo que ofrece la aplicación web**
+
+#### Descripción:
+En este *Wireflow* se representa el recorrido que realiza un usuario desde el menú principal para acceder a la sección de módulos emocionales de la aplicación **Youper**.
+Una vez autenticado, el usuario podrá hacer clic en la opción **“Explorar Módulos”**. En esta pantalla se mostrará un resumen visual y textual de cada módulo disponible. Cada módulo incluirá una descripción breve, sus beneficios clave y un botón de acceso directo a las herramientas principales.
+
+![d2](https://github.com/user-attachments/assets/a69fc3b2-30c8-4151-b74b-5f627e9d60eb)
+
+### Diagrama 3 – User Goal  
+**Como usuario, deseo acceder fácilmente a secciones complementarias como música relajante, profesionales disponibles y artículos útiles desde el menú lateral**
+
+#### Descripción:
+En este *Wireflow* se ilustra cómo un usuario navega por la aplicación web de **Youper** utilizando el menú lateral izquierdo, donde se concentran accesos directos mediante íconos intuitivos a funciones complementarias que enriquecen su bienestar emocional.
+Desde cualquier pantalla principal de la aplicación, el usuario podrá visualizar un menú lateral con íconos.
+
+![d3](https://github.com/user-attachments/assets/b9ed9642-eeb6-4821-a7e3-445d87007d04)
+
+
+### Diagrama 4 – User Goal  
+**Como psicólogo autorizado, deseo visualizar a los pacientes asignados y acceder a sus observaciones clínicas**
+
+#### Descripción:
+En este *Wireflow* se detalla el flujo que sigue un psicólogo dentro de la plataforma web de **Youper** para acceder a los pacientes que tiene autorizados visualizar y consultar observaciones clínicas previas.
+Desde el menú lateral izquierdo, el profesional podrá seleccionar un ícono de **"Pacientes Asignados"**. Al ingresar, se mostrará una lista de pacientes a los que tiene acceso, junto con información básica como nombre, edad, fecha del último ingreso y estado emocional general.
+
+![d4](https://github.com/user-attachments/assets/5d797101-d72f-4064-a7bc-302d2596faf9)
+
+### Diagrama 5 – User Goal  
+**Como psicólogo, deseo recibir sugerencias personalizadas y visualizar el gráfico emocional del paciente para tomar decisiones terapéuticas más informadas**
+
+#### Descripción:
+Este *Wireflow* representa el flujo que sigue un psicólogo desde el panel de pacientes para acceder a la sección de **"Complementos"**, un área especializada que ofrece sugerencias automáticas y gráficos emocionales de los pacientes, con base en el análisis de sus interacciones y estados registrados en la app.
+
+![d5](https://github.com/user-attachments/assets/8568219f-ece6-4393-b8e5-4cb8a789d092)
+
+
+### 4.4.2. Web Applications Mock-ups.
+
+En esta sección se presentan los mock-ups de las aplicaciones web, diseñadas específicamente para los segmentos objetivos definidos. Estos mock-ups permiten visualizar la apariencia y disposición de los elementos de la interfaz, facilitando la comprensión del diseño final y su implementación final para el apartado del desarrollo.
+
+![ter](https://github.com/user-attachments/assets/3415b746-72d7-42e4-a16d-0ec8ddaecfa7)
+
+### 4.4.3. Web Applications User Flow Diagrams.
+
+
+### 4.5. Web Applications Prototyping.
+
+
+
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
 
