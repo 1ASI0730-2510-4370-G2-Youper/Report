@@ -482,7 +482,7 @@ Esta decisión busca mantener un balance entre funcionalidad, facilidad de imple
 A continuación el diagrama elaborado para la Base de Datos de Youper.
 
 <p align="center">
-  <img src="assets/chapter04/database/databasediagram.svg" style="width:800px; height:auto;">
+  <img src="/resources/databaseDiagram.png" style="width:800px; height:auto;">
 </p>
 
 # Capítulo V: Product Implementation, Validation & Deployment
