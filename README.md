@@ -123,6 +123,21 @@
 |-----------|-----------|-----------|-----------|
 | TB1 | 07/04/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Tasayco Osorio Raul Hiroshi <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han incluído los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
 
+# **Project Report Collaboration Insights**
+
+URL Project Report (Github): [https://github.com/1ASI0730-2510-4370-G2-Youper/Report](https://github.com/1ASI0730-2510-4370-G2-Youper/Report)
+
+# **Student Outcome**
+
+**ABET – EAC - Student Outcome 5**
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos. 
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5. 
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+| ------------------- | ------------------- | ------------ |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en las reuniones y decisiones del equipo, cumpliendo mi parte del trabajo en los plazos establecidos, demostrando compromiso y responsabilidad con el desarrollo del proyecto y del equipo. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que nos permite realizar avances y cumplir con las tareas asignadas, cumpliendo con estas de manera eficiente y en el plazo planificado. | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. |
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
