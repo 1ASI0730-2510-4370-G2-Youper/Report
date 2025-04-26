@@ -567,13 +567,21 @@ presenta screenshots de las principales vistas implementadas
 En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
 relacionados con el alcance del Sprint. 
 
+![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
+
+
 ## 5.2.1.7  Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment
 durante este Sprint. 
 
+![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
+
 ## 5.2.1.8. Team Collaboration Insights during Sprint
 En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
 
+![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
+
+![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
 
 ### Conclusiones
 
