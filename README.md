@@ -530,6 +530,28 @@ Para Youper, planeamos desarrollar una plataforma web que tenga un enfoque de el
    <br> **Esquema de categorización:** Alfabético
   <br> Se aplicará en la búsqueda por orden alfabético para la búsqueda del contenido. Esto facilitará el acceso rápido a definiciones, términos o técnicas específicas.
 
+
+### 4.2.2. Labeling Systems
+
+**Landing Page:**
+- **Home/Inicio:** Sección principal que mostrará la idea principal de la aplicación.
+- **Features/Características:** Sección que muestra las principales funciones de la aplicación
+- **Benefits/Beneficios:** Sección que muestra los beneficios de utilizar la aplicación.
+- **Testimonials/Testimonios:** Sección que muestra los testimonios de usuarios que han utilizado la aplicación.
+- **About/Acerca de:** Sección para conocer a los desarrolladores de la plataforma y los planes de pago.
+- **Contact/Contacto:** Sección en la cual se le brindará al usuario todos los canales por los cuales se puede contactar.
+
+**Application Web:**
+- **Home:** Página principal de la aplicación que muestra los datos principales del usuario respecto a su bienestar emocional, así como acceso a herramientas, ejercicios y chat con usuarios o terapeuta personal
+- **Perfil:** Permitirá a los usuarios acceder a su información personal, modificar sus datos, ver su historial de actividad y gestionar sus preferencias.
+- **Terapeuta:** Permite visualizar la información de el/la terapeuta personal.
+- **Herramientas:** Acceso a herramientas como artículos, videos, etc.
+- **Ejercicios:** Acceso a herramientas para disminuir sentimientos como angustia, estrés, etc.
+- **Búsqueda:** Permite realizar búsquedas en la aplicación para acceder a contenidos según criterios.
+- **Favoritos:** Acceso directo a las sesiones o herramientas guardadas por el usuario.
+- **Notificaciones:** Acceso a las notificaciones sobre su proceso terapeútico, recomendaciones o mensajes.
+
+
 ## 4.8. Database Design.
 La elección del sistema de gestión de bases de datos (DBMS) es un factor fundamental para garantizar la eficiencia, escalabilidad y mantenibilidad de una aplicación web como Youper. A continuación, se presenta una comparación entre tres sistemas ampliamente utilizados en el desarrollo de software: MySQL, SQL Server y MongoDB.
 
