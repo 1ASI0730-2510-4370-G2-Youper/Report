@@ -797,6 +797,9 @@ Las Landing Pages son herramientas diseñadas para transformar a los visitantes 
 
 Para la versión de computadora, se diseñaron ventanas con opciones claramente especificadas que facilitan la comprensión del usuario, acompañadas de descripciones detalladas de cada función del sitio web para evitar cualquier dificultad. Además, la barra de navegación se ha colocado en una posición fija, de manera que esté siempre accesible, permitiendo al usuario navegar cómodamente por la Landing Page.
 
+[Link de la Landing](https://1asi0730-2510-4370-g2-youper.github.io/Landing-Page/)
+
+
 ## 4.3.1.  Landing Page Wireframe.
 
 -Desktop Web Browser
