@@ -24,6 +24,7 @@
     * Joel Prudencio Alcantara U20241d689
 
 
+
 <div>
 
 ## Contenido
@@ -145,6 +146,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | ------------------- | ------------------- | ------------ |
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en las reuniones y decisiones del equipo, cumpliendo mi parte del trabajo en los plazos establecidos, demostrando compromiso y responsabilidad con el desarrollo del proyecto y del equipo. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que nos permite realizar avances y cumplir con las tareas asignadas, cumpliendo con estas de manera eficiente y en el plazo planificado. | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. |
+
 
 # Capítulo I: Introducción
 
@@ -1037,6 +1039,7 @@ Los diagramas de componentes ofrecen una visión clara de cómo se relacionan lo
 
 ![Architecture Components Diagrams](resources/System_component.png)
 
+
 ## 4.7. 
 ### 4.7.1. Class Diagrams
 ![DiagramClass](resources/diagramClasses.png)
@@ -1371,6 +1374,37 @@ Todo el código de la solución deberá ser escrito completamente en inglés par
 
 ### 5.1.4. Software Deployment Configuration.
                                                                   
+=======
+# Capítulo V: Product Implementation, Validation \& Deployment
+
+## 5.1. Software Configuration Management
+En esta sección el equipo establece las decisiones y convenciones que permitirán
+mantener la consistencia durante el ciclo de vida
+
+###  5.1.1. Software Development Environment Configuration
+En esta sección el equipo especifica, describe e indica los nombres de productos y el
+propósito de uso en el proyecto.
+
+###  5.1.2. Source Code Management
+En esta sección el equipo establece los medios y esquema de organización que
+aplicará para el seguimiento de modificaciones.
+   
+###  5.1.3. Source Code Style Guide \& Conventions
+Aquí el equipo explica e indica las referencias que adoptará para nombrar elementos
+y programar en los lenguajes que se utilizan en la solución
+   
+###  5.1.4. Software Deployment Configuration
+En esta sección el equipo especifica la configuración del despliegue de la solución,
+incluyendo los pasos necesarios para que, a partir de los repositorios de código
+fuente, se pueda lograr el despliegue o publicación satisfactorio de cada uno de los
+productos digitales en la solución (Landing Page, Web Services, Frontend Web
+Applications).
+
+## 5.2. Landing Page, Service \& Applications Implementation
+En esta sección se explica y evidencia el proceso de implementación, pruebas,
+documentación y despliegue del Landing Page, Web Services y Frontend Web
+Applications.
+
 
 ### 5.2.x. Sprints
 
@@ -1441,6 +1475,7 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 
 ### Bibliografía
 
+
 - Causas comunes de los trastornos mentales * Psyciencia. (2022, 21 febrero). Psyciencia. https://www.psyciencia.com/algunas-causas-comunes-de-los-trastornos-mentales/
 - En el Día Mundial de la Salud Mental, conoce qué es y por qué aumentaron los casos de depresión y ansiedad en la región. (2022, 11 octubre). National Geographic. https://www.nationalgeographicla.com/ciencia/2022/10/como-la-covid-19-afecto-a-la-salud-mental-en-latinoamerica
 - Francia, G. (2021, 5 febrero). Significado del color morado en psicología. psicologia-online.com. https://www.psicologia-online.com/significado-del-color-morado-en-psicologia-5475.html
@@ -1455,5 +1490,6 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 - World Health Organization: WHO. (2022, 8 junio). Trastornos mentales. https://www.who.int/es/news-room/fact-sheets/detail/mental-disorders
 
 ### Anexos
+
 
 
