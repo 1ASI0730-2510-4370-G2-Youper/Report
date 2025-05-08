@@ -1293,6 +1293,7 @@ En esta sección el equipo que incluye la elaboración de un artefacto Leadershi
 ## 5.2.1.3. Sprint Backlog 1
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
 
+![Image_SprintBacklog](resources/SprintBacklog.JPG)
 
 ## 5.2.1.4. Development Evidence for Sprint Review
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services
