@@ -1423,6 +1423,7 @@ En esta sección el equipo que incluye la elaboración de un artefacto Leadershi
 
 ## 5.2.1.3. Sprint Backlog 1
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+![Image_SprintBacklog](resources/SprintBacklog.JPG)
 
 
 ## 5.2.1.4. Development Evidence for Sprint Review
