@@ -120,6 +120,15 @@
     -  [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
     -  [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
     -  [5.2.1.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
+    - [5.2.2. Sprint 2](#52x-sprints)
+    -  [5.2.2.1. Sprint Planning 2](#5211-Sprint-Planning1)
+    -  [5.2.2.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
+    -  [5.2.2.3. Sprint Backlog 2](#5213-Sprint-Backlog-1)
+    -  [5.2.2.4. Development Evidence for Sprint Review](#5214-Development-Evidence-for-Sprint-Review)
+    -  [5.2.2.5. Execution Evidence for Sprint Review](#5215-Execution-Evidence-for-Sprint-Review)
+    -  [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
+    -  [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
+    -  [5.2.2.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
     -  [Conclusiones](#Conclusiones)
     -  [Bibliografía](#Bibliografía)
     -  [Anexos](#Anexos)
@@ -1407,12 +1416,64 @@ documentación y despliegue del Landing Page, Web Services y Frontend Web
 Applications.
 
 
-### 5.2.x. Sprints
+### 5.2.1. Sprints
 
 ## 5.2.1.1. Sprint Planning 1
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
 
-![image_SprintPlaning](resources/SprintPlaning.JPG)
+<table>
+<tr>
+    <th colspan="5">Sprint </th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-04-9</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">4:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Servidor de Discord del equipo</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Andre Orellana</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8"> Tasayco Osorio Raul Hiroshi, Nanfuñay Liza Pedro Jesús,Mel Andre Rodriguez Orellana, Angel Berrospi Marin, Joel Prudencio Alcantara</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En esta segunda sección se planteó el mejormiento del desarrollo y estructura de la Landing page antes de subirse al repositorio.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades y cada uno se encargó de las mejoras dadas en la retroalimentación, también en el desarrollo de la landing y finalmente se decidió subir el landing en el último día</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8"> La meta de este Sprint 1 es la mejora tanto en planteamiento y desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable.  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">velocity 7</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">8 story points</td>
+</tr>
+</table>
 
 ## 5.2.1.2. Aspect Leaders and Collaborators
 En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
@@ -1460,6 +1521,118 @@ durante este Sprint.
 ![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint
+En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+
+![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
+
+![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
+
+### 5.2.2. Sprints
+
+## 5.2.2.1. Sprint Planning 2
+En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
+
+<table>
+<tr>
+    <th colspan="5">Sprint </th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-05-14</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Servidor de Discord del equipo</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Angel Guillermo Berrospi</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8"> Tasayco Osorio Raul Hiroshi, Nanfuñay Liza Pedro Jesús,Mel Andre Rodriguez Orellana, Angel Berrospi Marin, Joel Prudencio Alcantara</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  2 Review Summary</td>
+    <td colspan="8">En esta segunda sección se planteó el mejormiento del desarrollo y estructura de la Landing page antes de subirse al repositorio.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades y cada uno se encargó de las mejoras dadas en la retroalimentación, también en el desarrollo de la landing y finalmente se decidió subir el landing en el último día.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8"> La meta de este Sprint 2 es la mejora tanto en planteamiento y desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable.  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Velocity</td>
+    <td colspan="8">velocity 7</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">7 story points</td>
+</tr>
+</table>
+
+
+## 5.2.2.2. Aspect Leaders and Collaborators
+En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+![Aspect_Leaders_2](https://github.com/user-attachments/assets/b7d3c881-5246-4771-a619-9fa664bc3970)
+
+## 5.2.2.3. Sprint Backlog 2
+Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+
+![Sprint_Backlog2](https://github.com/user-attachments/assets/b72d5bbf-dd3e-4b3a-9506-41676e449865)
+
+## 5.2.2.4. Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services
+
+
+## 5.2.2.5. Execution Evidence for Sprint Review
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
+presenta screenshots de las principales vistas implementadas
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing1.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing2.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing3.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing4.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing5.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing6.jpeg)
+
+
+## 5.2.2.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
+relacionados con el alcance del Sprint. 
+
+
+![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
+
+
+## 5.2.2.7  Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment
+durante este Sprint. 
+
+![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
+
+## 5.2.2.8. Team Collaboration Insights during Sprint
 En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
 
 ![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
