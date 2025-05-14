@@ -191,23 +191,27 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 1.2.2.1. Lean Ux Problem Statment
 ###
-Para los adultos jóvenes y profesionales con alta carga laboral que sufren de ansiedad, estrés, baja autoestima y otros transtornos emocionales, quienes enfrentan barreras como el costo elevado, la estigmación y la falta de acceso a atención de salud mental adecuada, el problema es que no tienen acceso a una solución personalizada, accesible y efectiva que se adapte a sus necesidades emocionales y les brinde apoyo emocional continuo.
+El propósito de nuestra Startup se centra en la ayuda tanto para los adultos, jóvenes y profesionales con alta carga laboral que sufren de ansiedad, estrés, baja autoestima y otros transtornos emocionales, quienes enfrentan barreras como el costo elevado, la estigmación y la falta de acceso a atención de salud mental adecuada que lamenteblemente no se le ofrece a los usuarios en atención pública, el problema es que no tienen acceso a una solución personalizada, accesible y efectiva que se adapte a sus necesidades emocionales y les brinde apoyo emocional continuo y puedan superar sus declives.
 
 ## 1.2.2.2. Lean UX Assumptions
 ### 
-- Assumptions 1: Los usuarios tienen dificultades para acceder a atención de salud mental debido a 
-barreras como el costo, la estigmación o la falta de tiempo.
-- Assumptions 2: Las herramientas digitales, como la inteligencia artificial y la terapia cognitivo-conductual, pueden ser efectivas para mejorar el bienestar emocional de los usuarios si están bien personalizadas y adaptadas.
-- Assumptions 3: Los usuarios valoran la personalización de su experiencia, como la adaptación a sus necesidades emocionales y su progreso.
-- Assumptions 4: El seguimiento constante de las emociones, la meditación, los ejercicios de respiración y el uso de sonidos relajantes ayudan a reducir los niveles de estrés y mejorar la calidad de vida.
-- Assumptions 5: La integración de herramientas para que los profesionales de salud mental sigan el progreso de sus pacientes, aumenta la efectividad de la intevención y el bienestar a largo plazo.
+- Assumptions 1:Usuarios con carga emocional alta y acceso limitado a terapia profesional buscan soluciones accesibles y personalizadas para manejar su salud mental.
+- Assumptions 2: La inteligencia artificial y la terapia cognitivo-conductual digital son efectivas si se personalizan según emociones y patrones del usuario.
+- Assumptions 3: La personalización de la experiencia aumenta la conexión emocional con la plataforma y fomenta su uso continuo.
+- Assumptions 4:El seguimiento constante de emociones y ejercicios de bienestar como respiración, meditación y sonidos, mejora la estabilidad emocional y sueño.
+- Assumptions 5: Los profesionales de salud mental desean herramientas para hacer seguimiento asincrónico del progreso de sus pacientes, sin depender de sesiones presenciales.
   
 ## 1.2.2.3. Lean UX Hypothesis Statements
 ###
-- Hypothesis 1: Si los usuarios pueden acceder a un acompañamiento emocional personalizado, basado en inteligencia artificial y TCC, entonces experimentarán una mejora significativa en su bienestar emocional.
-- Hypothesis 2: Si los usuarios tienen la opción de personalizar su experiencia en la plataforma, adaptándola a sus necesidades emocionales específicas, entonces se comprometerán más con la aplicación y continuarán usándola a largo plazo.
-- Hypothesis 3: Si Youper permite a los profesionales de salud mental realizar un seguimiento eficaz del progreso de sus pacientes, entonces los pacientes tendrán un mejor manejo de su salud mental y se sentirán más apoyados.
-- Hypothesis 4: Si se integran funcionalidades como meditaciones guiadas, música relajante y sonidos de naturaleza, los usuarios experimentarán una reducción del estrés y una mejora en la calidad del sueño.
+- Hypothesis 1: Creemos que ofrecer un sistema personalizado de acompañamiento emocional guiado por IA para jóvenes profesionales con poco tiempo para terapia ayudará a manejar sus niveles de estrés de manera más efectiva lo que incrementará el uso semanal de la app y reducirá la tasa de abandono.
+- Hypothesis 2: Estamos convencidos de que permitir a los usuarios personalizar su panel emocional y recordatorios para usuarios emocionalmente sobrecargados hará que se sientan más en control de su estado mental lo que aumentará las interacciones diarias y la retención durante 30 días.
+- Hypothesis 3: Asumimos que integrar ejercicios de respiración, meditaciones y sonidos relajantes para usuarios con ansiedad o problemas de sueño les ayudará a reducir su estrés percibido y mejorar su calidad de sueño lo que aumentará las valoraciones positivas de la app (más de 4 estrellas).
+- Hypothesis 4: Suponemos que ofrecer un panel de control para profesionales con el historial emocional y de actividad de los pacientes para profesionales de la salud mental les permitirá hacer un seguimiento más preciso y planificar terapias personalizadas lo que generará mayor adopción entre terapeutas.
+- Hypothesis 5: Estimamos que ofrecer planes de salud mental cortos y con metas claras (ej. reducir ansiedad en 7 días)
+para usuarios nuevos que exploran herramientas emocionales los guiará hacia una experiencia de valor rápido lo que aumentará la tasa de retención en los primeros 7 días al menos en un 40%.
+- Hypothesis 6: Sostenemos que enviar notificaciones diarias para registrar el estado de ánimo con preguntas breves para usuarios con estados emocionales fluctuantes fomentará la conciencia emocional constante y la autorreflexión lo que aumentará los usuarios activos diarios y la formación de hábitos saludables.
+- Hypothesis 7: Planteamos que incorporar espacios de apoyo entre pares anónimos moderados por IA para usuarios que se sienten aislados pero no buscan ayuda profesional fomentará el sentido de comunidad y reducirá el estigma sobre la salud mental lo que extenderá la duración promedio de las sesiones y reducirá el abandono de la app en un 20%.
+- Hypothesis 8: Consideramos que ofrecer una introducción guiada por un coach conversacional con IA para nuevos usuarios que no conocen herramientas digitales de salud mental disminuirá la fricción inicial y mejorará la comprensión del valor de la app lo que aumentará la adopción de funciones dentro de las primeras 3 sesiones.
 
 ## 1.2.2.4. Lean UX Canvas
 ![image_Lean_Ux_Canvas](resources/Lean_Ux_Canvas.jpg)
@@ -1410,13 +1414,10 @@ En esta sección se especifica los aspectos principales del Sprint Planning Meet
 
 ![image_SprintPlaning](resources/SprintPlaning.JPG)
 
-
 ## 5.2.1.2. Aspect Leaders and Collaborators
 En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
 
-![image_AspectsLeaders](resources/AspectsLeaders.JPG)
-
-
+![image](https://github.com/user-attachments/assets/5ef4aec4-13d2-44cb-9f6e-d07ef46da5d8)
 
 ## 5.2.1.3. Sprint Backlog 1
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
