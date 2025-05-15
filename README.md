@@ -341,7 +341,13 @@ para usuarios nuevos que exploran herramientas emocionales los guiará hacia una
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-Youper aplicará una estrategia centrada en la diferenciación a través de la personalización emocional guiada y un enfoque terapéutico basado en TCC, en contraste con la experiencia más generalista de Calm, Headspace y Meditopia. Aprovechará las debilidades de estos competidores —como la falta de contenido contextualizado culturalmente y la limitada personalización emocional— para posicionarse como una solución más empática, local y adaptada a las necesidades reales de los usuarios hispanohablantes. Como táctica, se integrarán algoritmos simples desde el onboarding para ofrecer recomendaciones personalizadas desde el primer uso, junto a contenido con voces y ejemplos propios del contexto latinoamericano. Además, se impulsarán campañas emocionales en fechas clave para aprovechar el creciente interés en salud mental. Para mitigar amenazas como la saturación del mercado y la desconfianza frente al uso de datos personales, Youper comunicará con transparencia su política de privacidad y reforzará la confianza a través de prácticas éticas y testimonios reales. De este modo, la startup busca construir una propuesta de valor clara, cercana y clínicamente fundamentada frente a sus principales competidores.
+Youper adoptará una estrategia de diferenciación enfocada en ofrecer una experiencia personalizada emocionalmente, respaldada por la terapia cognitivo-conductual (TCC). A diferencia de Calm, Headspace o Meditopia, que presentan enfoques más genéricos, Youper buscará destacar con un enfoque más humano, empático y adaptado culturalmente al público hispanohablante. Para ello, integrará desde el primer uso algoritmos sencillos que permitan brindar recomendaciones personalizadas, además de contenido con voces, ejemplos y referencias del contexto latinoamericano. También aprovechará fechas clave para lanzar campañas emocionales, fortaleciendo el vínculo con los usuarios. Finalmente, para generar confianza en un mercado saturado, la startup se apoyará en una comunicación transparente sobre el uso de datos y en testimonios reales, construyendo así una propuesta cercana, ética y con base clínica.
+
+- Resumen estratégico
+- Oportunidades del entorno competitivo
+- Tácticas clave
+- Mitigación de amenazas
+- Propuesta diferenciadora
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas
