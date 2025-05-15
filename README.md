@@ -1470,49 +1470,137 @@ En esta sección el equipo que incluye la elaboración de un artefacto Leadershi
 ## 5.2.2.3. Sprint Backlog 2
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
 
-![Sprint_Backlog2](https://github.com/user-attachments/assets/b72d5bbf-dd3e-4b3a-9506-41676e449865)
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US05</td>
+    <td colspan="2">Documentar mejoras en el desarrollo</td>
+    <td colspan="1">UT07</td>
+    <td colspan="2">Documentar mejoras técnicas"</td>
+    <td colspan="3">Crear una documentación clara sobre decisiones y mejoras implementadas en el desarrollo</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Angel Berrospi</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US06</td>
+    <td colspan="2">Mejorar usabilidad de la landing page</td>
+    <td colspan="1">UT08</td>
+    <td colspan="2">Optimizar experiencia de usuario</td>
+    <td colspan="3">Ajustar la estructura visual para mejorar la navegación y accesibilidad.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Mel Andre Orellana</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US07</td>
+    <td colspan="2">Añadir mejoras en el frontend de la landing</td>
+    <td colspan="1">UT09</td>
+    <td colspan="2">Implementar mejores diseños a la landing page</td>
+    <td colspan="3">Incluir ayudas visuales y mensajes emergentes para guiar al nuevo usuario en la landing.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Guillermo Tantaleán</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US08</td>
+    <td colspan="2">Mejorar accesibilidad visual de la landing</td>
+    <td colspan="1">UT08</td>
+    <td colspan="2">Ajustar contraste y etiquetas</td>
+    <td colspan="3">Aplicar mejoras de accesibilidad como mayor contraste de colores y etiquetas semánticas.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Pedro Jesús Nanfuñay</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Diseño de Documentación</td>
+    <td colspan="1">UT10</td>
+    <td colspan="2">Añadir diseños de alta calidad a la documentación</td>
+    <td colspan="3">Incorporar nuevas estructuras, apoyar en la mejora de la documentación y su presentación de alta calidad para que sean relevantes en el contenido.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Raul Hiroshi Tasayco</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US10</td>
+    <td colspan="2">Diseño de Documentación</td>
+    <td colspan="1">UT11</td>
+    <td colspan="2">Añadir diseños de alta calidad a la documentación</td>
+    <td colspan="3">Incorporar nuevas estructuras, apoyar en la mejora de la documentación y su presentación de alta calidad para que sean relevantes en el contenido.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Joel Prudencio Alcantara</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+
 
 ## 5.2.2.4. Development Evidence for Sprint Review
 En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services
+
+![image](https://github.com/user-attachments/assets/b34ab414-39c5-476c-8da1-db56aef7452b)
+
+![image](https://github.com/user-attachments/assets/e3a36590-9621-4d85-a949-1d73cd438b81)
 
 
 ## 5.2.2.5. Execution Evidence for Sprint Review
 Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
 presenta screenshots de las principales vistas implementadas
 
-![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing1.jpeg)
+![577f85c0-efa4-4d34-a4e5-94a3d3e0754b](https://github.com/user-attachments/assets/ba9f73d7-3d24-4823-a50e-dcb7ce07e9be)
 
-![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing2.jpeg)
+![6b5cee27-517f-4530-ac15-de2720da05f0](https://github.com/user-attachments/assets/7ca67672-3fe2-4ae2-a527-6e4212b31bc4)
 
-![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing3.jpeg)
+![8f59a7f8-35ef-44a0-8a24-222d8aee19db](https://github.com/user-attachments/assets/df643e52-15d9-4ffe-ac67-7cbb7a658560)
 
-![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing4.jpeg)
+![473334ce-d6de-48a2-8dcc-52c35be33a45](https://github.com/user-attachments/assets/6e3be492-fe35-4bd5-8a3d-67a5e3a19f32)
 
-![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing5.jpeg)
+![0991b18c-220e-479f-b9ad-65794483b9b7](https://github.com/user-attachments/assets/3739d566-11bd-4102-b526-833f11c62eed)
 
-![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing6.jpeg)
+![49b32112-c264-4cb1-8cac-055b126f1393](https://github.com/user-attachments/assets/6c99037b-e516-4260-8e8d-a7044853fe4c)
 
+![e65477c1-f1de-4557-87f2-024cea7cd580](https://github.com/user-attachments/assets/9c903142-cf89-41e0-93e0-553953af771f)
+
+![9f55339d-517b-412c-96d1-c47dbb41b84f](https://github.com/user-attachments/assets/6400970f-2f14-4834-aa21-5156dfe20420)
 
 ## 5.2.2.6. Services Documentation Evidence for Sprint Review
 En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
 relacionados con el alcance del Sprint. 
 
 
-![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
+![image](https://github.com/user-attachments/assets/b60a0dd9-aafd-433c-adb8-d1cecf6b3fb0)
 
 
 ## 5.2.2.7  Software Deployment Evidence for Sprint Review
 En esta sección se resume los procesos realizados en relación con Deployment
 durante este Sprint. 
 
-![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
+![Sprint_Backlog2](https://github.com/user-attachments/assets/b72d5bbf-dd3e-4b3a-9506-41676e449865)
 
 ## 5.2.2.8. Team Collaboration Insights during Sprint
 En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
 
-![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
+![8f192e66-4121-4108-97d2-c09a23085e08](https://github.com/user-attachments/assets/4d970651-debc-4795-a226-0d849f7224a6)
 
-![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
+![image](https://github.com/user-attachments/assets/a03852b6-59b4-4681-b607-3edea894f3e1)
 
 ### Conclusiones
 
