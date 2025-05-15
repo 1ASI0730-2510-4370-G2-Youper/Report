@@ -1394,27 +1394,61 @@ Todo el código de la solución deberá ser escrito completamente en inglés par
 # Capítulo V: Product Implementation, Validation \& Deployment
 
 ## 5.1. Software Configuration Management
-En esta sección el equipo establece las decisiones y convenciones que permitirán
-mantener la consistencia durante el ciclo de vida
+En esta sección, el equipo define las decisiones, convenciones y configuraciones técnicas necesarias para asegurar la consistencia, trazabilidad y calidad del desarrollo de la aplicación YouperApp durante todo su ciclo de vida.
 
 ###  5.1.1. Software Development Environment Configuration
-En esta sección el equipo especifica, describe e indica los nombres de productos y el
-propósito de uso en el proyecto.
+El entorno de desarrollo de YouperApp se ha configurado para garantizar eficiencia, colaboración y estabilidad entre todos los miembros del equipo. A continuación, se detallan las herramientas utilizadas:
 
+IDE principal: WebStorm / Visual Studio Code (según preferencia del desarrollador).
+
+Lenguajes de programación: JavaScript, TypeScript, HTML, CSS.
+
+Frameworks y librerías: React (Frontend), Node.js (Backend).
+
+Control de versiones: Git.
+
+Gestión de dependencias: npm / yarn.
+
+Herramientas de colaboración: GitHub (repositorios y gestión de issues), Slack (comunicación), Notion (documentación).
 ###  5.1.2. Source Code Management
-En esta sección el equipo establece los medios y esquema de organización que
-aplicará para el seguimiento de modificaciones.
-   
+El equipo gestiona el código fuente mediante Git, utilizando GitHub como plataforma central. La organización del repositorio sigue una estructura clara:
+
+Uso de la rama principal main para despliegues estables.
+
+Desarrollo en ramas individuales por funcionalidad o corrección (feature/nombre, fix/nombre).
+
+Revisión de código vía pull requests con aprobación de al menos un integrante antes de fusionar.
+
+Commits con mensajes descriptivos siguiendo la convención: tipo: descripción breve (ej. feat: agrega pantalla de inicio de sesión).
 ###  5.1.3. Source Code Style Guide \& Conventions
-Aquí el equipo explica e indica las referencias que adoptará para nombrar elementos
-y programar en los lenguajes que se utilizan en la solución
+Para asegurar la consistencia en el código fuente de YouperApp, el equipo aplica las siguientes convenciones:
+
+Estilo de código:
+
+Linting y formateo automático: 
+
+Nombres de variables y funciones:
+
+Componentes y archivos:
    
 ###  5.1.4. Software Deployment Configuration
-En esta sección el equipo especifica la configuración del despliegue de la solución,
-incluyendo los pasos necesarios para que, a partir de los repositorios de código
-fuente, se pueda lograr el despliegue o publicación satisfactorio de cada uno de los
-productos digitales en la solución (Landing Page, Web Services, Frontend Web
-Applications).
+El proceso de despliegue de YouperApp considera los siguientes elementos:
+
+Frontend (Landing Page y Web App)
+
+Backend (API RESTful)
+
+Repositorio GitHub: Contiene scripts automatizados de build y deploy.
+
+Pasos generales de despliegue:
+
+Validación de código en main.
+
+Build automático con scripts definidos.
+
+Deploy continuo desde GitHub a Vercel/Render.
+
+Verificación en entorno de producción.
 
 ## 5.2. Landing Page, Service \& Applications Implementation
 En esta sección se explica y evidencia el proceso de implementación, pruebas,
