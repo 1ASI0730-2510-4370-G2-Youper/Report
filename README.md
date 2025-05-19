@@ -156,6 +156,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en las reuniones y decisiones del equipo, cumpliendo mi parte del trabajo en los plazos establecidos, demostrando compromiso y responsabilidad con el desarrollo del proyecto y del equipo. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
 | Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que nos permite realizar avances y cumplir con las tareas asignadas, cumpliendo con estas de manera eficiente y en el plazo planificado. | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. |
 
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -342,6 +343,7 @@ para usuarios nuevos que exploran herramientas emocionales los guiará hacia una
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
 ___
 Youper adoptará una estrategia de diferenciación centrada en ofrecer una experiencia emocionalmente personalizada, respaldada por la terapia cognitivo-conductual (TCC), distinguiéndose de competidores como Calm, Headspace y Meditopia, que adoptan enfoques más genéricos y universales. Para destacar, Youper priorizará un enfoque humano, empático y culturalmente adaptado al público hispanohablante, integrando desde el primer uso algoritmos simples pero efectivos que generen recomendaciones personalizadas basadas en las necesidades individuales de los usuarios. Además, enriquecerá su contenido con voces, ejemplos y referencias contextuales del mundo latinoamericano, reforzando la relevancia cultural. La startup aprovechará fechas clave (como el Día de la Salud Mental o festividades locales) para lanzar campañas emocionales que fortalezcan el vínculo con su audiencia. Para ganarse la confianza en un mercado competitivo, Youper implementará una comunicación transparente sobre el manejo de datos, respaldada por testimonios reales de usuarios, y se apoyará en fundamentos clínicos sólidos, consolidándose como una propuesta cercana, ética y profundamente adaptada a su comunidad.
 
@@ -439,6 +441,7 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 | Duración de la entrevista: 03:32 |
 | ![Entrevista2_Seg1](resources/Entrevista2_Segmento1.jpg) |
 | **Resumen:** Alessandro Hesse Pulache es un alumno de la carrra de ciencias de la computación que nos comenta que a lo largo de su carrera de pregrado siente una alta carga academica, mucho más cuando es iniciando un nuevo ciclo, puesto que considera que se le dificulta adecuarse al ritmo de vida que tiene en un ciclo academico luego de retornar de unas vacaciones, por ello considera  que es importante tener un aplicativo como youper para poder gestionar y controlar sus emociones |
+
 **Segmento Objetivo 2: Adultos con Carga Laboral**
 
 **Entrevista 1:**
@@ -455,6 +458,7 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 | Duración de la entrevista: 04:18 |
 | ![Entrevista1_Seg1](resources/Entrevista1_Segmento2.PNG) |
 | **Resumen:** Diego Trigozo es un joven adulto de 22 años, que realiza la labor de digitador en una notaría. Él menciona que el trabajo que realiza durante toda la semana así como la atención al público le causa estrés y un gran cansancio. Sin embargo, menciona que como medida ante esto, asiste a un gimnasio cercano a su centro de trabajo, esto le permite reducir el estrés y darle un mejor bienestar emocional. Sugiere que la implementación de una aplicación que le ayude a regular sus emociones a través de otros métodos sería ideal para él y estaría dispuesto a usar dichas herramientas que le permitirían llevar un monitoreo de sus emociones. |
+
 
 **Entrevista 2**
 | Datos del entrevistado |
@@ -487,6 +491,7 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 | **Resumen:** Carolina Nanfuñay es una especialista de la salud mental que labora en un centro comunitario. Ella describe el proceso que realiza en dicho lugar para la atención de su proceso de terapia con sus pacientes y menciona algunas falencias con respecto al monitoreo de avance externo a la terapia, como que los pacientes a veces no cumplen con los procesos que deben seguir. Por ello, considera necesario una plataforma que le permita monitorear el avance post-terapia de sus pacientes, así como una conexión mayor con ellos. De manera que le permita gestionar y mejorar la calidad de sus consultas ante cualquier inconveniente que pueda sufrir el paciente en momentos de alto estrés. |
 
 ### 2.2.3. Análisis de entrevistas
+
 
 * Segmento 1: Jóvenes Adultos con Estrés o Ansiedad (Juan Diego Trigozo Liza)
 
@@ -1552,7 +1557,6 @@ Applications).
 En esta sección se explica y evidencia el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page, Web Services y Frontend Web
 Applications.
-
 
 ### 5.2.1. Sprints
 
