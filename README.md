@@ -111,7 +111,7 @@
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Service \& Applications Implementation](#52-landing-page-service--applications-implementation)
-    - [5.2.x. Sprints](#52x-sprints)
+    - [5.2.1. Sprints](#52x-sprints)
     -  [5.2.1.1. Sprint Planning 1](#5211-Sprint-Planning1)
     -  [5.2.1.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
     -  [5.2.1.3. Sprint Backlog 1](#5213-Sprint-Backlog-1)
@@ -223,7 +223,7 @@ para usuarios nuevos que exploran herramientas emocionales los guiará hacia una
 - Hypothesis 8: Consideramos que ofrecer una introducción guiada por un coach conversacional con IA para nuevos usuarios que no conocen herramientas digitales de salud mental disminuirá la fricción inicial y mejorará la comprensión del valor de la app lo que aumentará la adopción de funciones dentro de las primeras 3 sesiones.
 
 ## 1.2.2.4. Lean UX Canvas
-![image_Lean_Ux_Canvas](resources/Lean_Ux_Canvas.jpg)
+![image_Lean_Ux_Canvas](resources/LeanUxCanvas.jpg)
 
 # 2. Capítulo 2: Requirements Elicitation & Analysis
 ## 2.1 Competidores
@@ -235,8 +235,9 @@ para usuarios nuevos que exploran herramientas emocionales los guiará hacia una
   </tr>
   <tr>
     <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
-    <td colspan="17">Para identificar ventajas y debilidades comparativas entre Youper y los principales actores del mercado del bienestar emocional digital. Headspace es un referente global, por lo tanto entender su enfoque ayuda a posicionar mejor la propuesta de valor de Youper.
-</td>
+    <td colspan="17">Realizar un análisis comparativo permite identificar las fortalezas y debilidades de Youper frente a los principales competidores en el mercado del bienestar emocional digital, como Headspace, un referente global en soluciones de salud mental. Este estudio facilita la comprensión de sus enfoques estratégicos, modelos de personalización, experiencia de usuario y propuestas de valor, lo que permite posicionar a Youper de manera más competitiva. Además, el análisis ayuda a detectar oportunidades de innovación y diferenciación, asegurando que Youper aborde eficazmente las necesidades emocionales de sus usuarios, superando barreras como la accesibilidad y la estigmatización.
+    </td>
+
   </tr>
   <tr>
     <td colspan="2"></td>
@@ -341,57 +342,70 @@ para usuarios nuevos que exploran herramientas emocionales los guiará hacia una
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-Youper adoptará una estrategia de diferenciación enfocada en ofrecer una experiencia personalizada emocionalmente, respaldada por la terapia cognitivo-conductual (TCC). A diferencia de Calm, Headspace o Meditopia, que presentan enfoques más genéricos, Youper buscará destacar con un enfoque más humano, empático y adaptado culturalmente al público hispanohablante. Para ello, integrará desde el primer uso algoritmos sencillos que permitan brindar recomendaciones personalizadas, además de contenido con voces, ejemplos y referencias del contexto latinoamericano. También aprovechará fechas clave para lanzar campañas emocionales, fortaleciendo el vínculo con los usuarios. Finalmente, para generar confianza en un mercado saturado, la startup se apoyará en una comunicación transparente sobre el uso de datos y en testimonios reales, construyendo así una propuesta cercana, ética y con base clínica.
 
-- Resumen estratégico
-- Oportunidades del entorno competitivo
-- Tácticas clave
-- Mitigación de amenazas
-- Propuesta diferenciadora
+___
+Youper adoptará una estrategia de diferenciación centrada en ofrecer una experiencia emocionalmente personalizada, respaldada por la terapia cognitivo-conductual (TCC), distinguiéndose de competidores como Calm, Headspace y Meditopia, que adoptan enfoques más genéricos y universales. Para destacar, Youper priorizará un enfoque humano, empático y culturalmente adaptado al público hispanohablante, integrando desde el primer uso algoritmos simples pero efectivos que generen recomendaciones personalizadas basadas en las necesidades individuales de los usuarios. Además, enriquecerá su contenido con voces, ejemplos y referencias contextuales del mundo latinoamericano, reforzando la relevancia cultural. La startup aprovechará fechas clave (como el Día de la Salud Mental o festividades locales) para lanzar campañas emocionales que fortalezcan el vínculo con su audiencia. Para ganarse la confianza en un mercado competitivo, Youper implementará una comunicación transparente sobre el manejo de datos, respaldada por testimonios reales de usuarios, y se apoyará en fundamentos clínicos sólidos, consolidándose como una propuesta cercana, ética y profundamente adaptada a su comunidad.
+
+``` Youper ofrece mejoras frente a otros como:```
+___
+  * **Personalización emocional avanzada con TCC:** A diferencia de los enfoques genéricos de Calm y Headspace, que ofrecen meditaciones y ejercicios estandarizados, Youper integra algoritmos desde el primer uso para adaptar recomendaciones basadas en TCC, atendiendo las necesidades emocionales individuales de los usuarios de forma más precisa.
+  ___
+  * **Adaptación cultural al público hispanohablante:** Mientras Meditopia y otros competidores presentan contenido mayormente global, Youper incorpora voces, ejemplos y referencias del contexto latinoamericano, haciendo que la experiencia sea más relatable y cercana para este segmento.
+  ___
+  * **Enfoque humano y empático:** A diferencia del tono más neutro o comercial de Headspace, Youper prioriza un enfoque empático con contenido que refleja las realidades culturales y emocionales de sus usuarios, fortaleciendo la conexión emocional.
+  ___
+  * **Campañas emocionales contextuales:** Mientras Calm y Meditopia lanzan campañas genéricas, Youper aprovechará fechas clave relevantes para el público hispanohablante (ej., Día de la Salud Mental, Día de los Muertos) para crear campañas emocionalmente significativas, aumentando el engagement.
+  ___
+  * **Transparencia y confianza éticas:** Frente a la percepción de opacidad en el uso de datos de algunos competidores, Youper se diferenciará con una comunicación clara sobre la protección de datos y testimonios reales, respaldados por fundamentos clínicos, generando mayor credibilidad en un mercado saturado.
+  ___
+  * **Acceso temprano a personalización:** A diferencia de la personalización limitada inicial en competidores como Headspace (que requiere tiempo de uso), Youper ofrece recomendaciones personalizadas desde el onboarding, mejorando la experiencia desde el inicio.
+  ___
+  * **Integración cultural en contenido:** Mientras Meditopia ofrece meditaciones generales, Youper incluirá ejercicios y narrativas que reflejen desafíos específicos del mundo laboral o familiar en América Latina, aumentando su relevancia.
+
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas
 
 Se han realizado las siguientes preguntas correspondiente a la realización de entrevistas por segmento objetivo:
-
+___
 **Segmento 1: Jóvenes Adultos con Estrés o Ansiedad**
-- ¿Con qué frecuencia sientes ansiedad o estrés relacionado con tus estudios, relaciones, trabajo o familia? 
-- ¿Qué emociones predominan en tu día a día (ansiedad, frustración, tristeza, cansancio)? ¿Cómo las manejas?
-- ¿Has buscado apoyo emocional anteriormente? ¿Fue a través de un psicólogo, un amigo o por medios digitales? 
-- ¿Qué tan cómodo te sentirías usando una aplicación para expresar lo que sientes en privado?
-- ¿Te gustaría que una app te hiciera preguntas diarias para ayudarte a entender tus emociones?
-- ¿Qué tipo de contenido usarías más en una app emocional: meditaciones, ejercicios de respiración, frases motivadoras, música? 
-- ¿En qué momentos del día te sientes más vulnerable emocionalmente y te gustaría tener apoyo?
-- ¿Qué tan importante es para ti que la app sea discreta y no revele información sensible?
-- ¿Preferirías recibir sugerencias automáticas o elegir tú mismo los ejercicios según cómo te sientes? 
-- ¿Qué esperas lograr si usas una app emocional: sentirte más tranquilo, dormir mejor, tener más claridad mental, mejorar tu autoestima?
-
+___
+* ¿Con qué frecuencia experimentas ansiedad o estrés en tu vida diaria, y qué situaciones específicas (estudios, trabajo, relaciones familiares o personales) las desencadenan más?
+* ¿Qué emociones dominan tus días (ansiedad, frustración, tristeza, agotamiento), y qué estrategias intentas usar para manejarlas, ya sea por tu cuenta o con ayuda?
+* ¿Has buscado apoyo emocional antes, y si es así, qué experiencias tuviste con psicólogos, amigos o herramientas digitales (como apps o sitios web)?
+* ¿Qué tan cómodo te sentirías usando una aplicación para registrar tus emociones de forma privada, y qué características te harían confiar más en ella?
+* ¿Te interesaría que una app te enviara preguntas diarias para reflexionar sobre tus emociones, y qué tipo de preguntas te ayudarían más?
+* ¿Qué tipo de contenido (meditaciones guiadas, ejercicios de respiración, frases motivadoras, música relajante o algo diferente) te gustaría tener en una app para apoyarte emocionalmente, y por qué?
+* ¿En qué momentos del día sientes mayor vulnerabilidad emocional, y qué tipo de apoyo (inmediato, estructurado, breve) te gustaría recibir en esos instantes?
+* ¿Qué tan crucial es para ti que una app sea completamente discreta y proteja tu información sensible, y qué te preocuparía si no lo fuera?
+* ¿Prefieres que una app te sugiera ejercicios automáticamente según tu estado de ánimo o que te permita elegirlos manualmente, y por qué?
+* ¿Qué esperas lograr a largo plazo con una app emocional (sentirte más calmado, mejorar tu sueño, ganar claridad mental, aumentar tu autoestima), y cómo medirías ese progreso?
+___
 **Segmento 2: Adultos con Carga Laboral**
-
-- Cuando terminas tu jornada laboral, ¿cómo sueles desconectarte mental o emocionalmente?
-- ¿Tienes momentos donde te cuesta conciliar el sueño por pensamientos relacionados al trabajo? ¿Qué haces en esas situaciones?
-- ¿Qué tan frecuente te sientes agotado emocionalmente, incluso si físicamente estás bien?
-- ¿Con qué frase describirías tu estado mental un lunes por la mañana y un viernes por la noche? 
-- ¿Qué te haría confiar en una app emocional? (privacidad, respaldo científico, anonimato, acceso sin conexión, etc.)
-- Si supieras que tus datos emocionales se usan solo para mejorar tu experiencia personalizada, ¿te sentirías cómodo? ¿Por qué sí o por qué no?
-- ¿Te resultaría útil que la app se sincronice con tu smartwatch o pulsera para medir tu estrés real y darte recomendaciones en tiempo real?
-- ¿Cómo te gustaría sentirte después de 1 mes usando una app como Youper? (Más tranquilo, más motivado, con mejor autoestima, durmiendo mejor, etc.)
-- ¿Qué haría que esta app se convirtiera en parte de tu rutina diaria sin que se sienta como una obligación más?
-- ¿Te gustaría que la app te ayude a detectar momentos en los que podrías necesitar apoyo profesional y te oriente de forma confidencial?
-
+___
+* ¿Qué estrategias utilizas para desconectarte mental o emocionalmente al terminar tu jornada laboral, y qué tan efectivas consideras que son?
+* ¿Hay momentos en los que te cuesta conciliar el sueño debido a pensamientos relacionados con el trabajo, y qué intentas hacer en esas situaciones para relajarte?
+* ¿Con qué frecuencia sientes agotamiento emocional a pesar de estar físicamente bien, y qué factores laborales crees que lo desencadenan?
+* ¿Cómo describirías tu estado mental un lunes por la mañana y un viernes por la noche con una frase o palabra clave, y por qué crees que varía?
+* ¿Qué elementos (privacidad total, respaldo científico, anonimato, acceso sin conexión, diseño intuitivo, etc.) te harían confiar plenamente en una app emocional como Youper?
+* Si supieras que tus datos emocionales se utilizan exclusivamente para personalizar tu experiencia y mejorar la app, ¿te sentirías cómodo o no, y qué aspectos te preocuparían o tranquilizarían?
+* ¿Te parecería útil que la app se integre con tu smartwatch o pulsera para monitorear tu estrés en tiempo real y ofrecerte recomendaciones inmediatas, y qué tipo de recomendaciones valorarías más?
+* ¿Cómo te gustaría sentirte después de usar una app como Youper durante un mes (más tranquilo, motivado, con mejor autoestima, durmiendo mejor), y qué señales te indicarían que está funcionando?
+* ¿Qué características o incentivos (notificaciones personalizadas, progreso visible, ejercicios cortos, recompensas) harían que la app se integre fácilmente en tu rutina diaria sin sentirse como una carga adicional?
+* ¿Te interesaría que la app detecte momentos en los que podrías necesitar apoyo profesional y te brinde orientación confidencial, y qué tipo de soporte buscarías en esos casos?
+___
 **Segmento 3: Especialistas de la Salud Mental**
-
-- ¿Qué herramientas digitales usas actualmente para acompañar a tus pacientes? 
-- ¿Qué desafíos enfrentas al dar seguimiento emocional fuera de la consulta?
-- ¿Te gustaría contar con una plataforma donde tus pacientes puedan registrar emociones y tú ver el progreso? 
-- ¿Qué tipo de información consideras clave para evaluar el bienestar emocional de un paciente entre sesiones?
-- ¿Te interesaría que la app ofreciera un resumen automático del estado emocional del usuario?
-- ¿Cuál sería el formato ideal para recibir reportes: visual, texto, alertas?
-- ¿Te sentirías cómodo recomendando una app como complemento terapéutico? 
-- ¿Qué características te harían confiar en una app para hablar sobre tus emociones (seguridad de datos, diseño amigable)?
-- ¿Consideras útil que los pacientes puedan enviarte feedback sobre los ejercicios que realizaron?
-- ¿Qué otras funciones te gustaría ver en una app de salud emocional para profesionales?
-
+___
+* ¿Qué herramientas digitales utilizas actualmente para acompañar a tus pacientes, y qué limitaciones encuentras en ellas para el seguimiento emocional?
+* ¿Cuáles son los principales desafíos que enfrentas al dar seguimiento emocional a tus pacientes fuera de las consultas presenciales o virtuales?
+* ¿Te gustaría tener una plataforma donde tus pacientes registren sus emociones y tú puedas monitorear su progreso de forma estructurada y confidencial?
+* ¿Qué tipo de información (ej., patrones emocionales, respuestas a ejercicios, niveles de estrés) consideras esencial para evaluar el bienestar emocional de un paciente entre sesiones?
+* ¿Te interesaría que la app genere un resumen automático del estado emocional de tus pacientes basado en sus registros, y qué detalles te gustaría que incluya?
+* ¿Qué formato prefieres para recibir reportes sobre el progreso de tus pacientes: gráficos visuales, texto detallado, alertas personalizadas, o una combinación, y por qué?
+* ¿Te sentirías cómodo recomendando una app como complemento terapéutico a tus pacientes, y qué factores influirían en tu decisión (seguridad, evidencia científica, facilidad de uso)?
+* ¿Qué características (seguridad de datos, diseño intuitivo, integración con otros sistemas, etc.) te darían confianza para usar una app y recomendarla a tus pacientes?
+* ¿Considerarías útil que los pacientes puedan enviarte feedback directo sobre los ejercicios o herramientas que usaron, y cómo te ayudaría eso en tu práctica?
+* ¿Qué funciones adicionales (ej., alertas personalizadas, análisis predictivo, colaboración con otros especialistas) te gustaría ver en una app de salud emocional diseñada para profesionales como tú?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -414,6 +428,20 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 | ![Entrevista1_Seg1](resources/Entrevista1_Segmento1.png) |
 | **Resumen:** Diego Acuña es un joven adulto de 23 años, que busca manejar sus emociones ante las actividades que requiere completar para su carrera universitaria, así como el peso de las actividades de su negocio familiar. Él considera esencial tener una aplicación que le permita regular sus emociones en momentos de alto estrés y llevar prácticas que le permitan mejorar su estado emocional. |
 
+**Entrevista 2**
+| Datos del entrevistado |
+| ---------------------- |
+| Nombre: Alessandro Hesse Pulache |
+| Edad: 20 años|
+| Género: Masculino |
+| Distrito: Surquillo |
+| Ocupación: Estudiante universitario |
+| Estado Civil: Soltero |
+| Inicio de la entrevista: 00:00 |
+| Duración de la entrevista: 03:32 |
+| ![Entrevista2_Seg1](resources/Entrevista2_Segmento1.jpg) |
+| **Resumen:** Alessandro Hesse Pulache es un alumno de la carrra de ciencias de la computación que nos comenta que a lo largo de su carrera de pregrado siente una alta carga academica, mucho más cuando es iniciando un nuevo ciclo, puesto que considera que se le dificulta adecuarse al ritmo de vida que tiene en un ciclo academico luego de retornar de unas vacaciones, por ello considera  que es importante tener un aplicativo como youper para poder gestionar y controlar sus emociones |
+
 **Segmento Objetivo 2: Adultos con Carga Laboral**
 
 **Entrevista 1:**
@@ -430,6 +458,20 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 | Duración de la entrevista: 04:18 |
 | ![Entrevista1_Seg1](resources/Entrevista1_Segmento2.PNG) |
 | **Resumen:** Diego Trigozo es un joven adulto de 22 años, que realiza la labor de digitador en una notaría. Él menciona que el trabajo que realiza durante toda la semana así como la atención al público le causa estrés y un gran cansancio. Sin embargo, menciona que como medida ante esto, asiste a un gimnasio cercano a su centro de trabajo, esto le permite reducir el estrés y darle un mejor bienestar emocional. Sugiere que la implementación de una aplicación que le ayude a regular sus emociones a través de otros métodos sería ideal para él y estaría dispuesto a usar dichas herramientas que le permitirían llevar un monitoreo de sus emociones. |
+
+
+**Entrevista 2**
+| Datos del entrevistado |
+| ---------------------- |
+| Nombre:	Marcelo Valera Bustinza |
+| Edad: 22 años |
+| Género: Masculino |
+| Distrito: Los olivos |
+| Ocupación: Practicante Desarrollador Junior |
+| Estado Civil: Soltero |
+| Duración de la entrevista: 2:54 |
+| ![Entrevista1_Seg1](resources/Entrevista2_segmento2.jpg) |
+| **Resumen:** Marcelo Valera Bustinza es un desarrollador Junior, el cual nos comenta que en a menudo le genera estrés la carga laboral en cuanto a las acciones que él realiza en su día a día, cree que un aplicativo el cual realice monitoreo constante acerca de su estado emocional sería bueno, además, siente que una funcionalidad que le ayude a consiliar el sueño sería excelente para él, puesto que a veces no logra conciliar el sueño por el estrés. |
 
 **Segmento Objetivo 3: Especialistas de la Salud Mental**
 
@@ -451,6 +493,101 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 ### 2.2.3. Análisis de entrevistas
 
 
+* Segmento 1: Jóvenes Adultos con Estrés o Ansiedad (Juan Diego Trigozo Liza)
+
+  * Perfil
+
+    * Juan Diego, de 22 años, digitador en una notaría en Carabayllo, soltero, reporta estrés y cansancio debido a su trabajo y la atención al público.
+
+  * Insights clave
+    * Causas de estrés identificadas: Su trabajo (tareas repetitivas como digitador) y la interacción constante con el público generan un estrés significativo, acompañado de cansancio físico y emocional. Esto refleja una necesidad común en jóvenes adultos que enfrentan presión laboral en roles operativos.
+
+  * **Estrategias actuales:** 
+      * Asiste al gimnasio para reducir el estrés, lo que indica que prefiere actividades prácticas y accesibles para gestionar sus emociones. Sin embargo, esto podría no ser suficiente para un manejo emocional integral.
+
+
+
+  * **Apertura a soluciones digitales:** 
+    * Está dispuesto a usar una app que le ayude a regular sus emociones y monitorearlas, mostrando interés en métodos alternativos al ejercicio físico.
+
+  * **Necesidades**
+    ```
+    Herramientas rápidas y accesibles para manejar el estrés en su rutina diaria, ya que su trabajo parece ser demandante y no le deja mucho tiempo.
+    ```
+
+    ```
+    Funcionalidades que le permitan monitorear su estado emocional, lo que sugiere que valora el autoconocimiento y el seguimiento de su progreso. 
+    ```
+
+    ```
+    Métodos variados para gestionar emociones, más allá del ejercicio físico, que se adapten a su contexto (ej., ejercicios breves que pueda hacer durante descansos).
+    ```
+  * **Oportunidades para Youper**
+
+    ```
+    Ejercicios personalizados y breves: Ofrecer sesiones cortas     (5 minutos) de TCC, como ejercicios de respiración o    reestructuración cognitiva, que Juan Diego pueda usar   durante su jornada laboral o después del trabajo.
+    ```
+
+    ```
+    Monitoreo emocional: Implementar un diario emocional con IA     que analice patrones y ofrezca retroalimentación, ayudándolo    a entender cómo el estrés laboral afecta su bienestar.
+    ```
+
+    ```
+    Adaptación cultural: Incluir contenido relatable para su    contexto (joven trabajador peruano), como ejemplos de manejo    del estrés en trabajos operativos o atención al público.
+    ```
+
+    ```
+    Notificaciones motivadoras: Enviar recordatorios para que     realice actividades de bienestar en momentos clave (ej., al     final de su jornada laboral).
+    ```
+
+* Segmento 3: Especialistas de la Salud Mental (Carolina Lizette Nanfuñay Chafloc)
+
+  * Perfil
+
+    * Carolina, de 35 años, psicóloga en un centro comunitario en Puente Piedra, casada, enfrenta dificultades en el seguimiento emocional de sus pacientes fuera de las sesiones.
+
+  * Insights clave
+
+    * Desafíos en el seguimiento: Identifica falencias en el monitoreo post-terapia, ya que los pacientes no siempre cumplen con los procesos recomendados, lo que dificulta evaluar su progreso y ajustar las intervenciones.
+
+    * Necesidad de conexión y monitoreo: Expresa la necesidad de una plataforma que le permita monitorear el avance emocional de sus pacientes y mantener una conexión más cercana, especialmente en momentos de alto estrés.
+
+    * Enfoque en la calidad de las consultas: Busca herramientas que le ayuden a gestionar mejor las sesiones, identificando inconvenientes emocionales de los pacientes entre consultas.
+
+  * Necesidades
+
+    ```
+    Una herramienta digital que facilite el seguimiento continuo    de los pacientes, ofreciendo datos sobre su estado emocional    fuera de las sesiones.
+    ```
+
+    ```
+    Mayor conexión con los pacientes para detectar momentos de    crisis o estrés elevado y responder de forma oportuna.
+    ```
+
+    ```
+    Funcionalidades que mejoren la calidad de las consultas,    como reportes estructurados del progreso emocional de los   pacientes.
+    ```
+  * Oportunidades para Youper
+    ```
+    Plataforma de monitoreo: Desarrollar un módulo para     especialistas donde puedan visualizar el progreso emocional     de sus pacientes (ej., registros diarios, tendencias de     estrés) con resúmenes automáticos.
+    ```
+
+    ```
+    Alertas personalizadas: Implementar notificaciones para los     especialistas cuando un paciente reporta un nivel elevado de    estrés o ansiedad, permitiendo una intervención rápida.
+    ```
+
+    ```
+    Feedback estructurado: Permitir que los pacientes envíen    comentarios sobre los ejercicios realizados, ayudando a   Carolina a ajustar las terapias de forma más efectiva.
+    ```
+
+    ```
+    Adaptación cultural y confidencialidad: Asegurar que la     plataforma sea intuitiva, segura y culturalmente relevante    (ej., ejemplos adaptados al contexto latinoamericano),    ganándose la confianza de los especialistas.
+    ```
+
+* **Conclusión**
+
+    * Los resultados de las entrevistas destacan necesidades clave que Youper puede abordar: para jóvenes adultos como Juan Diego, herramientas rápidas y personalizadas que complementen sus estrategias actuales de manejo del estrés; para especialistas como Carolina, una plataforma que facilite el seguimiento emocional y mejore la calidad de las consultas. Estas oportunidades se alinean con el enfoque de Youper de ofrecer una experiencia personalizada, culturalmente adaptada y respaldada por TCC, fortaleciendo su propuesta de valor frente a competidores.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
@@ -461,7 +598,7 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 
 #### Se presenta cada tarea con su Frecuencia e importancia segun el tipo de usuario, Customer o Proveedor, en el cual podemos identificar las prioridades segun tipo de user.
 
-![image_user_matrix](resources/USER_MATRIX.png)
+![image_user_matrix](resources/User_task_matrix_blue.png)
 
 ### 2.3.3. User Journey Mapping
 
@@ -477,8 +614,8 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 ![image_empathy_mapping_2](resources/UTM_S2.png)
 #### * User Empathy Mapping psicóloga
 ![image_empathy_mapping_3](resources/UTM_S3.png)
-
-### 2.3.5. As-is Scenario Mapping
+ 
+### 2.3.5. As-is Scenario Mapping  
 #### * As-is Scenario Mapping joven
 ![image_as_is_scenario_mapping_joven](resources/joven_alta_carga.png)
 #### * As-is Scenario Mapping adulto
@@ -571,7 +708,7 @@ Tras analizar las Epics definidas, procedimos a desglosarlas en User Stories má
 
 | Epic / Story ID | Título                                            | Descripción                                                                                                           | Criterios de Aceptación                                                                                                                                      | Relacionado con (Epic ID) |
 |-----------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| US001           | Ver el historial de emociones                     | Como psicólogo, Quiero ver el historial de emociones Para hacer un seguimiento del progreso del usuario.              | Dado que soy psicólogo y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo ver el historial de emociones para hacer un seguimiento del progreso del usuario. | EPIC005                    |
+| US001           | Ver el historial de emociones                     | **Como** psicólogo, **Quiero** ver el historial de emociones**Para** hacer un seguimiento del progreso del usuario.               | Dado que soy psicólogo y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo ver el historial de emociones para hacer un seguimiento del progreso del usuario. | EPIC005                    |
 | US002           | Recibir recomendaciones diarias                   | Como administrador, Quiero recibir recomendaciones diarias Para mejorar mi bienestar emocional.                      | Dado que soy administrador y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo recibir recomendaciones diarias para mejorar mi bienestar emocional.         | EPIC004                    |
 | US003           | Escuchar música relajante                         | Como responsable, Quiero escuchar música relajante Para reducir mi nivel de estrés.                                  | Dado que soy responsable y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo escuchar música relajante para reducir mi nivel de estrés.                   | EPIC002                    |
 | US004           | Ver los datos de sueño                            | Como usuario con problemas de sueño, Quiero ver los datos de sueño Para mejorar la calidad del descanso.              | Dado que soy usuario con problemas de sueño y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo ver los datos de sueño para mejorar la calidad del descanso. | EPIC009                    |
@@ -1455,7 +1592,6 @@ En esta sección se explica y evidencia el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page, Web Services y Frontend Web
 Applications.
 
-
 ### 5.2.1. Sprints
 
 ## 5.2.1.1. Sprint Planning 1
@@ -1522,6 +1658,7 @@ En esta sección el equipo que incluye la elaboración de un artefacto Leadershi
 
 ## 5.2.1.3. Sprint Backlog 1
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+![Image_SprintBacklog](resources/SprintBacklog.JPG)
 
 <table>
 <tr>
@@ -1714,6 +1851,7 @@ En esta sección el equipo que incluye la elaboración de un artefacto Leadershi
 ## 5.2.2.3. Sprint Backlog 2
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
 
+
 <table>
 <tr>
     <th colspan="3">Sprint #</th>
@@ -1809,6 +1947,7 @@ En esta sección se explica y presenta los avances en implementación con relaci
 Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
 presenta screenshots de las principales vistas implementadas
 
+
 ![577f85c0-efa4-4d34-a4e5-94a3d3e0754b](https://github.com/user-attachments/assets/ba9f73d7-3d24-4823-a50e-dcb7ce07e9be)
 
 ![6b5cee27-517f-4530-ac15-de2720da05f0](https://github.com/user-attachments/assets/7ca67672-3fe2-4ae2-a527-6e4212b31bc4)
@@ -1830,7 +1969,8 @@ En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
 relacionados con el alcance del Sprint. 
 
 
-![image](https://github.com/user-attachments/assets/b60a0dd9-aafd-433c-adb8-d1cecf6b3fb0)
+![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
+
 
 
 ## 5.2.2.7  Software Deployment Evidence for Sprint Review
