@@ -111,7 +111,7 @@
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Service \& Applications Implementation](#52-landing-page-service--applications-implementation)
-    - [5.2.x. Sprints](#52x-sprints)
+    - [5.2.1. Sprints](#52x-sprints)
     -  [5.2.1.1. Sprint Planning 1](#5211-Sprint-Planning1)
     -  [5.2.1.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
     -  [5.2.1.3. Sprint Backlog 1](#5213-Sprint-Backlog-1)
@@ -120,6 +120,15 @@
     -  [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
     -  [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
     -  [5.2.1.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
+    - [5.2.2. Sprint 2](#52x-sprints)
+    -  [5.2.2.1. Sprint Planning 2](#5211-Sprint-Planning1)
+    -  [5.2.2.2. Aspect Leaders and Collaborators](#5212-Aspect-Leaders-and-Collaborators)
+    -  [5.2.2.3. Sprint Backlog 2](#5213-Sprint-Backlog-1)
+    -  [5.2.2.4. Development Evidence for Sprint Review](#5214-Development-Evidence-for-Sprint-Review)
+    -  [5.2.2.5. Execution Evidence for Sprint Review](#5215-Execution-Evidence-for-Sprint-Review)
+    -  [5.2.2.6. Services Documentation Evidence for Sprint Review](#5216-Services-Documentation-Evidence-for-Sprint-Review)
+    -  [5.2.2.7. Software Deployment Evidence for Sprint Review](#5217-Software-Deployment-Evidence-for-Sprint-Review)
+    -  [5.2.2.8. Team Collaboration Insights during Sprint](#5218-Team-Collaboration-Insights-during-Sprint)
     -  [Conclusiones](#Conclusiones)
     -  [Bibliografía](#Bibliografía)
     -  [Anexos](#Anexos)
@@ -169,11 +178,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
 | <img src="resources/GuillermoTantalean_Profile.jpg" width="500"> | Me llamo Guillermo Tantaleán, soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo habilidades para comunicarme acertivamente, me enfoco en el desarrollo de aplicaciones web y móvil, tengo conocimientos de business management, leadership, emprendimientos y negocios. Soy un amante de la tecnología y del buen café. Tengo buenas habilidades de trabajo en equipo. Domino lenguajes como Swift, Python, y C++. |
 | ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa)  | Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal. |
+| ![Raul](resources/Raul_Tasayco_Profile.jpg) | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
 
-| <img src="resources/Angel_Berrospi_Profile.jpg" > | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
-| <img src="resources/Raul_Tasayco_Profile.jpg" width="135" height="165" > | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
-| |  |
-| |  |
+
 
 ## 1.2. Solution Profile
 
@@ -194,26 +201,30 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 1.2.2.1. Lean Ux Problem Statment
 ###
-Para los adultos jóvenes y profesionales con alta carga laboral que sufren de ansiedad, estrés, baja autoestima y otros transtornos emocionales, quienes enfrentan barreras como el costo elevado, la estigmación y la falta de acceso a atención de salud mental adecuada, el problema es que no tienen acceso a una solución personalizada, accesible y efectiva que se adapte a sus necesidades emocionales y les brinde apoyo emocional continuo.
+El propósito de nuestra Startup se centra en la ayuda tanto para los adultos, jóvenes y profesionales con alta carga laboral que sufren de ansiedad, estrés, baja autoestima y otros transtornos emocionales, quienes enfrentan barreras como el costo elevado, la estigmación y la falta de acceso a atención de salud mental adecuada que lamenteblemente no se le ofrece a los usuarios en atención pública, el problema es que no tienen acceso a una solución personalizada, accesible y efectiva que se adapte a sus necesidades emocionales y les brinde apoyo emocional continuo y puedan superar sus declives.
 
 ## 1.2.2.2. Lean UX Assumptions
 ### 
-- Assumptions 1: Los usuarios tienen dificultades para acceder a atención de salud mental debido a 
-barreras como el costo, la estigmación o la falta de tiempo.
-- Assumptions 2: Las herramientas digitales, como la inteligencia artificial y la terapia cognitivo-conductual, pueden ser efectivas para mejorar el bienestar emocional de los usuarios si están bien personalizadas y adaptadas.
-- Assumptions 3: Los usuarios valoran la personalización de su experiencia, como la adaptación a sus necesidades emocionales y su progreso.
-- Assumptions 4: El seguimiento constante de las emociones, la meditación, los ejercicios de respiración y el uso de sonidos relajantes ayudan a reducir los niveles de estrés y mejorar la calidad de vida.
-- Assumptions 5: La integración de herramientas para que los profesionales de salud mental sigan el progreso de sus pacientes, aumenta la efectividad de la intevención y el bienestar a largo plazo.
+- Assumptions 1:Usuarios con carga emocional alta y acceso limitado a terapia profesional buscan soluciones accesibles y personalizadas para manejar su salud mental.
+- Assumptions 2: La inteligencia artificial y la terapia cognitivo-conductual digital son efectivas si se personalizan según emociones y patrones del usuario.
+- Assumptions 3: La personalización de la experiencia aumenta la conexión emocional con la plataforma y fomenta su uso continuo.
+- Assumptions 4:El seguimiento constante de emociones y ejercicios de bienestar como respiración, meditación y sonidos, mejora la estabilidad emocional y sueño.
+- Assumptions 5: Los profesionales de salud mental desean herramientas para hacer seguimiento asincrónico del progreso de sus pacientes, sin depender de sesiones presenciales.
   
 ## 1.2.2.3. Lean UX Hypothesis Statements
 ###
-- Hypothesis 1: Si los usuarios pueden acceder a un acompañamiento emocional personalizado, basado en inteligencia artificial y TCC, entonces experimentarán una mejora significativa en su bienestar emocional.
-- Hypothesis 2: Si los usuarios tienen la opción de personalizar su experiencia en la plataforma, adaptándola a sus necesidades emocionales específicas, entonces se comprometerán más con la aplicación y continuarán usándola a largo plazo.
-- Hypothesis 3: Si Youper permite a los profesionales de salud mental realizar un seguimiento eficaz del progreso de sus pacientes, entonces los pacientes tendrán un mejor manejo de su salud mental y se sentirán más apoyados.
-- Hypothesis 4: Si se integran funcionalidades como meditaciones guiadas, música relajante y sonidos de naturaleza, los usuarios experimentarán una reducción del estrés y una mejora en la calidad del sueño.
+- Hypothesis 1: Creemos que ofrecer un sistema personalizado de acompañamiento emocional guiado por IA para jóvenes profesionales con poco tiempo para terapia ayudará a manejar sus niveles de estrés de manera más efectiva lo que incrementará el uso semanal de la app y reducirá la tasa de abandono.
+- Hypothesis 2: Estamos convencidos de que permitir a los usuarios personalizar su panel emocional y recordatorios para usuarios emocionalmente sobrecargados hará que se sientan más en control de su estado mental lo que aumentará las interacciones diarias y la retención durante 30 días.
+- Hypothesis 3: Asumimos que integrar ejercicios de respiración, meditaciones y sonidos relajantes para usuarios con ansiedad o problemas de sueño les ayudará a reducir su estrés percibido y mejorar su calidad de sueño lo que aumentará las valoraciones positivas de la app (más de 4 estrellas).
+- Hypothesis 4: Suponemos que ofrecer un panel de control para profesionales con el historial emocional y de actividad de los pacientes para profesionales de la salud mental les permitirá hacer un seguimiento más preciso y planificar terapias personalizadas lo que generará mayor adopción entre terapeutas.
+- Hypothesis 5: Estimamos que ofrecer planes de salud mental cortos y con metas claras (ej. reducir ansiedad en 7 días)
+para usuarios nuevos que exploran herramientas emocionales los guiará hacia una experiencia de valor rápido lo que aumentará la tasa de retención en los primeros 7 días al menos en un 40%.
+- Hypothesis 6: Sostenemos que enviar notificaciones diarias para registrar el estado de ánimo con preguntas breves para usuarios con estados emocionales fluctuantes fomentará la conciencia emocional constante y la autorreflexión lo que aumentará los usuarios activos diarios y la formación de hábitos saludables.
+- Hypothesis 7: Planteamos que incorporar espacios de apoyo entre pares anónimos moderados por IA para usuarios que se sienten aislados pero no buscan ayuda profesional fomentará el sentido de comunidad y reducirá el estigma sobre la salud mental lo que extenderá la duración promedio de las sesiones y reducirá el abandono de la app en un 20%.
+- Hypothesis 8: Consideramos que ofrecer una introducción guiada por un coach conversacional con IA para nuevos usuarios que no conocen herramientas digitales de salud mental disminuirá la fricción inicial y mejorará la comprensión del valor de la app lo que aumentará la adopción de funciones dentro de las primeras 3 sesiones.
 
 ## 1.2.2.4. Lean UX Canvas
-![image_Lean_Ux_Canvas](resources/Lean_Ux_Canvas.jpg)
+![image_Lean_Ux_Canvas](resources/LeanUxCanvas.jpg)
 
 # 2. Capítulo 2: Requirements Elicitation & Analysis
 ## 2.1 Competidores
@@ -225,8 +236,9 @@ barreras como el costo, la estigmación o la falta de tiempo.
   </tr>
   <tr>
     <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
-    <td colspan="17">Para identificar ventajas y debilidades comparativas entre Youper y los principales actores del mercado del bienestar emocional digital. Headspace es un referente global, por lo tanto entender su enfoque ayuda a posicionar mejor la propuesta de valor de Youper.
-</td>
+    <td colspan="17">Realizar un análisis comparativo permite identificar las fortalezas y debilidades de Youper frente a los principales competidores en el mercado del bienestar emocional digital, como Headspace, un referente global en soluciones de salud mental. Este estudio facilita la comprensión de sus enfoques estratégicos, modelos de personalización, experiencia de usuario y propuestas de valor, lo que permite posicionar a Youper de manera más competitiva. Además, el análisis ayuda a detectar oportunidades de innovación y diferenciación, asegurando que Youper aborde eficazmente las necesidades emocionales de sus usuarios, superando barreras como la accesibilidad y la estigmatización.
+    </td>
+
   </tr>
   <tr>
     <td colspan="2"></td>
@@ -331,51 +343,69 @@ barreras como el costo, la estigmación o la falta de tiempo.
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
-Youper aplicará una estrategia centrada en la diferenciación a través de la personalización emocional guiada y un enfoque terapéutico basado en TCC, en contraste con la experiencia más generalista de Calm, Headspace y Meditopia. Aprovechará las debilidades de estos competidores —como la falta de contenido contextualizado culturalmente y la limitada personalización emocional— para posicionarse como una solución más empática, local y adaptada a las necesidades reales de los usuarios hispanohablantes. Como táctica, se integrarán algoritmos simples desde el onboarding para ofrecer recomendaciones personalizadas desde el primer uso, junto a contenido con voces y ejemplos propios del contexto latinoamericano. Además, se impulsarán campañas emocionales en fechas clave para aprovechar el creciente interés en salud mental. Para mitigar amenazas como la saturación del mercado y la desconfianza frente al uso de datos personales, Youper comunicará con transparencia su política de privacidad y reforzará la confianza a través de prácticas éticas y testimonios reales. De este modo, la startup busca construir una propuesta de valor clara, cercana y clínicamente fundamentada frente a sus principales competidores.
+
+___
+Youper adoptará una estrategia de diferenciación centrada en ofrecer una experiencia emocionalmente personalizada, respaldada por la terapia cognitivo-conductual (TCC), distinguiéndose de competidores como Calm, Headspace y Meditopia, que adoptan enfoques más genéricos y universales. Para destacar, Youper priorizará un enfoque humano, empático y culturalmente adaptado al público hispanohablante, integrando desde el primer uso algoritmos simples pero efectivos que generen recomendaciones personalizadas basadas en las necesidades individuales de los usuarios. Además, enriquecerá su contenido con voces, ejemplos y referencias contextuales del mundo latinoamericano, reforzando la relevancia cultural. La startup aprovechará fechas clave (como el Día de la Salud Mental o festividades locales) para lanzar campañas emocionales que fortalezcan el vínculo con su audiencia. Para ganarse la confianza en un mercado competitivo, Youper implementará una comunicación transparente sobre el manejo de datos, respaldada por testimonios reales de usuarios, y se apoyará en fundamentos clínicos sólidos, consolidándose como una propuesta cercana, ética y profundamente adaptada a su comunidad.
+
+``` Youper ofrece mejoras frente a otros como:```
+___
+  * **Personalización emocional avanzada con TCC:** A diferencia de los enfoques genéricos de Calm y Headspace, que ofrecen meditaciones y ejercicios estandarizados, Youper integra algoritmos desde el primer uso para adaptar recomendaciones basadas en TCC, atendiendo las necesidades emocionales individuales de los usuarios de forma más precisa.
+  ___
+  * **Adaptación cultural al público hispanohablante:** Mientras Meditopia y otros competidores presentan contenido mayormente global, Youper incorpora voces, ejemplos y referencias del contexto latinoamericano, haciendo que la experiencia sea más relatable y cercana para este segmento.
+  ___
+  * **Enfoque humano y empático:** A diferencia del tono más neutro o comercial de Headspace, Youper prioriza un enfoque empático con contenido que refleja las realidades culturales y emocionales de sus usuarios, fortaleciendo la conexión emocional.
+  ___
+  * **Campañas emocionales contextuales:** Mientras Calm y Meditopia lanzan campañas genéricas, Youper aprovechará fechas clave relevantes para el público hispanohablante (ej., Día de la Salud Mental, Día de los Muertos) para crear campañas emocionalmente significativas, aumentando el engagement.
+  ___
+  * **Transparencia y confianza éticas:** Frente a la percepción de opacidad en el uso de datos de algunos competidores, Youper se diferenciará con una comunicación clara sobre la protección de datos y testimonios reales, respaldados por fundamentos clínicos, generando mayor credibilidad en un mercado saturado.
+  ___
+  * **Acceso temprano a personalización:** A diferencia de la personalización limitada inicial en competidores como Headspace (que requiere tiempo de uso), Youper ofrece recomendaciones personalizadas desde el onboarding, mejorando la experiencia desde el inicio.
+  ___
+  * **Integración cultural en contenido:** Mientras Meditopia ofrece meditaciones generales, Youper incluirá ejercicios y narrativas que reflejen desafíos específicos del mundo laboral o familiar en América Latina, aumentando su relevancia.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas
 
 Se han realizado las siguientes preguntas correspondiente a la realización de entrevistas por segmento objetivo:
-
+___
 **Segmento 1: Jóvenes Adultos con Estrés o Ansiedad**
-- ¿Con qué frecuencia sientes ansiedad o estrés relacionado con tus estudios, relaciones, trabajo o familia? 
-- ¿Qué emociones predominan en tu día a día (ansiedad, frustración, tristeza, cansancio)? ¿Cómo las manejas?
-- ¿Has buscado apoyo emocional anteriormente? ¿Fue a través de un psicólogo, un amigo o por medios digitales? 
-- ¿Qué tan cómodo te sentirías usando una aplicación para expresar lo que sientes en privado?
-- ¿Te gustaría que una app te hiciera preguntas diarias para ayudarte a entender tus emociones?
-- ¿Qué tipo de contenido usarías más en una app emocional: meditaciones, ejercicios de respiración, frases motivadoras, música? 
-- ¿En qué momentos del día te sientes más vulnerable emocionalmente y te gustaría tener apoyo?
-- ¿Qué tan importante es para ti que la app sea discreta y no revele información sensible?
-- ¿Preferirías recibir sugerencias automáticas o elegir tú mismo los ejercicios según cómo te sientes? 
-- ¿Qué esperas lograr si usas una app emocional: sentirte más tranquilo, dormir mejor, tener más claridad mental, mejorar tu autoestima?
-
+___
+* ¿Con qué frecuencia experimentas ansiedad o estrés en tu vida diaria, y qué situaciones específicas (estudios, trabajo, relaciones familiares o personales) las desencadenan más?
+* ¿Qué emociones dominan tus días (ansiedad, frustración, tristeza, agotamiento), y qué estrategias intentas usar para manejarlas, ya sea por tu cuenta o con ayuda?
+* ¿Has buscado apoyo emocional antes, y si es así, qué experiencias tuviste con psicólogos, amigos o herramientas digitales (como apps o sitios web)?
+* ¿Qué tan cómodo te sentirías usando una aplicación para registrar tus emociones de forma privada, y qué características te harían confiar más en ella?
+* ¿Te interesaría que una app te enviara preguntas diarias para reflexionar sobre tus emociones, y qué tipo de preguntas te ayudarían más?
+* ¿Qué tipo de contenido (meditaciones guiadas, ejercicios de respiración, frases motivadoras, música relajante o algo diferente) te gustaría tener en una app para apoyarte emocionalmente, y por qué?
+* ¿En qué momentos del día sientes mayor vulnerabilidad emocional, y qué tipo de apoyo (inmediato, estructurado, breve) te gustaría recibir en esos instantes?
+* ¿Qué tan crucial es para ti que una app sea completamente discreta y proteja tu información sensible, y qué te preocuparía si no lo fuera?
+* ¿Prefieres que una app te sugiera ejercicios automáticamente según tu estado de ánimo o que te permita elegirlos manualmente, y por qué?
+* ¿Qué esperas lograr a largo plazo con una app emocional (sentirte más calmado, mejorar tu sueño, ganar claridad mental, aumentar tu autoestima), y cómo medirías ese progreso?
+___
 **Segmento 2: Adultos con Carga Laboral**
-
-- Cuando terminas tu jornada laboral, ¿cómo sueles desconectarte mental o emocionalmente?
-- ¿Tienes momentos donde te cuesta conciliar el sueño por pensamientos relacionados al trabajo? ¿Qué haces en esas situaciones?
-- ¿Qué tan frecuente te sientes agotado emocionalmente, incluso si físicamente estás bien?
-- ¿Con qué frase describirías tu estado mental un lunes por la mañana y un viernes por la noche? 
-- ¿Qué te haría confiar en una app emocional? (privacidad, respaldo científico, anonimato, acceso sin conexión, etc.)
-- Si supieras que tus datos emocionales se usan solo para mejorar tu experiencia personalizada, ¿te sentirías cómodo? ¿Por qué sí o por qué no?
-- ¿Te resultaría útil que la app se sincronice con tu smartwatch o pulsera para medir tu estrés real y darte recomendaciones en tiempo real?
-- ¿Cómo te gustaría sentirte después de 1 mes usando una app como Youper? (Más tranquilo, más motivado, con mejor autoestima, durmiendo mejor, etc.)
-- ¿Qué haría que esta app se convirtiera en parte de tu rutina diaria sin que se sienta como una obligación más?
-- ¿Te gustaría que la app te ayude a detectar momentos en los que podrías necesitar apoyo profesional y te oriente de forma confidencial?
-
+___
+* ¿Qué estrategias utilizas para desconectarte mental o emocionalmente al terminar tu jornada laboral, y qué tan efectivas consideras que son?
+* ¿Hay momentos en los que te cuesta conciliar el sueño debido a pensamientos relacionados con el trabajo, y qué intentas hacer en esas situaciones para relajarte?
+* ¿Con qué frecuencia sientes agotamiento emocional a pesar de estar físicamente bien, y qué factores laborales crees que lo desencadenan?
+* ¿Cómo describirías tu estado mental un lunes por la mañana y un viernes por la noche con una frase o palabra clave, y por qué crees que varía?
+* ¿Qué elementos (privacidad total, respaldo científico, anonimato, acceso sin conexión, diseño intuitivo, etc.) te harían confiar plenamente en una app emocional como Youper?
+* Si supieras que tus datos emocionales se utilizan exclusivamente para personalizar tu experiencia y mejorar la app, ¿te sentirías cómodo o no, y qué aspectos te preocuparían o tranquilizarían?
+* ¿Te parecería útil que la app se integre con tu smartwatch o pulsera para monitorear tu estrés en tiempo real y ofrecerte recomendaciones inmediatas, y qué tipo de recomendaciones valorarías más?
+* ¿Cómo te gustaría sentirte después de usar una app como Youper durante un mes (más tranquilo, motivado, con mejor autoestima, durmiendo mejor), y qué señales te indicarían que está funcionando?
+* ¿Qué características o incentivos (notificaciones personalizadas, progreso visible, ejercicios cortos, recompensas) harían que la app se integre fácilmente en tu rutina diaria sin sentirse como una carga adicional?
+* ¿Te interesaría que la app detecte momentos en los que podrías necesitar apoyo profesional y te brinde orientación confidencial, y qué tipo de soporte buscarías en esos casos?
+___
 **Segmento 3: Especialistas de la Salud Mental**
-
-- ¿Qué herramientas digitales usas actualmente para acompañar a tus pacientes? 
-- ¿Qué desafíos enfrentas al dar seguimiento emocional fuera de la consulta?
-- ¿Te gustaría contar con una plataforma donde tus pacientes puedan registrar emociones y tú ver el progreso? 
-- ¿Qué tipo de información consideras clave para evaluar el bienestar emocional de un paciente entre sesiones?
-- ¿Te interesaría que la app ofreciera un resumen automático del estado emocional del usuario?
-- ¿Cuál sería el formato ideal para recibir reportes: visual, texto, alertas?
-- ¿Te sentirías cómodo recomendando una app como complemento terapéutico? 
-- ¿Qué características te harían confiar en una app para hablar sobre tus emociones (seguridad de datos, diseño amigable)?
-- ¿Consideras útil que los pacientes puedan enviarte feedback sobre los ejercicios que realizaron?
-- ¿Qué otras funciones te gustaría ver en una app de salud emocional para profesionales?
-
+___
+* ¿Qué herramientas digitales utilizas actualmente para acompañar a tus pacientes, y qué limitaciones encuentras en ellas para el seguimiento emocional?
+* ¿Cuáles son los principales desafíos que enfrentas al dar seguimiento emocional a tus pacientes fuera de las consultas presenciales o virtuales?
+* ¿Te gustaría tener una plataforma donde tus pacientes registren sus emociones y tú puedas monitorear su progreso de forma estructurada y confidencial?
+* ¿Qué tipo de información (ej., patrones emocionales, respuestas a ejercicios, niveles de estrés) consideras esencial para evaluar el bienestar emocional de un paciente entre sesiones?
+* ¿Te interesaría que la app genere un resumen automático del estado emocional de tus pacientes basado en sus registros, y qué detalles te gustaría que incluya?
+* ¿Qué formato prefieres para recibir reportes sobre el progreso de tus pacientes: gráficos visuales, texto detallado, alertas personalizadas, o una combinación, y por qué?
+* ¿Te sentirías cómodo recomendando una app como complemento terapéutico a tus pacientes, y qué factores influirían en tu decisión (seguridad, evidencia científica, facilidad de uso)?
+* ¿Qué características (seguridad de datos, diseño intuitivo, integración con otros sistemas, etc.) te darían confianza para usar una app y recomendarla a tus pacientes?
+* ¿Considerarías útil que los pacientes puedan enviarte feedback directo sobre los ejercicios o herramientas que usaron, y cómo te ayudaría eso en tu práctica?
+* ¿Qué funciones adicionales (ej., alertas personalizadas, análisis predictivo, colaboración con otros especialistas) te gustaría ver en una app de salud emocional diseñada para profesionales como tú?
 
 ### 2.2.2. Registro de entrevistas
 
@@ -398,6 +428,20 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 | ![Entrevista1_Seg1](resources/Entrevista1_Segmento1.png) |
 | **Resumen:** Diego Acuña es un joven adulto de 23 años, que busca manejar sus emociones ante las actividades que requiere completar para su carrera universitaria, así como el peso de las actividades de su negocio familiar. Él considera esencial tener una aplicación que le permita regular sus emociones en momentos de alto estrés y llevar prácticas que le permitan mejorar su estado emocional. |
 
+**Entrevista 2**
+| Datos del entrevistado |
+| ---------------------- |
+| Nombre: Alessandro Hesse Pulache |
+| Edad: 20 años|
+| Género: Masculino |
+| Distrito: Surquillo |
+| Ocupación: Estudiante universitario |
+| Estado Civil: Soltero |
+| Inicio de la entrevista: 00:00 |
+| Duración de la entrevista: 03:32 |
+| ![Entrevista2_Seg1](resources/Entrevista2_Segmento1.jpg) |
+| **Resumen:** Alessandro Hesse Pulache es un alumno de la carrra de ciencias de la computación que nos comenta que a lo largo de su carrera de pregrado siente una alta carga academica, mucho más cuando es iniciando un nuevo ciclo, puesto que considera que se le dificulta adecuarse al ritmo de vida que tiene en un ciclo academico luego de retornar de unas vacaciones, por ello considera  que es importante tener un aplicativo como youper para poder gestionar y controlar sus emociones |
+
 **Segmento Objetivo 2: Adultos con Carga Laboral**
 
 **Entrevista 1:**
@@ -414,6 +458,20 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 | Duración de la entrevista: 04:18 |
 | ![Entrevista1_Seg1](resources/Entrevista1_Segmento2.PNG) |
 | **Resumen:** Diego Trigozo es un joven adulto de 22 años, que realiza la labor de digitador en una notaría. Él menciona que el trabajo que realiza durante toda la semana así como la atención al público le causa estrés y un gran cansancio. Sin embargo, menciona que como medida ante esto, asiste a un gimnasio cercano a su centro de trabajo, esto le permite reducir el estrés y darle un mejor bienestar emocional. Sugiere que la implementación de una aplicación que le ayude a regular sus emociones a través de otros métodos sería ideal para él y estaría dispuesto a usar dichas herramientas que le permitirían llevar un monitoreo de sus emociones. |
+
+
+**Entrevista 2**
+| Datos del entrevistado |
+| ---------------------- |
+| Nombre:	Marcelo Valera Bustinza |
+| Edad: 22 años |
+| Género: Masculino |
+| Distrito: Los olivos |
+| Ocupación: Practicante Desarrollador Junior |
+| Estado Civil: Soltero |
+| Duración de la entrevista: 2:54 |
+| ![Entrevista1_Seg1](resources/Entrevista2_segmento2.jpg) |
+| **Resumen:** Marcelo Valera Bustinza es un desarrollador Junior, el cual nos comenta que en a menudo le genera estrés la carga laboral en cuanto a las acciones que él realiza en su día a día, cree que un aplicativo el cual realice monitoreo constante acerca de su estado emocional sería bueno, además, siente que una funcionalidad que le ayude a consiliar el sueño sería excelente para él, puesto que a veces no logra conciliar el sueño por el estrés. |
 
 **Segmento Objetivo 3: Especialistas de la Salud Mental**
 
@@ -435,6 +493,101 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 ### 2.2.3. Análisis de entrevistas
 
 
+* Segmento 1: Jóvenes Adultos con Estrés o Ansiedad (Juan Diego Trigozo Liza)
+
+  * Perfil
+
+    * Juan Diego, de 22 años, digitador en una notaría en Carabayllo, soltero, reporta estrés y cansancio debido a su trabajo y la atención al público.
+
+  * Insights clave
+    * Causas de estrés identificadas: Su trabajo (tareas repetitivas como digitador) y la interacción constante con el público generan un estrés significativo, acompañado de cansancio físico y emocional. Esto refleja una necesidad común en jóvenes adultos que enfrentan presión laboral en roles operativos.
+
+  * **Estrategias actuales:** 
+      * Asiste al gimnasio para reducir el estrés, lo que indica que prefiere actividades prácticas y accesibles para gestionar sus emociones. Sin embargo, esto podría no ser suficiente para un manejo emocional integral.
+
+
+
+  * **Apertura a soluciones digitales:** 
+    * Está dispuesto a usar una app que le ayude a regular sus emociones y monitorearlas, mostrando interés en métodos alternativos al ejercicio físico.
+
+  * **Necesidades**
+    ```
+    Herramientas rápidas y accesibles para manejar el estrés en su rutina diaria, ya que su trabajo parece ser demandante y no le deja mucho tiempo.
+    ```
+
+    ```
+    Funcionalidades que le permitan monitorear su estado emocional, lo que sugiere que valora el autoconocimiento y el seguimiento de su progreso. 
+    ```
+
+    ```
+    Métodos variados para gestionar emociones, más allá del ejercicio físico, que se adapten a su contexto (ej., ejercicios breves que pueda hacer durante descansos).
+    ```
+  * **Oportunidades para Youper**
+
+    ```
+    Ejercicios personalizados y breves: Ofrecer sesiones cortas     (5 minutos) de TCC, como ejercicios de respiración o    reestructuración cognitiva, que Juan Diego pueda usar   durante su jornada laboral o después del trabajo.
+    ```
+
+    ```
+    Monitoreo emocional: Implementar un diario emocional con IA     que analice patrones y ofrezca retroalimentación, ayudándolo    a entender cómo el estrés laboral afecta su bienestar.
+    ```
+
+    ```
+    Adaptación cultural: Incluir contenido relatable para su    contexto (joven trabajador peruano), como ejemplos de manejo    del estrés en trabajos operativos o atención al público.
+    ```
+
+    ```
+    Notificaciones motivadoras: Enviar recordatorios para que     realice actividades de bienestar en momentos clave (ej., al     final de su jornada laboral).
+    ```
+
+* Segmento 3: Especialistas de la Salud Mental (Carolina Lizette Nanfuñay Chafloc)
+
+  * Perfil
+
+    * Carolina, de 35 años, psicóloga en un centro comunitario en Puente Piedra, casada, enfrenta dificultades en el seguimiento emocional de sus pacientes fuera de las sesiones.
+
+  * Insights clave
+
+    * Desafíos en el seguimiento: Identifica falencias en el monitoreo post-terapia, ya que los pacientes no siempre cumplen con los procesos recomendados, lo que dificulta evaluar su progreso y ajustar las intervenciones.
+
+    * Necesidad de conexión y monitoreo: Expresa la necesidad de una plataforma que le permita monitorear el avance emocional de sus pacientes y mantener una conexión más cercana, especialmente en momentos de alto estrés.
+
+    * Enfoque en la calidad de las consultas: Busca herramientas que le ayuden a gestionar mejor las sesiones, identificando inconvenientes emocionales de los pacientes entre consultas.
+
+  * Necesidades
+
+    ```
+    Una herramienta digital que facilite el seguimiento continuo    de los pacientes, ofreciendo datos sobre su estado emocional    fuera de las sesiones.
+    ```
+
+    ```
+    Mayor conexión con los pacientes para detectar momentos de    crisis o estrés elevado y responder de forma oportuna.
+    ```
+
+    ```
+    Funcionalidades que mejoren la calidad de las consultas,    como reportes estructurados del progreso emocional de los   pacientes.
+    ```
+  * Oportunidades para Youper
+    ```
+    Plataforma de monitoreo: Desarrollar un módulo para     especialistas donde puedan visualizar el progreso emocional     de sus pacientes (ej., registros diarios, tendencias de     estrés) con resúmenes automáticos.
+    ```
+
+    ```
+    Alertas personalizadas: Implementar notificaciones para los     especialistas cuando un paciente reporta un nivel elevado de    estrés o ansiedad, permitiendo una intervención rápida.
+    ```
+
+    ```
+    Feedback estructurado: Permitir que los pacientes envíen    comentarios sobre los ejercicios realizados, ayudando a   Carolina a ajustar las terapias de forma más efectiva.
+    ```
+
+    ```
+    Adaptación cultural y confidencialidad: Asegurar que la     plataforma sea intuitiva, segura y culturalmente relevante    (ej., ejemplos adaptados al contexto latinoamericano),    ganándose la confianza de los especialistas.
+    ```
+
+* **Conclusión**
+
+    * Los resultados de las entrevistas destacan necesidades clave que Youper puede abordar: para jóvenes adultos como Juan Diego, herramientas rápidas y personalizadas que complementen sus estrategias actuales de manejo del estrés; para especialistas como Carolina, una plataforma que facilite el seguimiento emocional y mejore la calidad de las consultas. Estas oportunidades se alinean con el enfoque de Youper de ofrecer una experiencia personalizada, culturalmente adaptada y respaldada por TCC, fortaleciendo su propuesta de valor frente a competidores.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
@@ -445,7 +598,7 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 
 #### Se presenta cada tarea con su Frecuencia e importancia segun el tipo de usuario, Customer o Proveedor, en el cual podemos identificar las prioridades segun tipo de user.
 
-![image_user_matrix](resources/USER_MATRIX.png)
+![image_user_matrix](resources/User_task_matrix_blue.png)
 
 ### 2.3.3. User Journey Mapping
 
@@ -461,8 +614,8 @@ Link del video de entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal
 ![image_empathy_mapping_2](resources/UTM_S2.png)
 #### * User Empathy Mapping psicóloga
 ![image_empathy_mapping_3](resources/UTM_S3.png)
-
-### 2.3.5. As-is Scenario Mapping
+ 
+### 2.3.5. As-is Scenario Mapping  
 #### * As-is Scenario Mapping joven
 ![image_as_is_scenario_mapping_joven](resources/joven_alta_carga.png)
 #### * As-is Scenario Mapping adulto
@@ -555,43 +708,82 @@ Tras analizar las Epics definidas, procedimos a desglosarlas en User Stories má
 
 | Epic / Story ID | Título                                            | Descripción                                                                                                           | Criterios de Aceptación                                                                                                                                      | Relacionado con (Epic ID) |
 |-----------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| US001           | Ver el historial de emociones                     | Como psicólogo, Quiero ver el historial de emociones Para hacer un seguimiento del progreso del usuario.              | **Escenario 1: Visualización de historial de emociones de pacientes** <br> **Given** el psicólogo se encuentre en la app, **When** accede a la sección "Pacientes", **Then** puede ver el historial de emociones para hacer un seguimiento del progreso del paciente. | EPIC005               |
-| US002           | Escuchar música relajante                         | Como paciente, Quiero escuchar música relajante Para reducir mi nivel de estrés.                                  | **Escenario 1: Reproducción de música relajante** <br> **Given** que el paciente accede a la sección "Modulos", **When** selecciona una pista, Then puede escuchar música relajante para reducir su estrés.                  | EPIC002                    |
-| US003           | Ver los datos de sueño                            | Como paciente con problemas de sueño, Quiero ver los datos de sueño Para mejorar la calidad del descanso.              | **Escenario 1: Visualización de datos de sueño** <bt> **Given** el paciente ingrese a la aplicación, **When** visualice su dashboard principal, **Then** se mostrará los datos de sueño para llevar un seguimiento de sus hábitos de sueño | EPIC009                    |
-| US004           | Acceder a meditaciones guiadas                    | Como paciente, Quiero acceder a meditaciones guiadas Para calmar mi ansiedad.                                       | **Escenario 1: Ejecución de meditación guiada** <br> **Given** el psicólogo se encuentra en la sección de "Meditaciones", **When** accede a una meditación guiada, **Then** puede visualizar actividades a realizarla para calmar su ansiedad.                      | EPIC006                    |
-| US005           | Editar perfil                                  | Como usuario, Quiero editar mi perfil Para mantener mis datos actualizados.                                    | **Escenario 1: Edición de perfil personal** <br> **Given** el usuario accede a la sección "Mi Perfil", **When** selecciona la opción de "Editar" e ingrese los datos actualizados en el formulario, **Then** se actualizan los datos del usuario. <br> **Escenario 2: Error al actualizar datos del perfil** <br> **Given** el usuario accede a la sección "Mi Perfil", **When** selecciona la opción de "Editar" e ingrese los datos actualizados en el formulario, **But** ingrese carácteres no válidos, **Then** se muestra un mensaje de error "No se pudo actualizar los datos. Ingrese solo carácteres válidos."                      | EPIC001                    |
-| US006           | Leer artículos de salud mental                    | Como paciente, Quiero leer artículos de salud mental Para entender mejor mis emociones.                           | **Escenario 1: Acceso a artículos informativos** <br> **Given** que el paciente accede a la sección "Modulos", **When** seleccione un artículo disponible, **Then** puede leer sobre salud mental para comprender mejor sus emociones.
-| US007           | Agendar una sesión                                | Como paciente, Quiero agendar una sesión Para recibir orientación emocional personalizada por parte de un profesional.                      | **Escenario 1: Reserva de sesión** <br> **Given** que el paciente accede a la sección "Citas", **When** selecciona la opción de agendar sesión, **Then** puede establecer una fecha y hora para recibir orientación emocional.         | EPIC001                    |
-| US008           | Visualizar beneficios de la app en la landing page | Como visitante, Quiero conocer los beneficios principales de la app Para entender rápidamente su utilidad. | **Escenario 1: Visualización de beneficios de la app** <br> **Given** que el visitante accede a la landing page, **When** se desplaze a la sección "Benefits", **Then** puede ver los beneficios clave de la app.                  | EPIC017                    |
-| US009           | Visualización de historial de emociones | Como paciente, Quiero visuaizar mi historial emocional Para revisar mi progreso. | **Escenario 1: Visualización de historial emocional** <br> **Given** que el se encuentre en la aplicación, **When** visualice su dashboard principal, **Then** puede revisar sus registros previos de emociones.                  | EPIC018                    |
-| US010           | Recibir reportes periódicos de emociones para evaluar el progreso del tratamiento | Como psicólogo, Quiero recibir reportes periódicos de emociones Para evaluar el progreso del tratamiento de mis pacientes.            | **Escenario 1: Visualización de reportes emocionales por paciente** <br> **Given** el psicólogo accede a la sección de "Pacientes", **When** seleccione un paciente y consulte su reporte, **Then** puede visualizar y evaluar su progreso emocional.              | EPIC003                    |
-| US011           | Configurar metas emocionales personalizadas para adaptar la experiencia del usuario | Como psicólogo, Quiero configurar metas emocionales personalizadas Para adaptar la experiencia de mis pacientes.     | **Escenario 1: Configuración de metas emocionales** <br> **Given** el psicólogo accede a la sección de "Pacientes", **When** accede a uno de los pacientes y seleccione "Definir metas", **Then** la experiencia del paciente se adapta según dichas metas.         | EPIC015                    |
-| US012           | Recibir notificaciones diarias para recordar mis ejercicios emocionales | Como usuario, Quiero recibir notificaciones diarias Para recordar mis ejercicios emocionales.                        | **Escenario 1: Envío de recordatorios diarios** <br> **Given** que el usuario ha activado las notificaciones, **When** llega el horario configurado, **Then** el usuario recibe un aviso para realizar sus ejercicios emocionales.                   | EPIC008                    |
-| US013           | Escuchar sonidos para dormir para mejorar la calidad de mi sueño       | Como paciente con insomnio, Quiero escuchar sonidos para dormir Para mejorar la calidad de mi sueño.                 | **Escenario 1: Reproducción de sonidos para dormir** <br> **Given** que el usuario con insomnio accede a la sección "Sueño", **When** seleccione algún sonido disponible, **Then** se reproducirá sonidos adecuados para dormir.            | EPIC007                    |
-| US015           | Registro a la plataforma         | Como usuario, Quiero registrarme a la plataforma Para acceder a sus funcionalidades.                                | **Escenario 1: Registro exitoso en la plataforma** <br> **Given** el usuario se encuentre en la página de registro de la aplicación, **When** ingrese todos sus datos correctamente y complete el formulario, **Then** se mostrará un mensaje "Se registró correctamente" y tendrá acceso a la aplicación. <br> **Escenario 2: Registro inválido en la plataforma** <br> **Given** el usuario se encuentre en la página de registro de la aplicación, **When** ingrese todos sus datos correctamente y complete el formulario, **But** no ingrese algún dato necesario o no complete el formulario adecuadamente, **Then** se mostrará un mensaje "No se pudo registrar. Inténtelo nuevamente".                          | EPIC014                    |
-| US016          | Visualización principales funcionalidades | Como visitante, Quiero visualizar las principales funcionalidades Para conocer lo que me permite realizar la apliación             | **Escenario 1:Visualizar principales funcionalidades** <br> **Given** el visitante se encuentre en la landing page, **When** se desplace a la sección "Features", **Then** el visitante visualizará información acerca de las principales funcionalidades de la aplicación.          | EPIC017                    |
-| US017          | Visualización de testimonios | Como visitante, Quiero visualizar los testimonios de otros usuarios que han utilizado la app Para tomar la decisión de usar la app             | **Escenario 1:Visualizar testimonios** <br> **Given** el visitante se encuentre en la landing page, **When** se desplace a la sección "Testimonials", **Then** el visitante visualizará algunos testimonios de usuarios que han utilizado la app anteriormente.          | EPIC017                    |
-| US018          | Visualización de planes | Como visitante, Quiero visualizar los planes que ofrece la plataforma Para seleccionar la mejor versión según mis preferencias            | **Escenario 1:Visualizar planes** <br> **Given** el visitante se encuentre en la landing page, **When** se desplace a la sección "Plans", **Then** el visitante visualizará los planes disponibles para adquirir la aplicación, así como sus diferencias.          | EPIC017                    |
-| US019          | Visualización de desarrolladores | Como visitante, Quiero conocer a los desarrolladores de la plataforma Para sentirme más seguro            | **Escenario 1:Visualizar desarrolladores** <br> **Given** el visitante se encuentre en la landing page, **When** se desplace a la sección "Plans", **Then** el visitante visualizará los planes disponibles para adquirir la aplicación, así como sus diferencias.          | EPIC017                    |
-| US020          | Visualización de contacto | Como visitante, Quiero conocer los medios de contacto Para tener una mejor comunicación con los desarrolladores de la plataforma.           | **Escenario 1:Visualizar datos de contacto** <br> **Given** el visitante se encuentre en la landing page, **When** se desplace a la sección "Contact", **Then** el visitante visualizará los medios de comunicación y contacto.          | EPIC017                    |
-| US021           | Ver mis estadísticas emocionales | Como paciente, Quiero ver mis estadísticas emocionales Para reflexionar sobre mi estado actual.                       | **Escenario 1: Visualización de estadísticas** <br> **Given** el paciente acceda a la plataforma, **When** acceda a la sección "Progreso", **Then** el paciente verá datos estadísticos respecto a su bienestar emocional.                     | EPIC005                    |                 |
-| US022           | Consultar gráficos de progreso emocional para analizar la evolución del usuario | Como psicólogo, Quiero consultar gráficos de progreso emocional Para analizar la evolución del paciente.             | **Escenario 1: Visualizar gráficos de progreso:** <br> **Given** el psicólogo accede a la sección "Pacientes", **When** seleccione algún paciente y seleccione "Ver progreso", **Then** el psicólogo podrá visualizar y analizar gráficos respecto a la evolución del paciente.                    | EPIC010                    |
-| US023           | Recibir sugerencias de contenido emocional | Como paciente, Quiero recibir sugerencias de contenido emocional Para encontrar recursos útiles rápidamente.          | **Escenario 1: Visualización de contenido recomendado** <br> **Given** el paciente accede a la plataforma, **When** se encuentre en la página principal, **Then** el paciente visualizará contenido adecuado a su situación y preferencias.                 | EPIC004                    |
-| US024           | Usar la app en mi idioma nativo                         | Como usuario, Quiero usar la app en mi idioma nativo Para sentirme más cómodo al usarla.                                     | **Escenario 1: Cambiar idioma** <br> **Given** el usuario accede a la plataforma, **When** seleccione el idioma de su preferencia, **Then** visualizará la información en el idioma seleccionado.                        | EPIC011                    |
-| US025           | Recibir retroalimentación sobre mi progreso                                                  | Como paciente, Quiero recibir retroalimentación continua por parte de mi psicólogo Para saber si estoy avanzando hacia mis objetivos emocionales.       | **Escenario 1: Visualizar retroalimentación** <br> **Given** el paciente accede a la sección "Mi Perfil", **When** seleccione "Progreso". **When** Visualizará retroalimentación actualizada redactada por su psicólogo.                     | EPIC016                    |
-| US026           | Acceder a perfil de usuario                                                               | Como usuario, Quiero acceder a mi perfil Para visualizar mi información personal.                        | **Escenario 1: Visualización de Perfil:** <br> **Given** el usuario accede a la plataforma, **When** acceda a la sección "Mi Perfil". **Then** el usuario podrá visualizar información de perfil.                                   | EPIC010                    |
-| US027           | Autenticación con redes sociales                                                              | Como usuario, Quiero iniciar sesión con mi cuenta de Google o Facebook Para crear una nueva cuenta.                  | **Escenario 1: Autenticación Exitosa:** <br> **Given** el usuario tiene cuenta social activa. **When** elige iniciar sesión con redes sociales. **Then** se muestra un mensaje "Autenticación exitosa" y permite el acceso a la app.                             | EPIC014                    |
-| US028           | Consulta rápida de tips mentales                                                                 | Como paciente que se siente abrumado, quiero tener acceso rápido a una lista de tips mentales, para manejar mis emociones en momentos difíciles. | **Escenario 1: Visualizar tips:** <br> **Given** el paciente se encuentre en la plataforma, **When** ingreso a la sección de primeros auxilios emocionales, **Then** veo una lista de tips prácticos según mi estado.                        | EPIC013                    |
-| US029           | Módulo de relaciones interpersonales                                                            | Como paciente en conflicto con mi pareja, quiero acceder a un módulo específico para mejorar mis relaciones, para desarrollar habilidades de comunicación y empatía. | **Escenario 1: Acceso a Módulo Interpersonal** <br> **Given** el usuario se encuentre en la sección "Modulos", **When** ingrese a "Interpersonal Module", **Then** paciente podrá visualizar y acceder a ejercicios de comunicación y resolución de conflictos. | EPIC002                    |
-| US030           | Autoevaluación de autoestima                                                                    | Como paciente con baja autoestima, quiero realizar evaluaciones periódicas, para medir mis avances en el área emocional.                    | **Given** paciente está en el módulo de autoestima, **When** paso una semana de uso, **Then** la app me sugiere hacer una nueva autoevaluación.                                          | EPIC003                    |
-| US031           | Acceso offline a contenidos descargados                                                         | Como usuario sin conexión estable, quiero acceder a meditaciones y sonidos descargados, para seguir cuidando mi salud mental sin depender de internet. | **Given** usuario haya descargado contenidos previamente, **When** no tenga conexión, **Then** puede acceder a ellos desde la biblioteca offline.                                       | EPIC007                    |
-| US032           | Seguimiento de hábitos positivos                                       | Como paciente, quiero registrar hábitos positivos diarios, para reforzar mis rutinas saludables.                                                 | **Given** accede al dashboard, **When** marca una acción como completada, **Then** se suma al conteo y se muestra el seguimiento actualizado.                         | EPIC015                    |
-| US033           | Acceso rápido a meditaciones favoritas                                | Como usuario, Quiero guardar mis meditaciones favoritas Para acceder a ellas rápidamente cuando las necesite.                                   | **Escenario 1: Visualización de favoritos** <br> **Given** el usuario ha marcado meditaciones como favoritas, **When** se seleccione la opción "Mis Favoritos", **Then** puede ver una lista con sus meditaciones favoritas.                     | EPIC006                    |
-| US034           | Historial de sesiones con psicólogo                                   | Como paciente, Quiero ver el historial de sesiones con mi psicólogo Para hacer seguimiento a mi tratamiento.                                     | **Escenario 1: Visualización de historial** <Given> el paciente ha tenido sesiones con un psicólogo, **When** accede a su perfil y seleccione "Historial", **Then** puede visualizar fechas, notas y duración de las sesiones.      | EPIC005                    |
-| US035           | Personalización de imagen de perfil           | Como usuario, Quiero personalizar mi foto de perfil en la app Para expresar mi identidad.                        | **Escenario 1: Foto de perfil actualizado exitosamente** <br> **Given** el usuario se encuentre en su perfil, **When** seleccione "Editar Perfil" y seleccione la nueva foto de perfil, **Then** se actualizará la foto de perfil.  <br>  **Escenario 2: Foto de perfil no actualizado** <br> **Given** el usuario se encuentre en su perfil, **When** seleccione "Editar Perfil" y seleccione la nueva foto de perfil, **But** seleccione una foto que no cumpla con los requisitos, **Then** se mostrará un mensaje de error.                          | EPIC001                    |
-| US036           | Comparación de emociones por semana              | Como paciente, Quiero comparar mis emociones entre semanas Para identificar patrones de cambio emocional y llevar un seguimiento. | **Escenario 1: Gráficos comparativos por semana** <br> **Given** paciente haya hecho registros semanales suficientes, **When** accede la sección "Estadísticas", **Then** verá gráficas comparativas por semana.                        | EPIC005                    |
-| US037           | Modo oscuro automático                           | Como usuario, Quiero que la app cambie automáticamente a modo oscuro de noche Para no forzar mi vista.   | **Escenario 1: Cambio automático de modo** <br> **Given** son más de las 18:00 horas, **When** el usuario abre la app, **Then** se activa el modo oscuro automáticamente.                                              | EPIC011                    |
-| US038           | Evaluación emocional antes de sesiones           | Como paciente, Quiero completar una breve evaluación antes de una sesión Para que mi terapeuta entienda mi estado actual. | **Escenario 1: Evaluación previa a la sesión:** <br> **Given** el paciente tiene una sesión programada, **When** la sesión está por comenzar, **Then** se le solicita completar una evaluación rápida.         | EPIC003                    |
+| US001           | Ver el historial de emociones                     | **Como** psicólogo, **Quiero** ver el historial de emociones**Para** hacer un seguimiento del progreso del usuario.               | Dado que soy psicólogo y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo ver el historial de emociones para hacer un seguimiento del progreso del usuario. | EPIC005                    |
+| US002           | Recibir recomendaciones diarias                   | Como administrador, Quiero recibir recomendaciones diarias Para mejorar mi bienestar emocional.                      | Dado que soy administrador y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo recibir recomendaciones diarias para mejorar mi bienestar emocional.         | EPIC004                    |
+| US003           | Escuchar música relajante                         | Como responsable, Quiero escuchar música relajante Para reducir mi nivel de estrés.                                  | Dado que soy responsable y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo escuchar música relajante para reducir mi nivel de estrés.                   | EPIC002                    |
+| US004           | Ver los datos de sueño                            | Como usuario con problemas de sueño, Quiero ver los datos de sueño Para mejorar la calidad del descanso.              | Dado que soy usuario con problemas de sueño y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo ver los datos de sueño para mejorar la calidad del descanso. | EPIC009                    |
+| US005           | Acceder a meditaciones guiadas                    | Como psicólogo, Quiero acceder a meditaciones guiadas Para calmar mi ansiedad.                                       | Dado que soy psicólogo y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo acceder a meditaciones guiadas para calmar mi ansiedad.                      | EPIC006                    |
+| US006           | Editar mi perfil                                  | Como administrador, Quiero editar mi perfil Para mantener mis datos actualizados.                                    | Dado que soy administrador y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo editar mi perfil para mantener mis datos actualizados.                     | EPIC001                    |
+| US007           | Leer artículos de salud mental                    | Como responsable, Quiero leer artículos de salud mental Para entender mejor mis emociones.                           | Dado que soy responsable y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo leer artículos de salud mental para entender mejor mis emociones.              | EPIC013                    |
+| US008           | Monitorear indicadores de estrés                  | Como usuario, Quiero monitorear indicadores de estrés Para prevenir crisis emocionales.                              | Dado que soy usuario y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo monitorear indicadores de estrés para prevenir crisis emocionales.                | EPIC002                    |
+| US009           | Enviar retroalimentación a la app                 | Como psicólogo, Quiero enviar retroalimentación a la app Para mejorar la experiencia del usuario.                    | Dado que soy psicólogo y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo enviar retroalimentación a la app para mejorar la experiencia del usuario.       | EPIC010                    |
+| US010           | Agendar una sesión                                | Como administrador, Quiero agendar una sesión Para recibir orientación emocional personalizada.                      | Dado que soy administrador y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo agendar una sesión para recibir orientación emocional personalizada.         | EPIC001                    |
+| US011           | Visualizar beneficios de la app en la landing page | Como visitante nuevo, Quiero ver los beneficios principales de la app en la landing page Para entender rápidamente su utilidad. | Dado que el visitante accede a la página principal, Cuando visualiza la sección principal, Entonces verá beneficios destacados y llamados a la acción.                   | EPIC017                    |
+| US012           | Acceder al historial de emociones desde la aplicación web | Como usuario, Quiero acceder a mi historial emocional desde la web Para revisar mi progreso en cualquier dispositivo. | Dado que el usuario inicia sesión desde la web, Cuando accede a la sección de historial emocional, Entonces podrá visualizar sus registros anteriores.                  | EPIC018                    |
+| US013           | Obtener datos de sueño desde dispositivo IoT      | Como backend, Quiero recibir datos de sueño de dispositivos IoT Para integrarlos en el monitoreo emocional.          | Dado que el usuario sincroniza su dispositivo IoT, Cuando se envían los datos al backend, Entonces estos deben almacenarse correctamente en la base de datos.             | EPIC019                    |
+| US014           | Realizar ejercicios de respiración para calmarme en momentos de ansiedad | Como usuario con ansiedad, Quiero realizar ejercicios de respiración Para calmarme en momentos de ansiedad.         | Dado que el usuario con ansiedad accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr calmarme en momentos de ansiedad.          | EPIC006                    |
+| US015           | Ver el estado emocional de mis dependientes para dar seguimiento a su bienestar | Como responsable, Quiero ver el estado emocional de mis dependientes Para dar seguimiento a su bienestar.            | Dado que el responsable accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr dar seguimiento a su bienestar.                     | EPIC005                    |
+| US016           | Recibir reportes periódicos de emociones para evaluar el progreso del tratamiento | Como psicólogo, Quiero recibir reportes periódicos de emociones Para evaluar el progreso del tratamiento.            | Dado que el psicólogo accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr evaluar el progreso del tratamiento.                  | EPIC003                    |
+| US017           | Configurar metas emocionales personalizadas para adaptar la experiencia del usuario | Como administrador, Quiero configurar metas emocionales personalizadas Para adaptar la experiencia del usuario.     | Dado que el administrador accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr adaptar la experiencia del usuario.               | EPIC015                    |
+| US018           | Recibir notificaciones diarias para recordar mis ejercicios emocionales | Como usuario, Quiero recibir notificaciones diarias Para recordar mis ejercicios emocionales.                        | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr recordar mis ejercicios emocionales.                    | EPIC008                    |
+| US019           | Escuchar sonidos para dormir para mejorar la calidad de mi sueño       | Como usuario con insomnio, Quiero escuchar sonidos para dormir Para mejorar la calidad de mi sueño.                 | Dado que el usuario con insomnio accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr mejorar la calidad de mi sueño.            | EPIC007                    |
+| US020           | Ver recomendaciones personalizadas para mejorar mi estado emocional    | Como usuario, Quiero ver recomendaciones personalizadas Para mejorar mi estado emocional.                           | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr mejorar mi estado emocional.                            | EPIC004                    |
+| US021           | Acceder a artículos y videos de bienestar para aprender más sobre salud emocional | Como usuario, Quiero acceder a artículos y videos de bienestar Para aprender más sobre salud emocional.             | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr aprender más sobre salud emocional.                     | EPIC013                    |
+| US022           | Registrarme de forma segura para proteger mis datos personales         | Como usuario, Quiero registrarme de forma segura Para proteger mis datos personales.                                | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr proteger mis datos personales.                          | EPIC014                    |
+| US023           | Monitorear mi progreso emocional para ver cómo evoluciono día a día    | Como usuario, Quiero monitorear mi progreso emocional Para ver cómo evoluciono día a día.                           | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr ver cómo evoluciono día a día.                          | EPIC005                    |
+| US024           | Acceder a la app desde múltiples dispositivos para usar la app en cualquier momento | Como usuario, Quiero acceder a la app desde múltiples dispositivos Para usar la app en cualquier momento.            | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr usar la app en cualquier momento.                        | EPIC011                    |
+| US025           | Mejorar el rendimiento de la landing para ofrecer una experiencia más fluida | Como desarrollador, Quiero mejorar el rendimiento de la landing Para ofrecer una experiencia más fluida.            | Dado que el desarrollador accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr ofrecer una experiencia más fluida.               | EPIC017                    |
+| US026           | Ver recomendaciones basadas en TCC para recibir apoyo emocional más efectivo | Como usuario, Quiero ver recomendaciones basadas en TCC Para recibir apoyo emocional más efectivo.                   | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr recibir apoyo emocional más efectivo.                   | EPIC004                    |
+| US027           | Agendar sesiones para mis dependientes para ayudarles a recibir atención profesional | Como responsable, Quiero agendar sesiones para mis dependientes Para ayudarles a recibir atención profesional.       | Dado que el responsable accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr ayudarles a recibir atención profesional.            | EPIC010                    |
+| US028           | Tener una versión gratuita con funciones básicas para probar la app antes de pagar | Como usuario, Quiero tener una versión gratuita con funciones básicas Para probar la app antes de pagar.             | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr probar la app antes de pagar.                           | EPIC012                    |
+| US029           | Ver mis estadísticas emocionales para reflexionar sobre mi estado actual | Como usuario, Quiero ver mis estadísticas emocionales Para reflexionar sobre mi estado actual.                       | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr reflexionar sobre mi estado actual.                     | EPIC005                    |
+| US030           | Conectarme con mi smartwatch para monitorear mi sueño y estrés automáticamente | Como usuario, Quiero conectarme con mi smartwatch Para monitorear mi sueño y estrés automáticamente.                | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr monitorear mi sueño y estrés automáticamente.           | EPIC009                    |
+| US031           | Consultar gráficos de progreso emocional para analizar la evolución del usuario | Como psicólogo, Quiero consultar gráficos de progreso emocional Para analizar la evolución del usuario.             | Dado que el psicólogo accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr analizar la evolución del usuario.                    | EPIC010                    |
+| US032           | Ajustar el contenido de la landing page para asegurar que la información esté actualizada | Como administrador, Quiero ajustar el contenido de la landing page Para asegurar que la información esté actualizada. | Dado que el administrador accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr asegurar que la información esté actualizada.     | EPIC017                    |
+| US033           | Recibir sugerencias de contenido emocional para encontrar recursos útiles rápidamente | Como usuario, Quiero recibir sugerencias de contenido emocional Para encontrar recursos útiles rápidamente.          | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr encontrar recursos útiles rápidamente.                  | EPIC004                    |
+| US034           | Probar la API para manejo de usuarios para garantizar su correcto funcionamiento | Como desarrollador, Quiero probar la API para manejo de usuarios Para garantizar su correcto funcionamiento.         | Dado que el desarrollador accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr garantizar su correcto funcionamiento.            | EPIC019                    |
+| US035           | Usar la app en mi idioma nativo para sentirme más cómodo al usarla                          | Como usuario, Quiero usar la app en mi idioma nativo Para sentirme más cómodo al usarla.                                     | Dado que el usuario accede a la funcionalidad, Cuando la utilice correctamente, Entonces podrá lograr sentirme más cómodo al usarla.                                | EPIC011                    |
+| US036           | Establecer metas emocionales                                                                 | Como usuario, Quiero establecer metas emocionales personalizadas Para mejorar mi bienestar a lo largo del tiempo.           | Dado que el usuario desea trabajar en su salud emocional. Cuando accede a la sección de metas. Entonces puede definir metas con plazos y seguimiento.               | EPIC015                    |
+| US037           | Recibir retroalimentación sobre mi progreso                                                  | Como usuario, Quiero recibir retroalimentación continua Para saber si estoy avanzando hacia mis objetivos emocionales.       | Dado que el usuario ha estado cumpliendo sus metas. Cuando revisa su panel de progreso. Entonces recibe mensajes personalizados con su avance.                     | EPIC016                    |
+| US038           | Acceder al perfil del paciente                                                               | Como psicólogo, Quiero acceder al perfil emocional del paciente Para preparar la sesión terapéutica.                        | Dado que el psicólogo tiene una sesión próxima. Cuando accede al sistema. Entonces puede ver el historial emocional del paciente.                                   | EPIC010                    |
+| US039           | Conectar reloj inteligente                                                                   | Como usuario, Quiero conectar mi smartwatch Para monitorear el estrés y sueño automáticamente.                              | Dado que el usuario tiene un dispositivo compatible. Cuando lo vincula en la app. Entonces puede visualizar datos integrados.                                       | EPIC009                    |
+| US040           | Autenticación con redes sociales                                                              | Como usuario, Quiero iniciar sesión con mi cuenta de Google o Facebook Para evitar crear una nueva cuenta.                  | Dado que el usuario tiene cuenta social activa. Cuando elige iniciar sesión social. Entonces accede a la app sin registrarse de nuevo.                             | EPIC014                    |
+| US041           | Diseño inclusivo de interfaz                                                                 | Como diseñador, Quiero implementar accesibilidad en colores y texto Para mejorar la experiencia de usuarios con discapacidad visual. | Dado que un usuario tiene dificultad visual. Cuando navega en la app. Entonces puede activar modo alto contraste y texto grande.                               | EPIC011                    |
+| US042           | Implementar módulo de emociones en app web                                                   | Como desarrollador, Quiero crear un módulo web para registrar emociones diarias Para sincronizar datos entre plataformas.    | Dado que el usuario accede desde navegador. Cuando registra su emoción. Entonces se guarda y sincroniza con su perfil.                                              | EPIC018                    |
+| US043           | Optimizar velocidad de carga de landing                                                      | Como desarrollador frontend, Quiero mejorar el rendimiento de la landing page Para reducir la tasa de rebote de usuarios nuevos. | Dado que un usuario entra por primera vez. Cuando se carga la página. Entonces debe completarse en menos de 2 segundos.                                         | EPIC017                    |
+| US044           | Crear endpoint para historial emocional                                                      | Como desarrollador backend, Quiero desarrollar un endpoint REST Para recuperar el historial emocional del usuario.           | Dado que el usuario tiene datos registrados. Cuando se hace una petición al endpoint. Entonces devuelve los datos correctamente.                                    | EPIC019                    |
+| US045          | Notificación de tareas emocionales diarias                                                   | Como usuario con baja motivación, quiero recibir notificaciones diarias con pequeñas tareas emocionales, para mejorar mi estado de ánimo de manera gradual. | Dado que soy un usuario con baja motivación, Cuando abro la app por la mañana, Entonces recibo una notificación con una tarea emocional positiva para realizar. | EPIC008                    |
+| US046           | Personalización de colores de la interfaz                                                       | Como usuario, quiero cambiar los colores de la interfaz según mi estado de ánimo, para sentirme más cómodo y en sintonía con la app.       | Dado que quiero adaptar la interfaz, Cuando ingreso a ajustes de personalización, Entonces puedo elegir entre diferentes paletas de colores.                                | EPIC011                    |
+| US047           | Consulta rápida de tips mentales                                                                 | Como usuario que se siente abrumado, quiero tener acceso rápido a una lista de tips mentales, para manejar mis emociones en momentos difíciles. | Dado que me siento abrumado, Cuando ingreso a la sección de primeros auxilios emocionales, Entonces veo una lista de tips prácticos según mi estado.                        | EPIC013                    |
+| US048           | Notificación de cambio brusco en emociones                                                      | Como psicólogo, quiero recibir una alerta cuando el usuario tenga un cambio brusco en su estado emocional, para intervenir oportunamente.   | Dado que el usuario tiene seguimiento emocional activo, Cuando detecto un cambio repentino en sus emociones, Entonces recibo una alerta en mi panel profesional.             | EPIC010                    |
+| US049           | Visualización gráfica de evolución emocional                                                    | Como usuario, quiero ver una gráfica de mi evolución emocional en el tiempo, para conocer mis avances y retrocesos.                         | Dado que he registrado emociones durante semanas, Cuando accedo a la sección de progreso, Entonces visualizo una gráfica de mi estado emocional.                             | EPIC005                    |
+| US050           | Módulo de relaciones interpersonales                                                            | Como usuario en conflicto con mi pareja, quiero acceder a un módulo específico para mejorar mis relaciones, para desarrollar habilidades de comunicación y empatía. | Dado que selecciono el área de relaciones en la pantalla de inicio, Cuando ingreso al módulo, Entonces puedo acceder a ejercicios de comunicación y resolución de conflictos. | EPIC002                    |
+| US051           | Autoevaluación de autoestima                                                                    | Como usuario con baja autoestima, quiero realizar evaluaciones periódicas, para medir mis avances en el área emocional.                    | Dado que estoy en el módulo de autoestima, Cuando paso una semana de uso, Entonces la app me sugiere hacer una nueva autoevaluación.                                          | EPIC003                    |
+| US052           | Implementación de ejercicio de respiración con IA                                               | Como desarrollador, quiero implementar ejercicios de respiración guiados por IA, para que el usuario reciba instrucciones dinámicas según su ritmo. | Dado que el usuario inicia el ejercicio, Cuando detecto su ritmo respiratorio, Entonces adapto las instrucciones en tiempo real.                                         | EPIC006                    |
+| US053           | Acceso offline a contenidos descargados                                                         | Como usuario sin conexión estable, quiero acceder a meditaciones y sonidos descargados, para seguir cuidando mi salud mental sin depender de internet. | Dado que descargué contenidos previamente, Cuando no tengo conexión, Entonces puedo acceder a ellos desde la biblioteca offline.                                       | EPIC007                    |
+| US054           | Dashboard administrativo de usuarios premium                           | Como administrador, quiero ver estadísticas de usuarios premium, para analizar el uso y la conversión dentro del sistema freemium.             | Dado que soy administrador del sistema, Cuando accedo al panel premium, Entonces veo métricas de conversión y uso.                                                      | EPIC012                    |
+| US055           | Seguimiento de hábitos positivos                                       | Como usuario, quiero registrar hábitos positivos diarios, para reforzar mis rutinas saludables.                                                 | Dado que accedo a mi perfil de hábitos, Cuando marco una acción como completada, Entonces se suma al conteo y me da retroalimentación positiva.                          | EPIC015                    |
+| US056           | Autenticación mediante biometría                                       | Como usuario, quiero acceder a la app mediante huella o reconocimiento facial, para mayor comodidad y seguridad.                                | Dado que tengo habilitado el acceso biométrico, Cuando abro la app, Entonces puedo ingresar con mi huella o rostro.                                                      | EPIC014                    |
+| US057           | Recomendaciones de contenido según progreso                            | Como usuario, quiero recibir recomendaciones basadas en mi avance emocional, para acceder a contenido más relevante.                            | Dado que la IA analiza mis registros, Cuando accedo a la sección de sugerencias, Entonces obtengo contenido adaptado a mi progreso.                                     | EPIC004                    |
+| US058           | Retroalimentación sobre efectividad de sesiones                        | Como usuario, quiero calificar las sesiones de meditación, para mejorar la calidad del contenido.                                               | Dado que termino una meditación guiada, Cuando aparece la opción de calificar, Entonces puedo dejar una puntuación y comentario.                                         | EPIC016                    |
+| US059           | Formulario rápido de estado emocional                                  | Como usuario, quiero completar formularios rápidos de estado emocional, para registrar mi estado en segundos.                                  | Dado que tengo poco tiempo, Cuando ingreso a la sección de estado emocional, Entonces puedo elegir una opción rápida y registrar cómo me siento.                         | EPIC003                    |
+| US060           | Integración con reloj inteligente                                       | Como usuario con smartwatch, quiero sincronizar los datos de sueño y estrés, para tener un monitoreo más completo.                              | Dado que tengo activada la integración IoT, Cuando mi smartwatch registra datos, Entonces se reflejan automáticamente en la app.                                          | EPIC009                    |
+| US061           | Botón SOS emocional                                                    | Como usuario en crisis, quiero tener acceso rápido a un botón SOS emocional, para recibir ayuda o contención inmediata.                         | Dado que estoy en crisis emocional, Cuando presiono el botón SOS, Entonces recibo contenido de contención y opciones de ayuda profesional.                               | EPIC005                    |
+| US062           | Dashboard de carga de sesiones en backend                            | Como desarrollador backend, quiero monitorear el estado de carga de sesiones, para asegurarme de que los datos del usuario estén seguros.       | Dado que el backend recibe registros de usuarios, Cuando consulto el dashboard de carga, Entonces visualizo estadísticas y errores en tiempo real.                      | EPIC019                    |
+| US063           | Animaciones suaves en la landing page                                | Como desarrollador frontend, quiero incluir animaciones suaves en la landing page, para generar una experiencia atractiva y profesional.        | Dado que ingreso a la landing page, Cuando se carga el contenido, Entonces se muestran animaciones sin afectar el rendimiento.                                           | EPIC017                    |
+| US063 (duplicada) | Pruebas automatizadas en el módulo emocional                         | Como desarrollador QA, quiero implementar pruebas automatizadas en el módulo emocional, para garantizar su estabilidad y precisión.             | Dado que tengo pruebas configuradas, Cuando actualizo el código del módulo emocional, Entonces las pruebas corren automáticamente y notifican errores.                  | EPIC018                    |
+| US064           | Acceso rápido a meditaciones favoritas                                | Como usuario, Quiero guardar mis meditaciones favoritas Para acceder a ellas rápidamente cuando las necesite.                                   | Dado que el usuario ha marcado meditaciones como favoritas, Cuando accede a su perfil, Entonces puede ver una lista con sus meditaciones favoritas.                     | EPIC006                    |
+| US065           | Historial de sesiones con psicólogo                                   | Como usuario, Quiero ver el historial de sesiones con mi psicólogo Para hacer seguimiento a mi tratamiento.                                     | Dado que el usuario ha tenido sesiones con un psicólogo, Cuando accede al módulo de historial, Entonces puede visualizar fechas, notas y duración de las sesiones.      | EPIC005                    |
+| US066           | Botón de contacto rápido con profesional                              | Como usuario en crisis, Quiero tener un botón de contacto rápido con un profesional Para recibir asistencia inmediata.                          | Dado que el usuario se siente en crisis emocional, Cuando presiona el botón SOS, Entonces se establece contacto con un profesional disponible.                           | EPIC010                    |
+| US067           | Validación de identidad con código OTP                                | Como usuario, Quiero validar mi identidad mediante un código OTP Para asegurar que solo yo accedo a mi cuenta.                                 | Dado que el usuario intenta iniciar sesión, Cuando introduce su correo electrónico, Entonces recibe un código OTP para completar el acceso.                              | EPIC014                    |
+| US068           | Panel de métricas emocionales para psicólogos                         | Como psicólogo, Quiero ver un panel con métricas emocionales resumidas Para tomar decisiones informadas durante la terapia.                    | Dado que el psicólogo tiene pacientes asignados, Cuando accede al panel de métricas, Entonces ve un resumen de evolución emocional y eventos destacados.                 | EPIC010                    |
+| US069           | Descarga de informes emocionales                 | Como usuario, Quiero poder descargar mis informes emocionales en PDF Para compartirlos con mi terapeuta. | Dado que el usuario accede a su historial emocional, Cuando presiona el botón de descarga, Entonces se genera un archivo PDF con su evolución emocional. | EPIC005                    |
+| US070           | Integración con Google Fit                       | Como usuario, Quiero conectar la app con Google Fit Para unificar datos de sueño y actividad física.     | Dado que el usuario autoriza la integración, Cuando sincroniza sus datos, Entonces los datos de sueño y actividad aparecen en la app.                     | EPIC009                    |
+| US071           | Recordatorio de evaluación emocional semanal     | Como usuario, Quiero recibir recordatorios para hacer evaluaciones semanales Para seguir mi evolución emocional. | Dado que el usuario no ha completado su evaluación, Cuando llega el día programado, Entonces recibe una notificación para realizarla.                    | EPIC003                    |
+| US072           | Personalización del avatar de usuario            | Como usuario, Quiero personalizar mi avatar en la app Para expresar mi identidad.                        | Dado que el usuario está registrado, Cuando accede al editor de perfil, Entonces puede cambiar su avatar con diferentes estilos.                          | EPIC001                    |
+| US073           | Comparación de emociones por semana              | Como usuario, Quiero comparar mis emociones entre semanas Para identificar patrones de cambio emocional. | Dado que hay registros semanales suficientes, Cuando accede al panel de comparación, Entonces ve gráficas comparativas por semana.                        | EPIC005                    |
+| US074           | Modo oscuro automático                           | Como usuario, Quiero que la app cambie automáticamente a modo oscuro de noche Para no forzar mi vista.   | Dado que son más de las 20:00 horas, Cuando se abre la app, Entonces se activa el modo oscuro automáticamente.                                              | EPIC011                    |
+| US075           | Evaluación emocional antes de sesiones           | Como usuario, Quiero completar una breve evaluación antes de una sesión Para que mi terapeuta entienda mi estado actual. | Dado que el usuario tiene una sesión programada, Cuando la sesión está por comenzar, Entonces se le solicita completar una evaluación rápida.         | EPIC003                    |
 
 ## 3.3. Impact Mapping. 
 
@@ -1366,24 +1558,73 @@ En esta sección se explica y evidencia el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page, Web Services y Frontend Web
 Applications.
 
-
-### 5.2.x. Sprints
+### 5.2.1. Sprints
 
 ## 5.2.1.1. Sprint Planning 1
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
 
-![image_SprintPlaning](resources/SprintPlaning.JPG)
+<table>
+<tr>
+    <th colspan="5">Sprint </th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-04-9</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">4:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Servidor de Discord del equipo</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Andre Orellana</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8"> Tasayco Osorio Raul Hiroshi, Nanfuñay Liza Pedro Jesús,Mel Andre Rodriguez Orellana, Angel Berrospi Marin, Joel Prudencio Alcantara</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  1 Review Summary</td>
+    <td colspan="8">En esta segunda sección se planteó el mejormiento del desarrollo y estructura de la Landing page antes de subirse al repositorio.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades y cada uno se encargó de las mejoras dadas en la retroalimentación, también en el desarrollo de la landing y finalmente se decidió subir el landing en el último día</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8"> La meta de este Sprint 1 es la mejora tanto en planteamiento y desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable.  
 
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 1 Velocity</td>
+    <td colspan="8">velocity 7</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">8 story points</td>
+</tr>
+</table>
 
 ## 5.2.1.2. Aspect Leaders and Collaborators
 En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
 
-![image_AspectsLeaders](resources/AspectsLeaders.JPG)
-
-
+![image](https://github.com/user-attachments/assets/5ef4aec4-13d2-44cb-9f6e-d07ef46da5d8)
 
 ## 5.2.1.3. Sprint Backlog 1
 Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+![Image_SprintBacklog](resources/SprintBacklog.JPG)
 
 
 ## 5.2.1.4. Development Evidence for Sprint Review
@@ -1422,6 +1663,118 @@ durante este Sprint.
 ![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint
+En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+
+![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
+
+![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
+
+### 5.2.2. Sprints
+
+## 5.2.2.1. Sprint Planning 2
+En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
+
+<table>
+<tr>
+    <th colspan="5">Sprint </th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-05-14</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Servidor de Discord del equipo</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Angel Guillermo Berrospi</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8"> Tasayco Osorio Raul Hiroshi, Nanfuñay Liza Pedro Jesús,Mel Andre Rodriguez Orellana, Angel Berrospi Marin, Joel Prudencio Alcantara</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint  2 Review Summary</td>
+    <td colspan="8">En esta segunda sección se planteó el mejormiento del desarrollo y estructura de la Landing page antes de subirse al repositorio.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">En esta sesión todos los participantes, opinaron, mejoraron sus habilidades y cada uno se encargó de las mejoras dadas en la retroalimentación, también en el desarrollo de la landing y finalmente se decidió subir el landing en el último día.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Goal</td>
+    <td colspan="8"> La meta de este Sprint 2 es la mejora tanto en planteamiento y desarrollo de la documentación y que nuestra Landing Page tenga una correcta funcionalidad para el usuario de forma amigable.  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Velocity</td>
+    <td colspan="8">velocity 7</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">7 story points</td>
+</tr>
+</table>
+
+
+## 5.2.2.2. Aspect Leaders and Collaborators
+En esta sección el equipo que incluye la elaboración de un artefacto Leadership-andCollaboration Matrix (LACX), que indique por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
+
+![Aspect_Leaders_2](https://github.com/user-attachments/assets/b7d3c881-5246-4771-a619-9fa664bc3970)
+
+## 5.2.2.3. Sprint Backlog 2
+Una sección de Sprint Backlog debe iniciar con una introducción que resuma el objetivo principal del Sprint.
+
+![Sprint_Backlog2](https://github.com/user-attachments/assets/b72d5bbf-dd3e-4b3a-9506-41676e449865)
+
+## 5.2.2.4. Development Evidence for Sprint Review
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services
+
+
+## 5.2.2.5. Execution Evidence for Sprint Review
+Esta sección inicia con un resumen que explique lo alcanzado en este Sprint y
+presenta screenshots de las principales vistas implementadas
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing1.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing2.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing3.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing4.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing5.jpeg)
+
+![image_5.2.1.5.Landing1](resources/5.2.1.5.Landing6.jpeg)
+
+
+## 5.2.2.6. Services Documentation Evidence for Sprint Review
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI,
+relacionados con el alcance del Sprint. 
+
+
+![image_5.2.1.6.ServiceDocumentation](resources/5.2.1.6.ServiceDocumentation.jpeg)
+
+
+## 5.2.2.7  Software Deployment Evidence for Sprint Review
+En esta sección se resume los procesos realizados en relación con Deployment
+durante este Sprint. 
+
+![image_5.2.1.7.SoftwareDeployment](resources/5.2.1.7.SoftwareDeployment.jpeg)
+
+## 5.2.2.8. Team Collaboration Insights during Sprint
 En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
 
 ![image_5.2.1.8.TeamCollaboration](resources/5.2.1.8.TeamCollaboration.jpeg)
