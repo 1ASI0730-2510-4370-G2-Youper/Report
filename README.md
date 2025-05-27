@@ -223,7 +223,7 @@ para usuarios nuevos que exploran herramientas emocionales los guiará hacia una
 - Hypothesis 8: Consideramos que ofrecer una introducción guiada por un coach conversacional con IA para nuevos usuarios que no conocen herramientas digitales de salud mental disminuirá la fricción inicial y mejorará la comprensión del valor de la app lo que aumentará la adopción de funciones dentro de las primeras 3 sesiones.
 
 ## 1.2.2.4. Lean UX Canvas
-![image_Lean_Ux_Canvas](resources/LeanUxCanvas.jpg)
+![image_Lean_Ux_Canvas](resources/Lean_Ux_Canvas.jpg)
 
 # 2. Capítulo 2: Requirements Elicitation & Analysis
 ## 2.1 Competidores
