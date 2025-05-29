@@ -214,49 +214,49 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
   
 ## 1.2.2.3. Lean UX Hypothesis Statements
 ###
-Hipótesis 1
+Hipótesis 1:
 Creemos que lograremos un aumento en el uso semanal de la app y una reducción en la tasa de abandono
 Si los jóvenes profesionales con poco tiempo para terapia
 Consiguen manejar sus niveles de estrés de manera más efectiva
 Mediante un sistema personalizado de acompañamiento emocional guiado por IA
 
-Hipótesis 2
+Hipótesis 2:
 Creemos que lograremos mayores interacciones diarias y retención a 30 días
 Si los usuarios emocionalmente sobrecargados
 Consiguen sentirse más en control de su estado mental
 Mediante la personalización de su panel emocional y recordatorios
 
-Hipótesis 3
+Hipótesis 3:
 Creemos que lograremos valoraciones positivas de la app (más de 4 estrellas)
 Si los usuarios con ansiedad o problemas de sueño
 Consiguen reducir su estrés percibido y mejorar su calidad de sueño
 Mediante ejercicios de respiración, meditaciones y sonidos relajantes
 
-Hipótesis 4
+Hipótesis 4:
 Creemos que lograremos mayor adopción entre terapeutas
 Si los profesionales de la salud mental
 Consiguen hacer un seguimiento más preciso y planificar terapias personalizadas
 Mediante un panel de control con historial emocional y de actividad de los pacientes
 
-Hipótesis 5
+Hipótesis 5:
 Estimamos que lograremos aumentar la retención en los primeros 7 días en un 40%
 Si los usuarios nuevos que exploran herramientas emocionales
 Consiguen una experiencia de valor rápido
 Mediante planes de salud mental cortos con metas claras (ej. reducir ansiedad en 7 días)
 
-Hipótesis 6
+Hipótesis 6:
 Creemos que lograremos aumentar los usuarios activos diarios y formación de hábitos saludables
 Si los usuarios con estados emocionales fluctuantes
 Consiguen mayor conciencia emocional y autorreflexión
 Mediante notificaciones diarias para registrar el estado de ánimo con preguntas breves
 
-Hipótesis 7
+Hipótesis 7:
 Estimamos que lograremos extender la duración promedio de las sesiones y reducir el abandono en un 20%
 Si los usuarios que se sienten aislados pero no buscan ayuda profesional
 Consiguen mayor sentido de comunidad y reducción del estigma
 Mediante espacios de apoyo entre pares anónimos moderados por IA
 
-Hipótesis 8
+Hipótesis 8:
 Suponemos que lograremos aumentar la adopción de funciones en las primeras 3 sesiones
 Si los nuevos usuarios que no conocen herramientas digitales de salud mental
 Consiguen menor fricción inicial y mejor comprensión del valor de la app
