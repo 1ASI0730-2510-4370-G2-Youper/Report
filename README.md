@@ -408,45 +408,48 @@ ___
 ### 2.2.1. Diseño de entrevistas
 
 Se han realizado las siguientes preguntas correspondiente a la realización de entrevistas por segmento objetivo:
+
+**Segmento 1: Jóvenes Adultos con Estrés/Ansiedad**
 ___
-**Segmento 1: Jóvenes Adultos con Estrés o Ansiedad**
-___
-* ¿Con qué frecuencia experimentas ansiedad o estrés en tu vida diaria, y qué situaciones específicas (estudios, trabajo, relaciones familiares o personales) las desencadenan más?
-* ¿Qué emociones dominan tus días (ansiedad, frustración, tristeza, agotamiento), y qué estrategias intentas usar para manejarlas, ya sea por tu cuenta o con ayuda?
-* ¿Has buscado apoyo emocional antes, y si es así, qué experiencias tuviste con psicólogos, amigos o herramientas digitales (como apps o sitios web)?
-* ¿Qué tan cómodo te sentirías usando una aplicación para registrar tus emociones de forma privada, y qué características te harían confiar más en ella?
-* ¿Te interesaría que una app te enviara preguntas diarias para reflexionar sobre tus emociones, y qué tipo de preguntas te ayudarían más?
-* ¿Qué tipo de contenido (meditaciones guiadas, ejercicios de respiración, frases motivadoras, música relajante o algo diferente) te gustaría tener en una app para apoyarte emocionalmente, y por qué?
-* ¿En qué momentos del día sientes mayor vulnerabilidad emocional, y qué tipo de apoyo (inmediato, estructurado, breve) te gustaría recibir en esos instantes?
-* ¿Qué tan crucial es para ti que una app sea completamente discreta y proteja tu información sensible, y qué te preocuparía si no lo fuera?
-* ¿Prefieres que una app te sugiera ejercicios automáticamente según tu estado de ánimo o que te permita elegirlos manualmente, y por qué?
-* ¿Qué esperas lograr a largo plazo con una app emocional (sentirte más calmado, mejorar tu sueño, ganar claridad mental, aumentar tu autoestima), y cómo medirías ese progreso?
+**Experiencia emocional**
+* Descríbeme cómo se manifiesta físicamente y emocionalmente tu estrés o ansiedad en un día difícil
+* Háblame de la última vez que sentiste que perdías el control de tus emociones. ¿Qué pasó antes, durante y después?
+
+**Soluciones intentadas**
+* Muéstrame cómo buscas ayuda actualmente cuando te sientes abrumado(a). ¿Qué pasos sigues exactamente?
+* ¿Qué ha funcionado y qué no en las herramientas/apps que has probado? Dame ejemplos concretos
+
+**Expectativas**
+* Si tuvieras una varita mágica para diseñar el apoyo emocional perfecto, ¿cómo funcionaría en tu rutina diaria?"
+* ¿Qué te haría confiar lo suficiente como para compartir tus estados emocionales con una app diariamente?
 ___
 **Segmento 2: Adultos con Carga Laboral**
 ___
-* ¿Qué estrategias utilizas para desconectarte mental o emocionalmente al terminar tu jornada laboral, y qué tan efectivas consideras que son?
-* ¿Hay momentos en los que te cuesta conciliar el sueño debido a pensamientos relacionados con el trabajo, y qué intentas hacer en esas situaciones para relajarte?
-* ¿Con qué frecuencia sientes agotamiento emocional a pesar de estar físicamente bien, y qué factores laborales crees que lo desencadenan?
-* ¿Cómo describirías tu estado mental un lunes por la mañana y un viernes por la noche con una frase o palabra clave, y por qué crees que varía?
-* ¿Qué elementos (privacidad total, respaldo científico, anonimato, acceso sin conexión, diseño intuitivo, etc.) te harían confiar plenamente en una app emocional como Youper?
-* Si supieras que tus datos emocionales se utilizan exclusivamente para personalizar tu experiencia y mejorar la app, ¿te sentirías cómodo o no, y qué aspectos te preocuparían o tranquilizarían?
-* ¿Te parecería útil que la app se integre con tu smartwatch o pulsera para monitorear tu estrés en tiempo real y ofrecerte recomendaciones inmediatas, y qué tipo de recomendaciones valorarías más?
-* ¿Cómo te gustaría sentirte después de usar una app como Youper durante un mes (más tranquilo, motivado, con mejor autoestima, durmiendo mejor), y qué señales te indicarían que está funcionando?
-* ¿Qué características o incentivos (notificaciones personalizadas, progreso visible, ejercicios cortos, recompensas) harían que la app se integre fácilmente en tu rutina diaria sin sentirse como una carga adicional?
-* ¿Te interesaría que la app detecte momentos en los que podrías necesitar apoyo profesional y te brinde orientación confidencial, y qué tipo de soporte buscarías en esos casos?
+**Rutinas y dolor points**
+* Dime paso a paso por tu ritual al terminar el trabajo. ¿Qué ayuda o dificulta tu desconexión?
+* ¿Qué señales corporales notas cuando el estrés laboral está afectando tu salud emocional?
+
+**Integración tecnológica**
+* ¿Cómo y cuándo revisas tu teléfono durante tu jornada? ¿Qué tipo de notificaciones sí abrirías?
+* Si tu smartwatch pudiera detectar tu estrés, ¿qué acción te gustaría que disparara automáticamente?
+
+**Barreras**
+* ¿Qué te ha detenido de usar apps de salud mental consistentemente en el pasado?"
+* ¿Qué garantías necesitarías sobre el uso de tus datos para sentirte seguro usando esta app diariamente?
 ___
-**Segmento 3: Especialistas de la Salud Mental**
+**Segmento 3: Especialistas de Salud Mental**
 ___
-* ¿Qué herramientas digitales utilizas actualmente para acompañar a tus pacientes, y qué limitaciones encuentras en ellas para el seguimiento emocional?
-* ¿Cuáles son los principales desafíos que enfrentas al dar seguimiento emocional a tus pacientes fuera de las consultas presenciales o virtuales?
-* ¿Te gustaría tener una plataforma donde tus pacientes registren sus emociones y tú puedas monitorear su progreso de forma estructurada y confidencial?
-* ¿Qué tipo de información (ej., patrones emocionales, respuestas a ejercicios, niveles de estrés) consideras esencial para evaluar el bienestar emocional de un paciente entre sesiones?
-* ¿Te interesaría que la app genere un resumen automático del estado emocional de tus pacientes basado en sus registros, y qué detalles te gustaría que incluya?
-* ¿Qué formato prefieres para recibir reportes sobre el progreso de tus pacientes: gráficos visuales, texto detallado, alertas personalizadas, o una combinación, y por qué?
-* ¿Te sentirías cómodo recomendando una app como complemento terapéutico a tus pacientes, y qué factores influirían en tu decisión (seguridad, evidencia científica, facilidad de uso)?
-* ¿Qué características (seguridad de datos, diseño intuitivo, integración con otros sistemas, etc.) te darían confianza para usar una app y recomendarla a tus pacientes?
-* ¿Considerarías útil que los pacientes puedan enviarte feedback directo sobre los ejercicios o herramientas que usaron, y cómo te ayudaría eso en tu práctica?
-* ¿Qué funciones adicionales (ej., alertas personalizadas, análisis predictivo, colaboración con otros especialistas) te gustaría ver en una app de salud emocional diseñada para profesionales como tú?
+**Flujo de trabajo actual**
+* Descríbeme cómo monitoreas el progreso emocional de tus pacientes entre sesiones actualmente
+* ¿Qué información crítica sueles perder por no tener seguimiento continuo?"
+
+**Integración tecnológica**
+* Dime cómo incorporarías los datos de una app en tu próxima sesión con un paciente. ¿Qué información sería útil?"
+* ¿Qué tipo de alertas te gustaría recibir sobre un paciente entre sesiones y por qué canal?
+
+**Validación clínica**
+* ¿Qué métricas objetivas usarías para determinar si una app está ayudando realmente a tu paciente?
+* ¿Qué certificaciones o estándares son no negociables para que recomiendes una app a tus pacientes? 
 
 ### 2.2.2. Registro de entrevistas
 
