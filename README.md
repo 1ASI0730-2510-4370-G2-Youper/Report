@@ -179,7 +179,6 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
 | <img src="resources/GuillermoTantalean_Profile.jpg" width="500"> | Me llamo Guillermo Tantaleán, soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo habilidades para comunicarme acertivamente, me enfoco en el desarrollo de aplicaciones web y móvil, tengo conocimientos de business management, leadership, emprendimientos y negocios. Soy un amante de la tecnología y del buen café. Tengo buenas habilidades de trabajo en equipo. Domino lenguajes como Swift, Python, y C++. |
 | ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa)  | Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal. |
-| <img src="resources/Raul_Tasayco_Profile.jpg" width="135" height="165" > | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
 
 
 ## 1.2. Solution Profile
@@ -201,9 +200,11 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 1.2.2.1. Lean Ux Problem Statment
 ###
-"Nuestra plataforma de salud mental fue diseñada originalmente para brindar apoyo emocional accesible y asequible a adultos, jóvenes profesionales y personas con alta carga laboral que sufren de ansiedad, estrés y baja autoestima. Hemos observado, a través de feedback de usuarios y métricas de engagement, que el producto no está cumpliendo con nuestras expectativas, lo que está generando bajas tasas de retención y pocos casos de éxito documentados en nuestro negocio.
+Nuestra plataforma de salud mental tiene como objetivo principal proporcionar apoyo emocional accesible y asequible a adultos jóvenes, profesionales con alta carga laboral y usuarios que buscan mejorar su bienestar emocional a través de recursos digitales como meditación guiada, seguimiento emocional y recomendaciones personalizadas.
 
-¿Cómo podríamos ajustar nuestra estrategia de personalización y método de entrega de apoyo para que nuestros usuarios logren mayor éxito, medido a través de un aumento en la frecuencia de uso, mejores puntuaciones de satisfacción y progreso cuantificable en indicadores de bienestar emocional?"
+Se ha detectado que, a pesar de contar con una oferta variada de recursos, muchos usuarios no perciben que las recomendaciones y contenidos sean lo suficientemente personalizados y alineados con sus necesidades individuales. Como resultado, se observa una baja frecuencia de uso, abandono prematuro y una menor percepción de valor del servicio.
+
+¿Cómo podríamos mejorar la eficacia y el valor de nuestra plataforma para que los usuarios sientan que los contenidos y recomendaciones están personalizados a sus necesidades emocionales y estilo de vida, logrando así un aumento en la frecuencia de uso y mejores resultados de bienestar emocional?
 
 ## 1.2.2.2. Lean UX Assumptions
 ### 
@@ -216,52 +217,36 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 1.2.2.3. Lean UX Hypothesis Statements
 ###
 Hipótesis 1:
-Creemos que lograremos un aumento en el uso semanal de la app y una reducción en la tasa de abandono
-Si los jóvenes profesionales con poco tiempo para terapia
-Consiguen manejar sus niveles de estrés de manera más efectiva
-Mediante un sistema personalizado de acompañamiento emocional guiado por IA
+Creemos que ofrecer recomendaciones emocionales personalizadas y adaptadas a los intereses y estado emocional de cada usuario aumentará la percepción de valor y la frecuencia de uso de la app.
+Sabremos que estamos bien cuando veamos comentarios de los usuarios que mencionen que “las recomendaciones parecen hechas para mí” y un incremento del 20% en la frecuencia de uso semanal.
 
 Hipótesis 2:
-Creemos que lograremos mayores interacciones diarias y retención a 30 días
-Si los usuarios emocionalmente sobrecargados
-Consiguen sentirse más en control de su estado mental
-Mediante la personalización de su panel emocional y recordatorios
+Creemos que un panel emocional dinámico que muestre contenidos y sugerencias basadas en el estado emocional diario de cada usuario hará que los usuarios sientan que la app se adapta a sus necesidades individuales.
+Sabremos que estamos bien cuando veamos feedback como “la app me entiende mejor” y un aumento de la retención a 30 días en al menos un 15%.
 
 Hipótesis 3:
-Creemos que lograremos valoraciones positivas de la app (más de 4 estrellas)
-Si los usuarios con ansiedad o problemas de sueño
-Consiguen reducir su estrés percibido y mejorar su calidad de sueño
-Mediante ejercicios de respiración, meditaciones y sonidos relajantes
+Creemos que incluir meditaciones, ejercicios de respiración y sonidos relajantes basados en el historial emocional y preferencias del usuario ayudará a mejorar su percepción de valor y bienestar emocional.
+Sabremos que estamos bien cuando las valoraciones promedio de la app superen las 4 estrellas y haya menciones de “me ayuda a reducir el estrés” o “mejoró mi calidad de sueño”.
 
 Hipótesis 4:
-Creemos que lograremos mayor adopción entre terapeutas
-Si los profesionales de la salud mental
-Consiguen hacer un seguimiento más preciso y planificar terapias personalizadas
-Mediante un panel de control con historial emocional y de actividad de los pacientes
+Creemos que permitir a los psicólogos y profesionales de salud mental adaptar las recomendaciones y contenidos a cada paciente reforzará la sensación de personalización de la experiencia emocional.
+Sabremos que estamos bien cuando haya comentarios de los profesionales que indiquen “mejor seguimiento y apoyo a mis pacientes” y un aumento de uso semanal del panel profesional en un 20%
 
 Hipótesis 5:
-Estimamos que lograremos aumentar la retención en los primeros 7 días en un 40%
-Si los usuarios nuevos que exploran herramientas emocionales
-Consiguen una experiencia de valor rápido
-Mediante planes de salud mental cortos con metas claras (ej. reducir ansiedad en 7 días)
+Creemos que diseñar planes de bienestar emocional personalizados con metas claras y progresivas para cada usuario generará mayor compromiso y resultados positivos en el corto plazo.
+Sabremos que estamos bien cuando veamos retroalimentación como “siento que avanzo paso a paso” y un aumento de la retención de usuarios en el primer mes en un 30%.
 
 Hipótesis 6:
-Creemos que lograremos aumentar los usuarios activos diarios y formación de hábitos saludables
-Si los usuarios con estados emocionales fluctuantes
-Consiguen mayor conciencia emocional y autorreflexión
-Mediante notificaciones diarias para registrar el estado de ánimo con preguntas breves
+Creemos que implementar recordatorios personalizados basados en los intereses y estado emocional de cada usuario fomentará la autorreflexión y el uso continuo de la plataforma.
+Sabremos que estamos bien cuando el número de interacciones diarias por usuario aumente en un 25% y aparezcan comentarios como “los recordatorios me ayudan a seguir trabajando en mi bienestar”.
 
 Hipótesis 7:
-Estimamos que lograremos extender la duración promedio de las sesiones y reducir el abandono en un 20%
-Si los usuarios que se sienten aislados pero no buscan ayuda profesional
-Consiguen mayor sentido de comunidad y reducción del estigma
-Mediante espacios de apoyo entre pares anónimos moderados por IA
+Creemos que ofrecer espacios virtuales para que los usuarios compartan sus experiencias emocionales y reciban apoyo emocional moderado por IA fortalecerá la percepción de personalización y comunidad.
+Sabremos que estamos bien cuando se observe un aumento en el tiempo medio de uso por sesión y comentarios como “me siento acompañado y comprendido”.
 
 Hipótesis 8:
-Suponemos que lograremos aumentar la adopción de funciones en las primeras 3 sesiones
-Si los nuevos usuarios que no conocen herramientas digitales de salud mental
-Consiguen menor fricción inicial y mejor comprensión del valor de la app
-Mediante una introducción guiada por un coach conversacional con IA
+Creemos que una guía inicial personalizada (onboarding) que adapte las funciones de la app a los intereses y estado emocional del usuario mejorará la percepción de personalización y reducirá la fricción inicial.
+Sabremos que estamos bien cuando recibamos comentarios como “me resultó fácil empezar” y un aumento en la adopción de funcionalidades clave en las primeras 3 sesiones.
 
 ## 1.2.2.4. Lean UX Canvas
 ![image_lean_product_canvas](resources/lean_product_canvas.png)
