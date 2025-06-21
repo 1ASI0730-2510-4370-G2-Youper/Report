@@ -141,10 +141,26 @@
 |-----------|-----------|-----------|-----------|
 | TB1 | 07/04/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Tasayco Osorio Raul Hiroshi <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han incluido los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
 | TP | 05/05/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Tasayco Osorio Raul Hiroshi <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han actualizado los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos <br><br> Se han incluido los siguientes capítulos: <br> - Capítulo V: Sprint 2 <br> - Implementación de la primera versión de la Web Application |
+| TB2 | 21/06/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han actualizado los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Capítulo V: Product Implementation, Validation & Deployment hasta el punto para el sprint 3 <br> - Avance de Conclusiones, Bibliografía y Anexos <br><br> Se han incluido los siguientes capítulos: <br> - Capítulo V: Sprint 2 <br> - Implementación de la primera versión de la Web Application |
 
 # **Project Report Collaboration Insights**
 
 URL Project Report (Github): [https://github.com/1ASI0730-2510-4370-G2-Youper/Report](https://github.com/1ASI0730-2510-4370-G2-Youper/Report)
+
+**TB2 Network Graph**
+<figure style="text-align: center;">
+    <img src="./resources/networkGraphtb2.png" alt="TB1 Network Graph">
+</figure>
+
+**TB2 Contributors**
+<figure style="text-align: center;">
+    <img src="./resources/contributorTb2.png" alt="TB1 Contributors">
+</figure>
+
+**TB2 Pulse**
+<figure style="text-align: center;">
+    <img src="./resources/pulseTb2.png" alt="TB1 Pulse">
+</figure>
 
 # **Student Outcome**
 
@@ -154,8 +170,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | ------------------- | ------------------- | ------------ |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en las reuniones y decisiones del equipo, cumpliendo mi parte del trabajo en los plazos establecidos, demostrando compromiso y responsabilidad con el desarrollo del proyecto y del equipo. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TP** <br> Realicé correcciones de los items retroalimentados por el docente, compartiendo ideas de solución y desarrollo con mi equipo. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TB2** <br> Participé activamente en el desarrollo de los items requeridos en el present sprint, cumpliendo con mis tareas asignadas en el tiempo establecido y aportando soluciones para la implementación y corrección de las retroalimentaciones recibidas. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que nos permite realizar avances y cumplir con las tareas asignadas, cumpliendo con estas de manera eficiente y en el plazo planificado. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TP** <br> Fomenté la organización y planificación de tareas a partir de las retroalimentaciones brindadas por el docente para las correcciones respectivas en el informe y para el desarrollo de la primera versión de la Web Application. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TB2** <br> Aporté en la planificación de tareas para cumplir con los objetivos en el presente sprint, brindando retroalimentación continua a mis compañeros de equipo. | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en las reuniones y decisiones del equipo, cumpliendo mi parte del trabajo en los plazos establecidos, demostrando compromiso y responsabilidad con el desarrollo del proyecto y del equipo. <br> **TP** <br> Realicé correcciones de los items retroalimentados por el docente, compartiendo ideas de solución y desarrollo con mi equipo. <br>  **TB2** <br> Participé activamente en el desarrollo de los items requeridos en el present sprint, cumpliendo con mis tareas asignadas en el tiempo establecido y aportando soluciones para la implementación y corrección de las retroalimentaciones recibidas. <br> <br> **Tantaleán Mesta, Guillermo Fabián** <br> **TB1** <br> Participé activamente en las reuniones y en la toma de decisiones del equipo, cumpliendo puntualmente con mis responsabilidades asignadas. Mostré compromiso con el proyecto y contribuí al buen funcionamiento del grupo, fomentando la colaboración constante. <br> **TP** <br> Aporté en la mejora del proyecto mediante la revisión de los puntos señalados por el docente, compartiendo propuestas de solución con el equipo. Estas correcciones se implementaron de forma conjunta, promoviendo el trabajo colaborativo y el liderazgo compartido. <br> **TB2** <br> Me involucré activamente en el desarrollo de los elementos definidos para este sprint, cumpliendo con mis tareas dentro del plazo acordado. Colaboré con el equipo en la implementación de soluciones y en la incorporación de ajustes derivados de la retroalimentación.| **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. <br> **TB2** <br> Como equipo, demostramos un liderazgo compartido y una colaboración constante a lo largo del proyecto. Cada integrante asumió con responsabilidad sus tareas, participó activamente en las decisiones grupales y apoyó a los demás cuando fue necesario. Esta dinámica fortaleció el avance del proyecto y permitió mantener una coordinación efectiva incluso frente a retos o cambios. El liderazgo no se concentró en una sola persona, sino que fue ejercido de manera conjunta y equilibrada, potenciando el trabajo colaborativo.
+. |
+ Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que nos permite realizar avances y cumplir con las tareas asignadas, cumpliendo con estas de manera eficiente y en el plazo planificado. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TP** <br> Fomenté la organización y planificación de tareas a partir de las retroalimentaciones brindadas por el docente para las correcciones respectivas en el informe y para el desarrollo de la primera versión de la Web Application. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TB2** <br> Aporté en la planificación de tareas para cumplir con los objetivos en el presente sprint, brindando retroalimentación continua a mis compañeros de equipo. <br> <br> **Tantaleán Mesta, Guillermo Fabián** <br> **TB1** <br> Fomenté un ambiente de trabajo respetuoso y participativo, valorando las ideas de cada integrante. Contribuí a definir objetivos claros y realistas, promoviendo la inclusión de todos los miembros en las decisiones del equipo desde las primeras etapas del proyecto. <br> **TP** <br> Participé activamente en la planificación y organización de tareas, promoviendo la colaboración entre los integrantes para alcanzar las metas del sprint. Coordiné con el equipo para distribuir el trabajo de manera equilibrada y asegurar el cumplimiento de los objetivos. <br> **TB2** <br> Me encargué de establecer metas específicas junto al equipo, definiendo prioridades y planificando las actividades necesarias para cumplir con los entregables del proyecto. Impulsé un entorno inclusivo en el que todos pudimos aportar, resolver dificultades y cumplir con lo programado de manera efectiva. | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación.<br> **TB2** <br> A lo largo del proyecto, si bien logramos cumplir con los objetivos principales, el proceso de planificación y distribución de tareas presentó algunos retos. En ciertos momentos, la coordinación no fue del todo clara y hubo dificultades para alinear tiempos y compromisos individuales con las metas del equipo. A pesar de ello, supimos adaptarnos y mejorar nuestra comunicación interna para poder avanzar. Reconocemos que, aunque existió disposición al trabajo colaborativo, podemos fortalecer aún más la planificación anticipada, la organización de tareas y el aprovechamiento del aporte de todos los integrantes en igualdad de condiciones.
 
 
 # Capítulo I: Introducción
@@ -179,9 +196,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
 | <img src="resources/GuillermoTantalean_Profile.jpg" width="500"> | Me llamo Guillermo Tantaleán, soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo habilidades para comunicarme acertivamente, me enfoco en el desarrollo de aplicaciones web y móvil, tengo conocimientos de business management, leadership, emprendimientos y negocios. Soy un amante de la tecnología y del buen café. Tengo buenas habilidades de trabajo en equipo. Domino lenguajes como Swift, Python, y C++. |
 | ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa)  | Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal. |
-
-| <img src="resources/Raul_Tasayco_Profile.jpg" width="135" height="165" > | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
-| <img src="resources/yo.jpeg"> | Mi nombre es Joel Prudencio Alcantara, soy estudiante de ingenieria de software, apasionado por involucrarse en proyectos desafiantes de programación, con experiencia en soporte técnico y el desarrollo de programas utilizando c++, javascript y typescript. |
+| <img src="resources/yo.jpeg"> | Mi nombre es Joel Prudencio Alcantara, soy estudiante de ingenieria de software, apasionado por involucrarse en proyectos desafiantes de programación, con experiencia en soporte técnico y el desarrollo de programas utilizando c++, javascript y typescript.  |
 
 
 
@@ -2114,24 +2129,9 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 | guillermotantalean1 / youper-backend | main | 891cf36 | fix(docs): update README. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
 | guillermotantalean1 / youper-backend | main | e1f49e9 | chore: initial commit, create initial structure to web services. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
-
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
-
-#### 5.2.3.8. Team Collaboration Insights during Sprint
-
-
-## 5.3. Validation Interviews
-
-### 5.3.1. Diseño de Entrevistas
-
-### 5.3.2. Registro de Entrevistas
-
-### 5.3.3. Evaluaciones según heurísticas
 
 ### 5.4. Video About-the-Product.
+- Enlace al video "About the Product": [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EUMt1iD1HPtDq6woMCg7Tb0Bn3kIxoTdt3nV9l9wDgNUMQ?e=RDr6z5)
 
 
 ### Conclusiones
@@ -2157,6 +2157,26 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 - World Health Organization: WHO. (2022, 8 junio). Trastornos mentales. https://www.who.int/es/news-room/fact-sheets/detail/mental-disorders
 
 ### Anexos
+
+- Enlace para acceder al [Figma](https://www.figma.com/design/A2Pd9XD8hb39RlUyH4HEq4/Untitled?node-id=0-1&t=AvTmOHG18SL85ZHR-1)
+
+- Enlace para acceder al  [repositorio Front-end](https://github.com/1ASI0730-2510-4370-G2-Youper/youper-frontend/tree/main)
+
+
+- Enlace para acceder al [repositorio Back-end](https://github.com/1ASI0730-2510-4370-G2-Youper/youper-backend/tree/feature/patient-experience)
+
+
+- Enlace para acceder al [repositorio Landing-page](https://github.com/1ASI0730-2510-4370-G2-Youper/Landing-Page)
+
+- Enlace para acceder al [Landing-page](https://1asi0730-2510-4370-g2-youper.github.io/Landing-Page/#testimonial)
+
+- Enlace para acceder al [repositorio Informe](https://github.com/1ASI0730-2510-4370-G2-Youper/Report/tree/develop)
+
+- Enlace para acceder al [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EehRHzeUzTVIk_1x2w5c9jMBLPWx8E-bYvv4Bpu6DVNGkQ?e=w2ncV4)
+
+- Enlace al video "About the Product": [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EUMt1iD1HPtDq6woMCg7Tb0Bn3kIxoTdt3nV9l9wDgNUMQ?e=RDr6z5)
+
+- Enlace para acceder al [video exposicion tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EfakVzi6nYFMqSW9v0S78tkBQPMRXhjPD0W5hqqX811yGQ?e=0Rkzgh)
 
 
 
