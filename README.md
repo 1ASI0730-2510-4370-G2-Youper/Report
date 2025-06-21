@@ -149,7 +149,7 @@ URL Project Report (Github): [https://github.com/1ASI0730-2510-4370-G2-Youper/Re
 
 **TB2 Network Graph**
 <figure style="text-align: center;">
-    <img src="public\assets\images\Insights\Networkgraph.png" alt="TB1 Network Graph">
+    <img src="./resources/networkGraphtb2.png" alt="TB1 Network Graph">
 </figure>
 
 **TB2 Contributors**
