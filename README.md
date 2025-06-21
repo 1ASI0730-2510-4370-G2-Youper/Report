@@ -2087,6 +2087,21 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
+| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|--------------------|------------|---------------|--------------------|-------------------------|-------------------------|
+| PedroJ18 / youper-frontend | develop | a4b8970 | feat: add tips module page | Se añadió la página de Consejos | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 8d40b28 | feat: add stories module page | Se añadió la página de Historias | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 7166678 | feat: update interpersonal module page | Actualización de la página del Módulo Interpersonal | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 8715282 | feat: add base service | Se añadió el servicio base del proyecto | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 81d4141 | feat: add db.json | Se añadió el db.json para el proyecto | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 9549f9c | feat: add environments | Se añadió los environments | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | ddc405b | feat: update project | Actualización del proyecto | Jun 16, 2025 |
+| PedroJ18 / youper-backend | feature/patient-experience | 7c9e4a8 | feat(patient-experience): added interpersonal module API services | Creación del API Services del Módulo Interpersonal | Jun 20, 2025 |
+| guillermotantalean1 / youper-backend | main | 6499460 | feat(backend): add new bounded context initial structure. | Creación de la estructura inicial de Users | Jun 19, 2025 |
+| guillermotantalean1 / youper-backend | main | 12dfa0e | add files for the initial structure for IAM bounded context. | Se añadió la estructura inicial para IAM | Jun 13, 2025 |
+| guillermotantalean1 / youper-backend | main | 891cf36 | fix(docs): update README. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
+| guillermotantalean1 / youper-backend | main | e1f49e9 | chore: initial commit, create initial structure to web services. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
