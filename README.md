@@ -2129,24 +2129,9 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 | guillermotantalean1 / youper-backend | main | 891cf36 | fix(docs): update README. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
 | guillermotantalean1 / youper-backend | main | e1f49e9 | chore: initial commit, create initial structure to web services. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
 
-#### 5.2.3.5. Execution Evidence for Sprint Review
-
-#### 5.2.3.6. Services Documentation Evidence for Sprint Review
-
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review
-
-#### 5.2.3.8. Team Collaboration Insights during Sprint
-
-
-## 5.3. Validation Interviews
-
-### 5.3.1. Diseño de Entrevistas
-
-### 5.3.2. Registro de Entrevistas
-
-### 5.3.3. Evaluaciones según heurísticas
 
 ### 5.4. Video About-the-Product.
+- Enlace al video "About the Product": [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EUMt1iD1HPtDq6woMCg7Tb0Bn3kIxoTdt3nV9l9wDgNUMQ?e=RDr6z5)
 
 
 ### Conclusiones
