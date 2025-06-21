@@ -196,9 +196,7 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
 | <img src="resources/GuillermoTantalean_Profile.jpg" width="500"> | Me llamo Guillermo Tantaleán, soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo habilidades para comunicarme acertivamente, me enfoco en el desarrollo de aplicaciones web y móvil, tengo conocimientos de business management, leadership, emprendimientos y negocios. Soy un amante de la tecnología y del buen café. Tengo buenas habilidades de trabajo en equipo. Domino lenguajes como Swift, Python, y C++. |
 | ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa)  | Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal. |
-
-| <img src="resources/Raul_Tasayco_Profile.jpg" width="135" height="165" > | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
-| <img src="resources/yo.jpeg"> | Mi nombre es Joel Prudencio Alcantara, soy estudiante de ingenieria de software, apasionado por involucrarse en proyectos desafiantes de programación, con experiencia en soporte técnico y el desarrollo de programas utilizando c++, javascript y typescript. |
+| <img src="resources/yo.jpeg"> | Mi nombre es Joel Prudencio Alcantara, soy estudiante de ingenieria de software, apasionado por involucrarse en proyectos desafiantes de programación, con experiencia en soporte técnico y el desarrollo de programas utilizando c++, javascript y typescript.  |
 
 
 
@@ -2174,6 +2172,26 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 - World Health Organization: WHO. (2022, 8 junio). Trastornos mentales. https://www.who.int/es/news-room/fact-sheets/detail/mental-disorders
 
 ### Anexos
+
+- Enlace para acceder al [Figma](https://www.figma.com/design/A2Pd9XD8hb39RlUyH4HEq4/Untitled?node-id=0-1&t=AvTmOHG18SL85ZHR-1)
+
+- Enlace para acceder al  [repositorio Front-end](https://github.com/1ASI0730-2510-4370-G2-Youper/youper-frontend/tree/main)
+
+
+- Enlace para acceder al [repositorio Back-end](https://github.com/1ASI0730-2510-4370-G2-Youper/youper-backend/tree/feature/patient-experience)
+
+
+- Enlace para acceder al [repositorio Landing-page](https://github.com/1ASI0730-2510-4370-G2-Youper/Landing-Page)
+
+- Enlace para acceder al [Landing-page](https://1asi0730-2510-4370-g2-youper.github.io/Landing-Page/#testimonial)
+
+- Enlace para acceder al [repositorio Informe](https://github.com/1ASI0730-2510-4370-G2-Youper/Report/tree/develop)
+
+- Enlace para acceder al [video about the team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EehRHzeUzTVIk_1x2w5c9jMBLPWx8E-bYvv4Bpu6DVNGkQ?e=w2ncV4)
+
+- Enlace al video "About the Product": [Ver en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EUMt1iD1HPtDq6woMCg7Tb0Bn3kIxoTdt3nV9l9wDgNUMQ?e=RDr6z5)
+
+- Enlace para acceder al [video exposicion tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202311958_upc_edu_pe/EfakVzi6nYFMqSW9v0S78tkBQPMRXhjPD0W5hqqX811yGQ?e=0Rkzgh)
 
 
 
