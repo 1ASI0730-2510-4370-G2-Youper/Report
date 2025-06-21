@@ -1621,7 +1621,7 @@ En esta sección se explica y evidencia el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page, Web Services y Frontend Web
 Applications.
 
-### 5.2.1. Sprints
+### 5.2.1. Sprint 1
 
 ## 5.2.1.1. Sprint Planning 1
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
@@ -1812,7 +1812,7 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 
 ![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
 
-### 5.2.2. Sprints
+### 5.2.2. Sprint 2
 
 ## 5.2.2.1. Sprint Planning 2
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
@@ -2014,6 +2014,91 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 ![8f192e66-4121-4108-97d2-c09a23085e08](https://github.com/user-attachments/assets/4d970651-debc-4795-a226-0d849f7224a6)
 
 ![image](https://github.com/user-attachments/assets/a03852b6-59b4-4681-b607-3edea894f3e1)
+
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Spring Planning 3
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-06-02</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">4:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Servidor de Discord del equipo</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Guillermo Tantaleán</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8"> Nanfuñay Liza Pedro Jesús / Angel Berrospi Marin / Joel Prudencio Alcantara</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">Se tomaron en cuenta las retroalimentaciones brindadas por el docente con el objetivo de cumplir con los requerimientos y desarrollo de los items.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">Consideramos que nos faltó mejorar en ciertos aspectos como equipo respecto a la coordinación y análisis de las retroalimentaciones para el correcto desempeño y elaboracion del proyecto. </td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8"> La meta del Sprint 3 es solucionar las deficiencias de la entrega anterior. Así como cumplir con la elaboración de la segunda versión del Web Application y el desarrollo de la primera versión del Web Service.  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">16</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">16 Story Points</td>
+</tr>
+</table>   
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About-the-Product.
+
 
 ### Conclusiones
 
