@@ -147,6 +147,21 @@
 
 URL Project Report (Github): [https://github.com/1ASI0730-2510-4370-G2-Youper/Report](https://github.com/1ASI0730-2510-4370-G2-Youper/Report)
 
+**TB2 Network Graph**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\Networkgraph.png" alt="TB1 Network Graph">
+</figure>
+
+**TB2 Contributors**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\Contributors.png" alt="TB1 Contributors">
+</figure>
+
+**TB2 Pulse**
+<figure style="text-align: center;">
+    <img src="public\assets\images\Insights\Pulse.png" alt="TB1 Pulse">
+</figure>
+
 # **Student Outcome**
 
 **ABET – EAC - Student Outcome 5**
