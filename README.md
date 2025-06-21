@@ -139,7 +139,8 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |-----------|-----------|-----------|-----------|
-| TB1 | 07/04/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Tasayco Osorio Raul Hiroshi <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han incluído los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
+| TB1 | 07/04/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Tasayco Osorio Raul Hiroshi <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han incluido los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos |
+| TP | 05/05/2025 | - Tantaleán Mesta Guillermo Fabián <br> - Tasayco Osorio Raul Hiroshi <br> - Nanfuñay Liza Pedro Jesús <br> - Angel Guillermo Berrospi Marin <br> - Orellana Rodriguez Mel Andree | Se han actualizado los siguientes capítulos: <br> - Capítulo I: Introducción <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification <br> - Capítulo IV: Product Design <br> - Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 <br> - Avance de Conclusiones, Bibliografía y Anexos <br><br> Se han incluido los siguientes capítulos: <br> - Capítulo V: Sprint 2 <br> - Implementación de la primera versión de la Web Application |
 
 # **Project Report Collaboration Insights**
 
@@ -153,8 +154,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | ------------------- | ------------------- | ------------ |
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en las reuniones y decisiones del equipo, cumpliendo mi parte del trabajo en los plazos establecidos, demostrando compromiso y responsabilidad con el desarrollo del proyecto y del equipo. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que nos permite realizar avances y cumplir con las tareas asignadas, cumpliendo con estas de manera eficiente y en el plazo planificado. | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. |
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en las reuniones y decisiones del equipo, cumpliendo mi parte del trabajo en los plazos establecidos, demostrando compromiso y responsabilidad con el desarrollo del proyecto y del equipo. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TP** <br> Realicé correcciones de los items retroalimentados por el docente, compartiendo ideas de solución y desarrollo con mi equipo. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TB2** <br> Participé activamente en el desarrollo de los items requeridos en el present sprint, cumpliendo con mis tareas asignadas en el tiempo establecido y aportando soluciones para la implementación y corrección de las retroalimentaciones recibidas. | **TB1** <br> Se trabajó en equipo en reuniones remotas, proporcionamos conjuntamente un liderazgo de equipo integro para la elaboración de nuestro producto y el desarrollo profesional de cada miembro del equipo. |
+| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Nanfuñay Liza, Pedro Jesús** <br> **TB1** <br> Participé activamente en el desarrollo del proyecto mediante una organización en Github, plataforma que nos permite realizar avances y cumplir con las tareas asignadas, cumpliendo con estas de manera eficiente y en el plazo planificado. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TP** <br> Fomenté la organización y planificación de tareas a partir de las retroalimentaciones brindadas por el docente para las correcciones respectivas en el informe y para el desarrollo de la primera versión de la Web Application. <br> **Nanfuñay Liza, Pedro Jesús** <br> **TB2** <br> Aporté en la planificación de tareas para cumplir con los objetivos en el presente sprint, brindando retroalimentación continua a mis compañeros de equipo. | **TB1** <br> Creamos un entorno de trabajo colaborativo mediante el uso de medios de comunicación eficaces, donde cada integrante del equipo mostró compromiso y apoyo mutuo a través de reuniones, entregas anticipadas y revisiones constantes del informe del proyecto. Nos reunimos de manera periódica para aportar ideas y colaborar en cada etapa del desarrollo de nuestro producto y su documentación. |
 
 
 # Capítulo I: Introducción
@@ -178,9 +179,9 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 | <img src="resources/Angel_Berrospi_Profile.jpg"> | Me llamo Angel Guillermo Berrospi, soy estudiante de ingeniería de software, me considero una persona responsable y sociable con mis compañeros dando siempre alternativas de solución ante los problemas, me gusta aprender más sobre la tecnología y cómo progresa conforme pase el tiempo. Puedo brindar aporte al equipo por los conocimientos de programación cómo C++, SQL, y un poco de Python, HTML y CSS. Por lo tanto de esta forma trato de mejorar siempre cómo persona y profesional. |
 | <img src="resources/GuillermoTantalean_Profile.jpg" width="500"> | Me llamo Guillermo Tantaleán, soy estudiante de la carrera de Ingeniería de Software, actualmente cursando el quinto ciclo. Tengo habilidades para comunicarme acertivamente, me enfoco en el desarrollo de aplicaciones web y móvil, tengo conocimientos de business management, leadership, emprendimientos y negocios. Soy un amante de la tecnología y del buen café. Tengo buenas habilidades de trabajo en equipo. Domino lenguajes como Swift, Python, y C++. |
 | ![Andree](https://github.com/user-attachments/assets/5104b1ae-1ac7-40aa-93b6-d7dbda9b4efa)  | Mi nombre es Mel Andree Orellana Rodríguez. Soy estudiante de la carrera de Ingeniería de Software en la UPC y actualmente me encuentro cursando el séptimo ciclo.Tengo conocimientos en C++ y estoy desarrollándome en JavaScript, lo que me ha permitido ampliar mis habilidades hacia el desarrollo web. Me considero una persona comprensiva, con buena capacidad de comunicación y trabajo en equipo. Siempre estoy dispuesta a aprender cosas nuevas y a seguir mejorando. Además, me gusta colaborar y apoyar en lo que pueda ser útil, especialmente en proyectos donde pueda aportar valor y seguir creciendo tanto a nivel profesional como personal. |
+
 | <img src="resources/Raul_Tasayco_Profile.jpg" width="135" height="165" > | Mi nombre es Raul Hiroshi Tasayco Osorio, soy un estudiante de la carrera de Ingeniería de Software, me gusta trabajar en equipo, puesto que me considero alguien responsable y que puede dar buenos aportes al grupo, en cuanto a las tecnólogías que aprendí tanto adentro como afuera de la universidad se encuentran Python, C++, HTML, CSS, SQL, Mariadb. Considero que estos trabajos en grupo nos ayudan bastante para poder tener una buena coordinación en equipo y mejorar mutuamente. |
 | <img src="resources/yo.jpeg"> | Mi nombre es Joel Prudencio Alcantara, soy estudiante de ingenieria de software, apasionado por involucrarse en proyectos desafiantes de programación, con experiencia en soporte técnico y el desarrollo de programas utilizando c++, javascript y typescript. |
-
 
 
 
@@ -203,9 +204,12 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 1.2.2.1. Lean Ux Problem Statment
 ###
-"Nuestra plataforma de salud mental fue diseñada originalmente para brindar apoyo emocional accesible y asequible a adultos, jóvenes profesionales y personas con alta carga laboral que sufren de ansiedad, estrés y baja autoestima. Hemos observado, a través de feedback de usuarios y métricas de engagement, que el producto no está cumpliendo con nuestras expectativas, lo que está generando bajas tasas de retención y pocos casos de éxito documentados en nuestro negocio.
+Nuestra plataforma de salud mental tiene como objetivo principal proporcionar apoyo emocional accesible y asequible a adultos jóvenes, profesionales con alta carga laboral y usuarios que buscan mejorar su bienestar emocional a través de recursos digitales como meditación guiada, seguimiento emocional y recomendaciones personalizadas.
 
-¿Cómo podríamos ajustar nuestra estrategia de personalización y método de entrega de apoyo para que nuestros usuarios logren mayor éxito, medido a través de un aumento en la frecuencia de uso, mejores puntuaciones de satisfacción y progreso cuantificable en indicadores de bienestar emocional?"
+Se ha detectado que, a pesar de contar con una oferta variada de recursos, muchos usuarios no perciben que las recomendaciones y contenidos sean lo suficientemente personalizados y alineados con sus necesidades individuales. Como resultado, se observa una baja frecuencia de uso, abandono prematuro y una menor percepción de valor del servicio.
+
+¿Cómo podríamos mejorar la eficacia y el valor de nuestra plataforma para que los usuarios sientan que los contenidos y recomendaciones están personalizados a sus necesidades emocionales y estilo de vida, logrando así un aumento en la frecuencia de uso y mejores resultados de bienestar emocional?
+
 
 ## 1.2.2.2. Lean UX Assumptions
 ### 
@@ -218,52 +222,36 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 ## 1.2.2.3. Lean UX Hypothesis Statements
 ###
 Hipótesis 1:
-Creemos que lograremos un aumento en el uso semanal de la app y una reducción en la tasa de abandono
-Si los jóvenes profesionales con poco tiempo para terapia
-Consiguen manejar sus niveles de estrés de manera más efectiva
-Mediante un sistema personalizado de acompañamiento emocional guiado por IA
+Creemos que ofrecer recomendaciones emocionales personalizadas y adaptadas a los intereses y estado emocional de cada usuario aumentará la percepción de valor y la frecuencia de uso de la app.
+Sabremos que estamos bien cuando veamos comentarios de los usuarios que mencionen que “las recomendaciones parecen hechas para mí” y un incremento del 20% en la frecuencia de uso semanal.
 
 Hipótesis 2:
-Creemos que lograremos mayores interacciones diarias y retención a 30 días
-Si los usuarios emocionalmente sobrecargados
-Consiguen sentirse más en control de su estado mental
-Mediante la personalización de su panel emocional y recordatorios
+Creemos que un panel emocional dinámico que muestre contenidos y sugerencias basadas en el estado emocional diario de cada usuario hará que los usuarios sientan que la app se adapta a sus necesidades individuales.
+Sabremos que estamos bien cuando veamos feedback como “la app me entiende mejor” y un aumento de la retención a 30 días en al menos un 15%.
 
 Hipótesis 3:
-Creemos que lograremos valoraciones positivas de la app (más de 4 estrellas)
-Si los usuarios con ansiedad o problemas de sueño
-Consiguen reducir su estrés percibido y mejorar su calidad de sueño
-Mediante ejercicios de respiración, meditaciones y sonidos relajantes
+Creemos que incluir meditaciones, ejercicios de respiración y sonidos relajantes basados en el historial emocional y preferencias del usuario ayudará a mejorar su percepción de valor y bienestar emocional.
+Sabremos que estamos bien cuando las valoraciones promedio de la app superen las 4 estrellas y haya menciones de “me ayuda a reducir el estrés” o “mejoró mi calidad de sueño”.
 
 Hipótesis 4:
-Creemos que lograremos mayor adopción entre terapeutas
-Si los profesionales de la salud mental
-Consiguen hacer un seguimiento más preciso y planificar terapias personalizadas
-Mediante un panel de control con historial emocional y de actividad de los pacientes
+Creemos que permitir a los psicólogos y profesionales de salud mental adaptar las recomendaciones y contenidos a cada paciente reforzará la sensación de personalización de la experiencia emocional.
+Sabremos que estamos bien cuando haya comentarios de los profesionales que indiquen “mejor seguimiento y apoyo a mis pacientes” y un aumento de uso semanal del panel profesional en un 20%
 
 Hipótesis 5:
-Estimamos que lograremos aumentar la retención en los primeros 7 días en un 40%
-Si los usuarios nuevos que exploran herramientas emocionales
-Consiguen una experiencia de valor rápido
-Mediante planes de salud mental cortos con metas claras (ej. reducir ansiedad en 7 días)
+Creemos que diseñar planes de bienestar emocional personalizados con metas claras y progresivas para cada usuario generará mayor compromiso y resultados positivos en el corto plazo.
+Sabremos que estamos bien cuando veamos retroalimentación como “siento que avanzo paso a paso” y un aumento de la retención de usuarios en el primer mes en un 30%.
 
 Hipótesis 6:
-Creemos que lograremos aumentar los usuarios activos diarios y formación de hábitos saludables
-Si los usuarios con estados emocionales fluctuantes
-Consiguen mayor conciencia emocional y autorreflexión
-Mediante notificaciones diarias para registrar el estado de ánimo con preguntas breves
+Creemos que implementar recordatorios personalizados basados en los intereses y estado emocional de cada usuario fomentará la autorreflexión y el uso continuo de la plataforma.
+Sabremos que estamos bien cuando el número de interacciones diarias por usuario aumente en un 25% y aparezcan comentarios como “los recordatorios me ayudan a seguir trabajando en mi bienestar”.
 
 Hipótesis 7:
-Estimamos que lograremos extender la duración promedio de las sesiones y reducir el abandono en un 20%
-Si los usuarios que se sienten aislados pero no buscan ayuda profesional
-Consiguen mayor sentido de comunidad y reducción del estigma
-Mediante espacios de apoyo entre pares anónimos moderados por IA
+Creemos que ofrecer espacios virtuales para que los usuarios compartan sus experiencias emocionales y reciban apoyo emocional moderado por IA fortalecerá la percepción de personalización y comunidad.
+Sabremos que estamos bien cuando se observe un aumento en el tiempo medio de uso por sesión y comentarios como “me siento acompañado y comprendido”.
 
 Hipótesis 8:
-Suponemos que lograremos aumentar la adopción de funciones en las primeras 3 sesiones
-Si los nuevos usuarios que no conocen herramientas digitales de salud mental
-Consiguen menor fricción inicial y mejor comprensión del valor de la app
-Mediante una introducción guiada por un coach conversacional con IA
+Creemos que una guía inicial personalizada (onboarding) que adapte las funciones de la app a los intereses y estado emocional del usuario mejorará la percepción de personalización y reducirá la fricción inicial.
+Sabremos que estamos bien cuando recibamos comentarios como “me resultó fácil empezar” y un aumento en la adopción de funcionalidades clave en las primeras 3 sesiones.
 
 ## 1.2.2.4. Lean UX Canvas
 ![image_lean_product_canvas](resources/lean_product_canvas.png)
@@ -410,45 +398,48 @@ ___
 ### 2.2.1. Diseño de entrevistas
 
 Se han realizado las siguientes preguntas correspondiente a la realización de entrevistas por segmento objetivo:
+
+**Segmento 1: Jóvenes Adultos con Estrés/Ansiedad**
 ___
-**Segmento 1: Jóvenes Adultos con Estrés o Ansiedad**
-___
-* ¿Con qué frecuencia experimentas ansiedad o estrés en tu vida diaria, y qué situaciones específicas (estudios, trabajo, relaciones familiares o personales) las desencadenan más?
-* ¿Qué emociones dominan tus días (ansiedad, frustración, tristeza, agotamiento), y qué estrategias intentas usar para manejarlas, ya sea por tu cuenta o con ayuda?
-* ¿Has buscado apoyo emocional antes, y si es así, qué experiencias tuviste con psicólogos, amigos o herramientas digitales (como apps o sitios web)?
-* ¿Qué tan cómodo te sentirías usando una aplicación para registrar tus emociones de forma privada, y qué características te harían confiar más en ella?
-* ¿Te interesaría que una app te enviara preguntas diarias para reflexionar sobre tus emociones, y qué tipo de preguntas te ayudarían más?
-* ¿Qué tipo de contenido (meditaciones guiadas, ejercicios de respiración, frases motivadoras, música relajante o algo diferente) te gustaría tener en una app para apoyarte emocionalmente, y por qué?
-* ¿En qué momentos del día sientes mayor vulnerabilidad emocional, y qué tipo de apoyo (inmediato, estructurado, breve) te gustaría recibir en esos instantes?
-* ¿Qué tan crucial es para ti que una app sea completamente discreta y proteja tu información sensible, y qué te preocuparía si no lo fuera?
-* ¿Prefieres que una app te sugiera ejercicios automáticamente según tu estado de ánimo o que te permita elegirlos manualmente, y por qué?
-* ¿Qué esperas lograr a largo plazo con una app emocional (sentirte más calmado, mejorar tu sueño, ganar claridad mental, aumentar tu autoestima), y cómo medirías ese progreso?
+**Experiencia emocional**
+* Descríbeme cómo se manifiesta físicamente y emocionalmente tu estrés o ansiedad en un día difícil
+* Háblame de la última vez que sentiste que perdías el control de tus emociones. ¿Qué pasó antes, durante y después?
+
+**Soluciones intentadas**
+* Muéstrame cómo buscas ayuda actualmente cuando te sientes abrumado(a). ¿Qué pasos sigues exactamente?
+* ¿Qué ha funcionado y qué no en las herramientas/apps que has probado? Dame ejemplos concretos
+
+**Expectativas**
+* Si tuvieras una varita mágica para diseñar el apoyo emocional perfecto, ¿cómo funcionaría en tu rutina diaria?"
+* ¿Qué te haría confiar lo suficiente como para compartir tus estados emocionales con una app diariamente?
 ___
 **Segmento 2: Adultos con Carga Laboral**
 ___
-* ¿Qué estrategias utilizas para desconectarte mental o emocionalmente al terminar tu jornada laboral, y qué tan efectivas consideras que son?
-* ¿Hay momentos en los que te cuesta conciliar el sueño debido a pensamientos relacionados con el trabajo, y qué intentas hacer en esas situaciones para relajarte?
-* ¿Con qué frecuencia sientes agotamiento emocional a pesar de estar físicamente bien, y qué factores laborales crees que lo desencadenan?
-* ¿Cómo describirías tu estado mental un lunes por la mañana y un viernes por la noche con una frase o palabra clave, y por qué crees que varía?
-* ¿Qué elementos (privacidad total, respaldo científico, anonimato, acceso sin conexión, diseño intuitivo, etc.) te harían confiar plenamente en una app emocional como Youper?
-* Si supieras que tus datos emocionales se utilizan exclusivamente para personalizar tu experiencia y mejorar la app, ¿te sentirías cómodo o no, y qué aspectos te preocuparían o tranquilizarían?
-* ¿Te parecería útil que la app se integre con tu smartwatch o pulsera para monitorear tu estrés en tiempo real y ofrecerte recomendaciones inmediatas, y qué tipo de recomendaciones valorarías más?
-* ¿Cómo te gustaría sentirte después de usar una app como Youper durante un mes (más tranquilo, motivado, con mejor autoestima, durmiendo mejor), y qué señales te indicarían que está funcionando?
-* ¿Qué características o incentivos (notificaciones personalizadas, progreso visible, ejercicios cortos, recompensas) harían que la app se integre fácilmente en tu rutina diaria sin sentirse como una carga adicional?
-* ¿Te interesaría que la app detecte momentos en los que podrías necesitar apoyo profesional y te brinde orientación confidencial, y qué tipo de soporte buscarías en esos casos?
+**Rutinas y dolor points**
+* Dime paso a paso por tu ritual al terminar el trabajo. ¿Qué ayuda o dificulta tu desconexión?
+* ¿Qué señales corporales notas cuando el estrés laboral está afectando tu salud emocional?
+
+**Integración tecnológica**
+* ¿Cómo y cuándo revisas tu teléfono durante tu jornada? ¿Qué tipo de notificaciones sí abrirías?
+* Si tu smartwatch pudiera detectar tu estrés, ¿qué acción te gustaría que disparara automáticamente?
+
+**Barreras**
+* ¿Qué te ha detenido de usar apps de salud mental consistentemente en el pasado?"
+* ¿Qué garantías necesitarías sobre el uso de tus datos para sentirte seguro usando esta app diariamente?
 ___
-**Segmento 3: Especialistas de la Salud Mental**
+**Segmento 3: Especialistas de Salud Mental**
 ___
-* ¿Qué herramientas digitales utilizas actualmente para acompañar a tus pacientes, y qué limitaciones encuentras en ellas para el seguimiento emocional?
-* ¿Cuáles son los principales desafíos que enfrentas al dar seguimiento emocional a tus pacientes fuera de las consultas presenciales o virtuales?
-* ¿Te gustaría tener una plataforma donde tus pacientes registren sus emociones y tú puedas monitorear su progreso de forma estructurada y confidencial?
-* ¿Qué tipo de información (ej., patrones emocionales, respuestas a ejercicios, niveles de estrés) consideras esencial para evaluar el bienestar emocional de un paciente entre sesiones?
-* ¿Te interesaría que la app genere un resumen automático del estado emocional de tus pacientes basado en sus registros, y qué detalles te gustaría que incluya?
-* ¿Qué formato prefieres para recibir reportes sobre el progreso de tus pacientes: gráficos visuales, texto detallado, alertas personalizadas, o una combinación, y por qué?
-* ¿Te sentirías cómodo recomendando una app como complemento terapéutico a tus pacientes, y qué factores influirían en tu decisión (seguridad, evidencia científica, facilidad de uso)?
-* ¿Qué características (seguridad de datos, diseño intuitivo, integración con otros sistemas, etc.) te darían confianza para usar una app y recomendarla a tus pacientes?
-* ¿Considerarías útil que los pacientes puedan enviarte feedback directo sobre los ejercicios o herramientas que usaron, y cómo te ayudaría eso en tu práctica?
-* ¿Qué funciones adicionales (ej., alertas personalizadas, análisis predictivo, colaboración con otros especialistas) te gustaría ver en una app de salud emocional diseñada para profesionales como tú?
+**Flujo de trabajo actual**
+* Descríbeme cómo monitoreas el progreso emocional de tus pacientes entre sesiones actualmente
+* ¿Qué información crítica sueles perder por no tener seguimiento continuo?"
+
+**Integración tecnológica**
+* Dime cómo incorporarías los datos de una app en tu próxima sesión con un paciente. ¿Qué información sería útil?"
+* ¿Qué tipo de alertas te gustaría recibir sobre un paciente entre sesiones y por qué canal?
+
+**Validación clínica**
+* ¿Qué métricas objetivas usarías para determinar si una app está ayudando realmente a tu paciente?
+* ¿Qué certificaciones o estándares son no negociables para que recomiendes una app a tus pacientes? 
 
 ### 2.2.2. Registro de entrevistas
 
@@ -751,7 +742,7 @@ Tras analizar las Epics definidas, procedimos a desglosarlas en User Stories má
 
 | Epic / Story ID | Título                                            | Descripción                                                                                                           | Criterios de Aceptación                                                                                                                                      | Relacionado con (Epic ID) |
 |-----------------|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-| US001           | Ver el historial de emociones                     | **Como** psicólogo, **Quiero** ver el historial de emociones**Para** hacer un seguimiento del progreso del usuario.               | Dado que soy psicólogo y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo ver el historial de emociones para hacer un seguimiento del progreso del usuario. | EPIC005                    |
+| US001           | Ver el historial de emociones                     | **Como** psicólogo, **Quiero** ver el historial de emociones **Para** hacer un seguimiento del progreso del usuario.               | Dado que soy psicólogo, Cuando accedo a la app, Entonces puedo ver el historial de emociones para hacer un seguimiento del progreso del usuario. | EPIC005                    |
 | US002           | Recibir recomendaciones diarias                   | Como administrador, Quiero recibir recomendaciones diarias Para mejorar mi bienestar emocional.                      | Dado que soy administrador y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo recibir recomendaciones diarias para mejorar mi bienestar emocional.         | EPIC004                    |
 | US003           | Escuchar música relajante                         | Como responsable, Quiero escuchar música relajante Para reducir mi nivel de estrés.                                  | Dado que soy responsable y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo escuchar música relajante para reducir mi nivel de estrés.                   | EPIC002                    |
 | US004           | Ver los datos de sueño                            | Como usuario con problemas de sueño, Quiero ver los datos de sueño Para mejorar la calidad del descanso.              | Dado que soy usuario con problemas de sueño y necesito apoyo emocional, Cuando accedo a la app, Entonces puedo ver los datos de sueño para mejorar la calidad del descanso. | EPIC009                    |
@@ -827,6 +818,13 @@ Tras analizar las Epics definidas, procedimos a desglosarlas en User Stories má
 | US073           | Comparación de emociones por semana              | Como usuario, Quiero comparar mis emociones entre semanas Para identificar patrones de cambio emocional. | Dado que hay registros semanales suficientes, Cuando accede al panel de comparación, Entonces ve gráficas comparativas por semana.                        | EPIC005                    |
 | US074           | Modo oscuro automático                           | Como usuario, Quiero que la app cambie automáticamente a modo oscuro de noche Para no forzar mi vista.   | Dado que son más de las 20:00 horas, Cuando se abre la app, Entonces se activa el modo oscuro automáticamente.                                              | EPIC011                    |
 | US075           | Evaluación emocional antes de sesiones           | Como usuario, Quiero completar una breve evaluación antes de una sesión Para que mi terapeuta entienda mi estado actual. | Dado que el usuario tiene una sesión programada, Cuando la sesión está por comenzar, Entonces se le solicita completar una evaluación rápida.         | EPIC003                    |
+| US076           | Visualizar propuesta de valor  | Como visitante, quiero entender rápidamente qué ofrece Youper para saber si me interesa usarlo.                 | - Dado que accedo al landing, cuando llego al primer scroll, entonces veo el eslogan y una frase clara con el beneficio principal. <br> - Dado que reviso el encabezado, cuando leo el subtítulo, entonces comprendo la propuesta de valor.                  | EPIC017                    |
+| US077           | Navegación sencilla            | Como visitante, quiero una navegación clara para explorar fácilmente cada sección del landing.                  | - Dado que accedo al sitio, cuando veo el menú superior, entonces encuentro enlaces a beneficios, planes, testimonios y contacto. <br> - Dado que hago clic en una sección del menú, cuando navego, entonces el scroll automático me lleva a esa sección. | EPIC017                    |
+| US078           | Llamado a la acción claro      | Como visitante, quiero ver botones de acción visibles para poder registrarme o descargar la app.                | - Dado que llego a la landing, cuando leo el primer bloque, entonces veo un botón con "Empieza ahora" o "Descarga la app". <br> - Dado que hago scroll, cuando termino de leer los beneficios, entonces veo otro botón de acción.                            | EPIC017                    |
+| US079           | Ver beneficios destacados      | Como visitante, quiero ver los beneficios que ofrece Youper para saber cómo puede mejorar mi bienestar.          | - Dado que hago scroll, cuando llego a la sección de beneficios, entonces visualizo íconos con textos breves explicativos. <br> - Dado que paso el cursor sobre un beneficio, cuando lo hago, entonces puedo ver una breve ampliación o tooltip.             | EPIC017                    |
+| US080           | Leer testimonios reales        | Como visitante, quiero leer testimonios de otros usuarios para confiar en la efectividad de Youper.              | - Dado que llego a la sección de testimonios, cuando leo, entonces veo nombres, fechas y experiencias reales. <br> - Dado que quiero ver más testimonios, cuando hago clic en las flechas o scroll, entonces se muestran nuevas opiniones.                  | EPIC017                    |
+| US081           | Comparar planes disponibles    | Como visitante, quiero ver los planes de suscripción para elegir el que mejor se adapte a mí.                    | - Dado que accedo a la sección de planes, cuando comparo precios y beneficios, entonces entiendo las diferencias. <br> - Dado que selecciono un plan, cuando hago clic en "Suscribirse", entonces soy redirigido al proceso de registro o pago.              | EPIC017                    |
+
 
 ## 3.3. Impact Mapping. 
 
@@ -1635,7 +1633,7 @@ En esta sección se explica y evidencia el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page, Web Services y Frontend Web
 Applications.
 
-### 5.2.1. Sprints
+### 5.2.1. Sprint 1
 
 ## 5.2.1.1. Sprint Planning 1
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
@@ -1826,7 +1824,7 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 
 ![image_5.2.1.8.TeamCollaboration01](resources/5.2.1.8.TeamCollaboration01.jpeg)
 
-### 5.2.2. Sprints
+### 5.2.2. Sprint 2
 
 ## 5.2.2.1. Sprint Planning 2
 En esta sección se especifica los aspectos principales del Sprint Planning Meeting.
@@ -2028,6 +2026,113 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 ![8f192e66-4121-4108-97d2-c09a23085e08](https://github.com/user-attachments/assets/4d970651-debc-4795-a226-0d849f7224a6)
 
 ![image](https://github.com/user-attachments/assets/a03852b6-59b4-4681-b607-3edea894f3e1)
+
+
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Spring Planning 3
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2025-06-02</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">4:00PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Servidor de Discord del equipo</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Guillermo Tantaleán</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8"> Nanfuñay Liza Pedro Jesús / Angel Berrospi Marin / Joel Prudencio Alcantara</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">Se tomaron en cuenta las retroalimentaciones brindadas por el docente con el objetivo de cumplir con los requerimientos y desarrollo de los items.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
+    <td colspan="8">Consideramos que nos faltó mejorar en ciertos aspectos como equipo respecto a la coordinación y análisis de las retroalimentaciones para el correcto desempeño y elaboracion del proyecto. </td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8"> La meta del Sprint 3 es solucionar las deficiencias de la entrega anterior. Así como cumplir con la elaboración de la segunda versión del Web Application y el desarrollo de la primera versión del Web Service.  
+
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8">16</td> 
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">16 Story Points</td>
+</tr>
+</table>   
+
+#### 5.2.3.2. Aspect Leaders and Collaborators
+
+| Team Member              | GitHub Username     | Documentación | Interfaz de la Landing Page | Planificación de la Landing Page | Desarrollo de la Landing Leader |
+|--------------------------|---------------------|--------------|---------------|----------|-------------|
+| Berrospi Angel | Guille-bers           | C            | C             | C        | C           | 
+| Nanfuñay Pedro | PedroJ18              | C            | C             | C        | C           | 
+| Tantaleán Fabian | guillermotantalean1 | C            | C             | L        | L           |
+| Prudencio Joel | joel5871              | C            | C             | C        | C           |
+
+#### 5.2.3.3. Sprint Backlog 3
+
+#### 5.2.3.4. Development Evidence for Sprint Review
+
+| **Repository**     | **Branch** | **Commit Id** | **Commit Message** | **Commit Message Body** | **Committed on (Date)** |
+|--------------------|------------|---------------|--------------------|-------------------------|-------------------------|
+| PedroJ18 / youper-frontend | develop | a4b8970 | feat: add tips module page | Se añadió la página de Consejos | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 8d40b28 | feat: add stories module page | Se añadió la página de Historias | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 7166678 | feat: update interpersonal module page | Actualización de la página del Módulo Interpersonal | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 8715282 | feat: add base service | Se añadió el servicio base del proyecto | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 81d4141 | feat: add db.json | Se añadió el db.json para el proyecto | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | 9549f9c | feat: add environments | Se añadió los environments | Jun 16, 2025 |
+| PedroJ18 / youper-frontend | develop | ddc405b | feat: update project | Actualización del proyecto | Jun 16, 2025 |
+| PedroJ18 / youper-backend | feature/patient-experience | 7c9e4a8 | feat(patient-experience): added interpersonal module API services | Creación del API Services del Módulo Interpersonal | Jun 20, 2025 |
+| guillermotantalean1 / youper-backend | main | 6499460 | feat(backend): add new bounded context initial structure. | Creación de la estructura inicial de Users | Jun 19, 2025 |
+| guillermotantalean1 / youper-backend | main | 12dfa0e | add files for the initial structure for IAM bounded context. | Se añadió la estructura inicial para IAM | Jun 13, 2025 |
+| guillermotantalean1 / youper-backend | main | 891cf36 | fix(docs): update README. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
+| guillermotantalean1 / youper-backend | main | e1f49e9 | chore: initial commit, create initial structure to web services. | Creación de la estructura inicial del Web Services | Jun 3, 2025 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+### 5.4. Video About-the-Product.
+
 
 ### Conclusiones
 
