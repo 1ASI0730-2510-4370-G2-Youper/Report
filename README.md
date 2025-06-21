@@ -2076,6 +2076,13 @@ En esta sección el equipo explica cómo se han desarrollado las actividades de 
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
+| Team Member              | GitHub Username     | Documentación | Interfaz de la Landing Page | Planificación de la Landing Page | Desarrollo de la Landing Leader |
+|--------------------------|---------------------|--------------|---------------|----------|-------------|
+| Berrospi Angel | Guille-bers           | C            | C             | C        | C           | 
+| Nanfuñay Pedro | PedroJ18              | C            | C             | C        | C           | 
+| Tantaleán Fabian | guillermotantalean1 | C            | C             | L        | L           |
+| Prudencio Joel | joel5871              | C            | C             | C        | C           |
+
 #### 5.2.3.3. Sprint Backlog 3
 
 #### 5.2.3.4. Development Evidence for Sprint Review
